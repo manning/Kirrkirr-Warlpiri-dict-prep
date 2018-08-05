@@ -1,0 +1,9 @@
+kurnpu (edible sap)	mardalyi (tree sp.)	6	10	6	-0.3	0.1	
+parlka (guttinggut, eviscerate, remove innards from)	pirla (leave, freed from, liberated from, sparedtake leave of, leave alone, spare, be rid of, be purged oftake turns at, give each other a go at)	3	8	6	-0.3	0.062	
+kulangarnti (fog, haze, mist)	puyukuyuku (fog, haze, mist)	6	6	15	-1.6	0.066	
+luku (heel, anklehind legs, hind feet, hind joint)	muurl (accurately, successfully, correctly, exactlyshoot and not miss, shoot accurately, shoot on targetspear on target, spear successfully, spear accuratelygive to right person, give to special person, give and fulfil obligation)	3	7	7	0	0.061	
+jurtarangi (rainbow)	pararri (rainbow)	7	9	12	-1.7	0.064	
+kapurlu (senior sister, big sistersisters, brother and senior sister)	warnarrpirlangu	4	9	7	2.5	0.063	
+turnumani	yarti	3	6	8	1.66	0.062	
+marnangkartari	yilyanypa (strong fighter, fierce person, bruiser)	4	7	8	1.5	0.071	
+wapiji (round stone, round rockshort club with round head SS)	wapukurru (big round stone weapon)	6	8	9	0	0.083	

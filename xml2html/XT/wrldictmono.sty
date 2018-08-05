@@ -1,0 +1,229 @@
+\iffalse
+% for casual
+\usepackage[casual,nolucidascale,expert]{lucidabr}
+\def\textbf#1{#1}
+\else
+\usepackage[nolucidascale,expert]{lucidabr}
+\fi
+\usepackage{bk14}
+
+\def\enumsquare{\raise1pt\hbox{$\scriptstyle\blacksquare$}}
+\renewcommand{\labelitemi}{\enumsquare}
+\def\enumiisquare{\raise1pt\hbox{$\scriptstyle\square$}}
+\renewcommand{\labelitemii}{\enumiisquare}
+
+
+%\setlength{\parskip}{0.5\baselineskip plus 3pt}
+\setlength{\parskip}{2pt plus 2pt}
+\setlength{\parindent}{0in}
+
+\setlength\columnsep{10mm}
+
+\newlength\leftfield
+\newlength\rightfield
+\newlength\dictindent
+
+\sloppy
+
+\if@twoside
+ \def\ps@dictheadings{\let\@mkboth\@gobbletwo
+  \def\@evenhead{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\strut\rightmark\ -- \leftmark\hfil}}
+   \vskip 1.5\p@ \hrule}}%
+  \def\@oddhead{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\hfil\strut\rightmark\ -- \leftmark}}
+   \vskip 1.5\p@ \hrule}}%
+  \def\@evenfoot{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\thepage\hfil}}}}%
+  \def\@oddfoot{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\hfil\thepage}}}}%
+  \def\chaptermark##1{}
+  \def\sectionmark##1{}}
+\else
+ \def\ps@dictheadings{\let\@mkboth\@gobbletwo
+  \def\@evenhead{}%
+  \def\@oddhead{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\hfil\strut\rightmark\ -- \leftmark}}
+   \vskip 1.5\p@ \hrule}}%
+  \def\@evenfoot{}%
+  \def\@oddfoot{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\hfil\thepage\hfil}}}}%
+  \def\chaptermark##1{}%
+  \def\sectionmark##1{}}
+\fi
+\raggedbottom
+
+\setlength{\headheight}{1.25\baselineskip}
+
+  \setlength{\leftfield}{0.45\textwidth}
+  \setlength{\rightfield}{0.45\textwidth}
+
+\setlength{\dictindent}{-1.5em}
+\addtolength{\leftfield}{-\dictindent}
+\addtolength{\rightfield}{-\dictindent}
+
+% vertical equivalent of \hidewidth
+\def\hideheight{\vskip-1000pt plus 1fill}
+
+
+\def\uprm#1{$^{\hbox{\scriptsize #1}}$}
+
+
+
+%%%
+
+\def\alt#1{$\rightsquigarrow$~#1. }
+\def\alti#1{#1}
+\def\altihnum#1#2{#2\uprm{#1}}
+
+\def\ant#1{Opposite:~#1. }
+\def\anti#1{#1}
+\def\antihnum#1#2{#2\uprm{#1}}
+
+\def\cf#1{$\dashrightarrow$~#1. }
+\def\cfi#1{#1}
+\def\cfihnum#1#2{#2\uprm{#1}}
+
+\def\cm#1{}
+
+\def\cme#1{} % delete for now
+\def\cmei#1{}
+\def\cmeihnum#1#2{}
+
+\def\cmp#1{#1}
+
+\def\criterion#1{\item}
+
+\def\csl#1{#1}
+
+\def\ct#1{#1}
+
+\def\df#1{#1.}
+
+\def\deriv#1{#1}
+
+\def\dialects#1{\textup{(#1)}}
+\def\dli#1{#1}
+
+\def\domain#1{}
+\def\dmi#1{}
+
+\def\et#1{}
+
+\newenvironment{examples}{\begin{itemize}\itemsep=0pt}{\end{itemize}}
+
+\def\gl#1{$\blacktriangleright$ #1.}
+\def\gli#1{#1}
+
+\def\hwsubhnum#1#2{% \hfill\par
+  \vskip 4pt plus 2pt minus 2pt
+%  \hangindent=-0.75em\hangafter=-1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\Large\textbf{\emph{#2}}\uprm{#1}}\markboth{#2}{#2}}
+
+\def\hwsub#1{% \hfill\par
+  \vskip 4pt plus 2pt minus 2pt
+%  \hangindent=-0.75em\hangafter=-1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\Large\textbf{\emph{#1}}}\markboth{#1}{#1}}
+
+\def\hwhnum#1#2{% \hfill\par
+  \vskip 6pt plus 2pt minus 2pt
+  \leavevmode\hspace*{\dictindent}
+% \hangindent=-0.75em\hangafter=-1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\LARGE\textbf{\emph{\uppercase{#2}}}\uprm{#1}}\markboth{#2}{#2}}
+
+\def\hw#1{% \hfill\par
+  \vskip 6pt plus 2pt minus 2pt
+  \leavevmode\hspace*{\dictindent}
+%  \hangindent=-0.75em\hangafter=-1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\LARGE\textbf{\emph{\uppercase{#1}}}}\markboth{#1}{#1}}
+
+\def\lat#1{#1}
+\def\latin#1{#1}
+
+\newenvironment{pdx}{\begin{itemize}\itemsep=0pt}{\end{itemize}}
+
+\def\pos#1{\emph{#1}}
+
+\def\pvl#1{$\hookrightarrow$~#1}
+\def\pvli#1{#1}
+\def\pvlihnum#1#2{#2\uprm{#1}}
+
+\def\ref#1{#1}
+\def\refa#1{#1}
+
+\def\registers#1{(#1)}
+\def\rgi#1{#1}
+
+\def\rem#1{#1}
+\def\rul#1{#1}
+
+\def\se#1{}
+\def\sei#1{}
+\def\seihnum#1#2{}
+
+\newenvironment{sense}{\begin{itemize}\item}{\end{itemize}}
+
+\def\src#1{} % delete! 
+
+\def\syn#1{$=$~#1.}
+\def\syni#1{#1}
+\def\synihnum#1#2{#2\uprm{#1}}
+
+\def\we#1{#1}
+
+\def\wed#1{\emph{#1}}
+
+\def\xme#1{$\Longrightarrow$~#1.}
+\def\xmei#1{#1}
+\def\xmeihnum#1#2{#2\uprm{#1}}
+
+
+
+%%%
+
+
+% A4 is 297 x 210 mm
+% These are good sizes 
+\textheight=246mm
+\textwidth=159mm
+\oddsidemargin=5mm\evensidemargin=0mm
+\topmargin=-10mm
+% \marginparwidth=.75in
+
+% play sizes for picture
+%\textheight=70mm
+%\textwidth=50mm
+%\oddsidemargin=-17.5mm\evensidemargin=-5mm
+%\topmargin=-17mm
+
+% xdvi -paper a5 &
+% \special{papersize=a5}
+
+% \columnsep=5mm
+
+\title{{\Huge\bf The Warlpiri Dictionary}}
+\author{Monolingual Warlpiri Dictionary Edition\\ \ \\
+DRAFT\\ \ \\Prototype not for distribution}
+\date{\vspace*{2in}This version prepared on \today\\
+by Christopher Manning\\
+from the electronic version of 11/3/98}
+
+\raggedright
+\large
+\everypar{\large}

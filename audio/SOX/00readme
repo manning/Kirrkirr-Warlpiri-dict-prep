@@ -1,0 +1,27 @@
+
+	SOX - SOund eXchange
+
+SOX translates sound samples between various file formats.
+It also does a few simple sound effects.  SOX knows most
+of the standard PC, Mac, and workstation formats and
+can handle most anything you find on the Internet
+or a BBS.  It doesn't handle MIDI, MOD, or other music
+format files because they are not sound samples.
+
+This is the DOS binary distribution of SOX version 10.
+SOX is primarily a Unix utility.  Its command line
+options are a) unix-y and b) a massive pain.
+
+Thanks to Frank Gadegast for compiling this up!
+
+CHEAT   - cheat sheet of handy command lines.  invaluable.
+README  - general info.
+TIPS    - specific info.
+sox.1	- Unix manual page in text format
+sox.txt	- same without annoying junk
+sox.exe - the actual program
+
+testall.sh
+tests.sh
+	- Unix test scripts which give more examples of using SOX.
+	- not in DOS script format, but almost

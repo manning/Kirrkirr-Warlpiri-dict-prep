@@ -1,0 +1,66 @@
+
+README for Kirrkirr/Warlpiri dictionary visualizer project XML file creation
+----------------------------------------------------------------------------
+
+
+DICTIONARY DATA
+---------------
+
+At present the dictionary is ultimately based on the 980311 version of
+the Warlpiri dictionary.  It resides in the one and two letter long
+filenames in: 
+
+	/project/kirrkirr/data/Wrlpdic-980311
+
+The most recent original documentation of the codes in the dictionary
+are in:
+
+	/project/kirrkirr/data/wrlpdict.970805/WrlpDict.970410/Z Code Files/WarlpiriDictDatabaseCodes.9612
+
+
+XML DICTIONARY
+--------------
+
+The Perl program to create the XML dictionary is:
+
+	/project/kirrkirr/src/wrl-to-xml/wrl-xml-new.pl
+
+It is usually run by scripts.  The input and output to this program are in:
+
+	/project/kirrkirr/data/wrl-proc
+
+The input is the file:
+
+	Wrl
+
+It is just a concatenation of all the dictionary files from the
+directory mentioned above:
+
+	cat /project/kirrkirr/data/Wrlpdic-980311/? /project/kirrkirr/data/Wrlpdic-980311/?? >Wrl
+
+In that directory one can rebuild the Warlpiri dict XML file with:
+
+	./newconv.sh
+
+This creates the files:
+
+	newWrl.xml	The complete dictionary
+	newWrl.err	A record of all errors and warnings encountered.
+
+One can check that the XML file is well-formed with the following command:
+
+	./verifynew.csh
+
+Note that the dict->xml converter can be run in two modes.  The
+"Kevin" mode where subentries are promoted to entries with a "SUB"
+value for the TYPE attribute, and the original mode where subentries
+are nested inside an entry.  The current version of Kirrkirr uses the
+"Kevin" mode, and this is the current default for the conversion.
+
+Many of the other files in the directory are just historical.
+newconvtest.sh, newtest.data, newtest.xml, newtest.err provide a small
+subset of the dictionary to test changes on.  (Cf. newtest-ok.xml
+newtest-ok.err).  censWrl.xml was made as a "censored" version
+omitting certain entries (sex, swearing).
+
+

@@ -1,0 +1,4 @@
+mktexpk --mfmode / --bdpi 600 --mag 0+415/600 --dpi 415 hlcra
+mktexpk --mfmode / --bdpi 600 --mag 0+415/600 --dpi 415 hlcry
+mktexpk --mfmode / --bdpi 600 --mag 0+569/600 --dpi 569 hlcry
+mktexpk --mfmode / --bdpi 600 --mag 0+569/600 --dpi 569 hlcrima

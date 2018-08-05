@@ -1,0 +1,102 @@
+Manifest-Version: 1.0
+
+Name: SOX/00readme
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 2tifxQKvCgzPo9blx/ybRWW4H1k=
+MD5-Digest: gqPOGyuFZAD4tTCOxxkaHQ==
+
+Name: SOX/CHEAT
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 8TPSQIl+EM7X+p1LFTfwU4tN7Rg=
+MD5-Digest: s9uds+bK/WB79FZM7Zi4kQ==
+
+Name: SOX/Readme.txt
+Digest-Algorithms: SHA MD5 
+SHA-Digest: uG/Ov94VpZnrA1bB9gVf3oAuEfw=
+MD5-Digest: 5X+eTBbpCOb8l76iDWYgSA==
+
+Name: SOX/sox.1
+Digest-Algorithms: SHA MD5 
+SHA-Digest: OLHrqJzzW46tRm4PomQKkAoUbhA=
+MD5-Digest: OO6zeE2V+TZqDsSw9rFMXg==
+
+Name: SOX/sox.exe
+Digest-Algorithms: SHA MD5 
+SHA-Digest: rRuZRMBQj0FQm6hjAWcemkcGTY0=
+MD5-Digest: MDOULaF1AvDgAVtbX4TPvA==
+
+Name: SOX/sox.txt
+Digest-Algorithms: SHA MD5 
+SHA-Digest: w+uEAfROlc9dz7yHswfV4HIN3xg=
+MD5-Digest: eIcxnSLKW+XQa+a5dZ4gPQ==
+
+Name: SOX/testall.sh
+Digest-Algorithms: SHA MD5 
+SHA-Digest: N3/8KBfmgpaM8UREseypRpea9yU=
+MD5-Digest: nWuzxxCtnd9Y1ooxsIbI5g==
+
+Name: SOX/tests.sh
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ha8QwkZTMAnqxYPHAAzEpsLHVfA=
+MD5-Digest: criwgb+ZuLfZe7xt8ggqIg==
+
+Name: SOX/Tips.txt
+Digest-Algorithms: SHA MD5 
+SHA-Digest: nL0y8jSdoq5CGoXkHVd6d5qUX5E=
+MD5-Digest: frUnUV0rRRGEd9CNtxOd+A==
+
+Name: audio.dat
+Digest-Algorithms: SHA MD5 
+SHA-Digest: lu9m2FUYIsj5SUVjmcA5vT4aMKs=
+MD5-Digest: gQFkaP8c7Rx5MRk7ecFCow==
+
+Name: codes.log
+Digest-Algorithms: SHA MD5 
+SHA-Digest: PcKsblgpvItR2gWQjnwb02ZGzC8=
+MD5-Digest: 9ztOT4QGIetrfQ4/y8xMFw==
+
+Name: error.log
+Digest-Algorithms: SHA MD5 
+SHA-Digest: F3h+5xaz8ExAIhc6qEN5ltKhChk=
+MD5-Digest: nhn5IW7zJHBanbWVftcKwg==
+
+Name: incorp_audio.pl
+Digest-Algorithms: SHA MD5 
+SHA-Digest: jX05xUAY29EDmslAYhaGNm6/D+A=
+MD5-Digest: ZwBAAtclbzaZzF9R3zNbYQ==
+
+Name: move.pl
+Digest-Algorithms: SHA MD5 
+SHA-Digest: GfC1toXEuVKw2qv1el0kwJI8fdw=
+MD5-Digest: bBU5j0hMcV0sJjiiI8W7Pg==
+
+Name: readme.txt
+Digest-Algorithms: SHA MD5 
+SHA-Digest: giLEOlEd34bHwqGar1tKDjEMfPs=
+MD5-Digest: NGmAY5Nr7RmmkxguA6YC8g==
+
+Name: soxy.pl
+Digest-Algorithms: SHA MD5 
+SHA-Digest: pBBXar1Kh4+I9d+Gi7yHthls2zs=
+MD5-Digest: 3yKjcffb4kdV6gE+gIDJUA==
+
+Name: temp
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+
+Name: ugly.pl
+Digest-Algorithms: SHA MD5 
+SHA-Digest: skyNsEzqCjpXYgXanYXEem7sN+E=
+MD5-Digest: 1+rDt1ZiSH4hmywgJh7cfA==
+
+Name: y.xml
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 19mazFGReiZKf/hoypSdPwCdfMc=
+MD5-Digest: lRycIMeHGxCGg6DBI/v7xA==
+
+Name: z.xml
+Digest-Algorithms: SHA MD5 
+SHA-Digest: pE5UiZp+wWDzMupwF0a3YN8aGt0=
+MD5-Digest: ETTnC9wIO5iT6Bh1rKVDSA==
+

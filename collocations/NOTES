@@ -1,0 +1,17 @@
+panturnu: on line 22 has no stem in headwords
+	Apparent vowel harmony variant, not handled
+	\me panti-rni (V):
+jalpanku: on line 22 has no stem in headwords
+	Should really be \me jalpanyku (PV):
+	Need to do fuzzy spelling?
+yunparnu: on line 23 has no stem in headwords
+	Should be \me yunpa-rni (V):
+	Need to deal with vowel harmony
+   9 yunparnul <-- Yunparnulpalu, yunparnulujana, Yunparnulu, yunparnulpa
+Should work!
+	yunpa-rnu-lpa-lu
+
+
+Kevin's loglikelihood calculations: numbers calculated differ slightly
+in absolute value from those from Dunning's programs, but are near
+enough to right, and in the right order.

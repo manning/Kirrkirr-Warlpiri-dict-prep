@@ -1,0 +1,80 @@
+<?XML version="1.0" encoding="ISO-8859-1"?>
+<DICTIONARY>
+<ENTRY><HW HNUM="1">-ja</HW>
+<POS>ENCL</POS>
+<DEF>Assertive: this clitic draws assertive emphasis to a proposition. It is added to the final word of the constituent expressing the proposition</DEF>
+<GL>indeed, in <FL>fact</FL>, assuredly, actually</GL>
+<CM>Predicate scope.</CM>
+<EXAMPLES>
+<EXAMPLE><WE>Ngamirliri, ngulaji kirrirdi-pardu. Nyanungu-piya-kula-jala parrulkapiya, kala jaljajuku karla -- nyinami. Kutu-kula-jala kala kirrirdi-jiki-jala ka wapamiJA ngamirliriji. <SRC>HN:588</SRC></WE>
+<ET>The curlew is tall. It is actually like the turkey, but a little less than it in size. But the curlew is actually still tall. </ET></EXAMPLE>
+<EXAMPLE><WE>Milpa ka maruyijala nyina -- wita ka liirlpari nyina, milpaju, marulku ka nyinaJA. <SRC>{??}</SRC></WE>
+<ET>Its eyes are also black -- they are small and gleaming. It is really black. </ET></EXAMPLE>
+<EXAMPLE><WE>Nguruwana ka wapa kankarlu, ngula ka walyakurralku pirri-maniJA, jurlpu yangka yalumpu -- panupiyayijala. Mungangka kalu nyina yangka watiyarlayijala turnu. Yuurrkurla yangka pulkurnparla kalu nyinamiJA mungangkaju -- jardaju. <SRC>HN:584-7</SRC></WE>
+<ET>They fly high in the sky, then they land on the ground, like many other birds too. At night they all perch together in a flock in a tree. Like in a big leafy tree they all sit at night sleeping. </ET></EXAMPLE>
+<EXAMPLE><WE>Kalwaju, mirriji ka kirrirdi-jiki-jala nyinamirra -- parrulka-piya manu ngamirliri-piya. Kala ngamirliriji-palangu witalku -- parrulkaku manu kalwaku. Kala kalwaju wiri-jala. Kalwakari kalu wita-wita nyinamiJA maruju yangka, kalwa wiri ka nyina kirrirdi. <SRC>HN:591</SRC></WE>
+<ET>The heron, it has long thin legs like the bustard and the curlew. Although the curlew is smaller than those other two -- than the bustard and the heron. Although the heron is really big, there are other herons that are smallish and which are actually black. The big heron is tall and thin. </ET></EXAMPLE>
+</EXAMPLES>
+<EXAMPLES>
+<EXAMPLE><WE>Ngula ka kurdu mardarni, yirrarntirli, kularnarla pina-wiyi -- yuwalirla marda ka nyina karijaJA. Ngurrpa-jalarna ngari -- kularna nyangu. Palka-mipa ngari karnajana yangka wiri-wiri nyanyi. <SRC>hn</SRC></WE>
+<ET>When the red-winged cockatoo has young ones, I don't know about it -- perhaps it sits in a nest I don't really know. I actually don't know; I haven't seen one. I only ever actually see the adults (not the chicks). </ET></EXAMPLE>
+</EXAMPLES>
+<EXAMPLES>
+<EXAMPLE><WE>Kurdiji-pardu-wangu kurlarda-pardu-kurluJA. <SRC>H59:538</SRC></WE>
+<ET>They have no shields but they do have spears. </ET></EXAMPLE>
+</EXAMPLES>
+<EXAMPLES>
+<EXAMPLE><WE>Ngulanya kalwaju. Paarr-pardimi-yijala ka, wapami ka kankarlu nguruwana, yangka nyampu panukaripiya, jurlpumipaju kujakalu wapa panu-kula nguruwanajuku. Ngula karlipajana ngarrirni -- jurlpu ngari yangka kujakalu panu wapa nguruwana. Kalwa-rlangu-kula kujaka wapa ngurungka-yijalaJA. Ngula ka ngaka ngapakarirla, walya-kurra-jarri. <SRC>HN:592</SRC></WE>
+<ET>They fly away, they fly through the air like these others, it is all the birds that fly through the air. We call all those creatures that fly though the air birds. Like the egret which flies in the sky as well. And which later lands as another waterhole. </ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI>jaa</CFI>, <CFI>-kila</CFI>, <CFI>-kula</CFI>, <CFI>-wurru</CFI>, <CFI>-yijala</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">-ja</HW>
+<POS>V-SFX</POS>
+<DEF>PAST tense suffix on verbs of the <CT>-mi</CT> class</DEF>
+<REFA>See TABLE OF VERBAL SUFFIXES</REFA>
+</ENTRY>
+
+<ENTRY><HW>jaa</HW>
+<POS>PV</POS>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<DEF>of two parts of some entity which are joined together or in contact at one end, and far apart at the other end, thus creating an empty space between these two entities at that end</DEF>
+<PDX>
+<CRITERION>of mouth or mouth-like entity</CRITERION>
+<GL>agape, open-mouthed, <FL>wide</FL> <FL>open</FL></GL>
+</PDX>
+<PDX>
+<CRITERION>of legs or leg-like entities</CRITERION>
+<GL>apart, open, separated, <FL>spread</FL> <FL>apart</FL>, <FL>wide</FL> <FL>apart</FL></GL>
+</PDX>
+<CF><CFI>jaarn(pa)</CFI>, <CFI>jalanypa</CFI>, <CFI>raa</CFI>, <CFI>rurrpa</CFI>, <CFI>wantiki</CFI></CF>
+<SUBENTRY><SHW>jaa-karri-mi</SHW>
+<POS>V</POS>
+<DOMAIN><DMI>stance</DMI>: </DOMAIN>
+<DEF>x be wide open</DEF>
+<GL>be <FL>open</FL>, be <FL>agape</FL>, be spread <FL>apart</FL>, be <FL>separated</FL>, gape</GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaa-karrimi, ngulaji yangka kujaka yapa lirra wantiki rurrpa- karri manu jaamalamala-karrimi manu yangka kujaka yapa lirra jaa- karrimi kujaka murrumurru wirliyajangka yangka watiyawarnu pantirninjawarnu purlami. Manu yangka jarntu lirraji kujaka wantiki-jarri kujaka yulami, yangka kujakarla jarntukariki wapal- yulami. Manu warna kujaka lirra wantiki-jarri kulu nyiyakungarnti pinjakungarnti, yangka kulu. <SRC>PPJ 10/87</SRC></WE>
+<ET><CT>Jaa-karrimi</CT> is when a person opens his mouth wide and yawns or when a person opens his mouth wide open as when he calls out in pain when stabbed in the foot. Or it is when a dog opens its mouth wide when it howls, like when it is howling out to another dog. Or when a snake opens its mouth wide in anger before biting something. </ET></EXAMPLE>
+<EXAMPLE><WE>Kurdu ka lirra jaa-karrimi. <SRC>{??}</SRC></WE>
+<ET>The child has its mouth wide open. </ET></EXAMPLE>
+<EXAMPLE><WE>Jaa-karrimi karlipa lirra yapa manu maliki -- lirra wantiki. Jakarlangu ka jaa-karrimi manu wanarri yangka wantiki kujakalu nyina. <SRC>JNE 1983</SRC></WE>
+<ET>We people and dogs open our mouths -- mouth wide open. And buttocks are spread out as are legs wherever people sit with them wide apart. </ET></EXAMPLE>
+<EXAMPLE><WE>Jaa-karrimirni ka pirnki. <SRC>{??}</SRC></WE>
+<ET>The cave opens out this way. (The mouth of the cave faces this way.) </ET></EXAMPLE>
+</EXAMPLES>
+</SUBENTRY>
+<SUBENTRY><SHW>jaa-mala-mala-karri-mi</SHW>
+<POS>V</POS>
+<DEF>x be wide apart</DEF>
+<GL><FL>yawn</FL>, have mouth <FL>wide</FL> <FL>open</FL>, <FL>hang</FL> open (of mouth), <FL>stretch</FL> (arms, legs)</GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jaamalamala-karrimi kanpa, jardangku mayi kangku pinyi? <SRC>{??}</SRC></WE>
+<ET>You are yawning, are you sleepy? </ET></EXAMPLE>
+<EXAMPLE><WE>Jaamalamala-karrimi kalu yangka jardajangka kujakalu yakarra-pardimi manu yangka kurdu kalu jaamalamala-karrimi jardalku. <SRC>JNE 1983</SRC></WE>
+<ET>People yawn when they wake up and babies yawn when sleepy. </ET></EXAMPLE>
+</EXAMPLES>
+</SUBENTRY>
+</ENTRY>
+</DICTIONARY>

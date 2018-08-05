@@ -1,0 +1,306 @@
+\usepackage[expert]{lucidabr}
+
+% to do:
+% - need space after end of PDX before something like CF!
+% - make distinguishing another sense clearer
+
+\def\enumsquare{\raise1pt\hbox{$\scriptstyle\blacksquare$}}
+\renewcommand{\labelitemi}{\enumsquare}
+
+%\setlength{\parskip}{0.5\baselineskip plus 3pt}
+\setlength{\parskip}{2pt plus 2pt}
+\setlength{\parindent}{0in}
+
+\setlength\columnsep{3em}
+
+\newlength\leftfield
+\newlength\rightfield
+\newlength\dictindent
+
+\setlength\parindent{1em}
+\setlength\leftmargini  {1.3em}
+\leftmargin  \leftmargini
+\setlength\leftmarginii  {1.3em}
+\setlength\leftmarginiii {1.3em}
+\setlength\leftmarginiv  {1.3em}
+
+\def\@listi{\leftmargin\leftmargini
+            \parsep 0\p@  \@plus2\p@ \@minus\p@
+            \topsep 0\p@ \@plus2\p@
+            \itemsep0\p@  \@plus\p@}
+\@listi
+
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+                                    {3pt \@plus1pt \@minus1pt}%
+                                    {-1em}%
+                                    {\normalfont\normalsize\bfseries}}
+\sloppy
+
+\if@twoside
+ \def\ps@dictheadings{\let\@mkboth\@gobbletwo
+  \def\@evenhead{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\strut\rightmark\ -- \leftmark\hfil}}
+   \vskip 1.5\p@ \hrule}}%
+  \def\@oddhead{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\hfil\strut\rightmark\ -- \leftmark}}
+   \vskip 1.5\p@ \hrule}}%
+  \def\@evenfoot{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\thepage\hfil}}}}%
+  \def\@oddfoot{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\hfil\thepage}}}}%
+  \def\chaptermark##1{}
+  \def\sectionmark##1{}}
+\else
+ \def\ps@dictheadings{\let\@mkboth\@gobbletwo
+  \def\@evenhead{}%
+  \def\@oddhead{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\hfil\strut\rightmark\ -- \leftmark}}
+   \vskip 1.5\p@ \hrule}}%
+  \def\@evenfoot{}%
+  \def\@oddfoot{\vbox{\hsize=\textwidth
+   \hb@xt@ \textwidth{{\hfil\thepage\hfil}}}}%
+  \def\chaptermark##1{}%
+  \def\sectionmark##1{}}
+\fi
+\raggedbottom
+
+\setlength{\headheight}{1.25\baselineskip}
+
+  \setlength{\leftfield}{0.45\textwidth}
+  \setlength{\rightfield}{0.45\textwidth}
+
+\setlength{\dictindent}{1em}
+\addtolength{\leftfield}{-\dictindent}
+\addtolength{\rightfield}{-\dictindent}
+
+% vertical equivalent of \hidewidth
+\def\hideheight{\vskip-1000pt plus 1fill}
+
+\def\syl#1{\oalign{#1\crcr\hidewidth\vbox to.33ex{\hbox{\vrule
+height.35ex width.2ex}\hideheight}\hidewidth}}
+
+\def\uprm#1{$^{\hbox{\scriptsize #1}}$}
+
+
+% \def\id#1{{\Large #1\par}\vspace{3ex}}
+\def\id#1{#1\par\vspace{3ex}}
+
+\def\h#1{\newpage\goodbreak\vspace{1\baselineskip}%
+  \parbox[t]{\leftfield}{%
+    \centerline{\Huge\textbf{#1}}%
+  \vspace{0.5\baselineskip}%
+  }\par\nopagebreak}
+
+\def\cmh#1{#1}
+
+\def\w#1{% \hfill\par
+  \hangindent=0.75em\hangafter=1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\textbf{#1}}\markboth{#1}{#1}}
+   
+% \def\x#1{{\small{[#1]}}}
+\def\x#1{}
+
+\def\d#1{#1}
+
+\def\p#1{#1}
+
+\def\cf#1{\textit{Cf.}\ #1.}
+% added for ones that already say ``see'' or whatever.
+\def\cfplain#1{#1}
+
+\def\ii#1{\textit{#1}}
+
+\def\q#1{#1}
+
+\def\qe#1{#1}
+
+\def\r#1{#1}
+
+% \def\t#1{`#1'}
+\def\t#1{#1}
+
+\def\l#1{#1}
+
+\def\z#1{#1}
+
+% Leave this out for the moment.  Would want to format it better down
+% the track.
+% \def\u#1{\textit{under} #1}
+\def\u#1{}
+
+
+\def\k#1{\par\hangindent=0.75em\hangafter=0\relax #1\par
+\hangindent=0.75em\hangafter=0\relax}
+\def\e#1{\k{#1}}
+
+\def\mr#1{\textit{Murray River} #1}
+\def\eb#1{\textit{Encounter Bay} #1}
+
+\def\overchar#1#2#3{\leavevmode\setbox0=\hbox{#2}%
+	\rlap{\raise#3\ht0\hbox to\wd0{\hss#1\hss}}\box0}
+
+% this is for a special diacritic described for the Kaurna dict
+\def\vertbar#1{\oalign{#1\crcr\hidewidth\vbox to.33ex{\hbox{\vrule
+height.35ex width.2ex}\hideheight}\hidewidth}}
+
+
+%%%
+
+\def\alt#1{\emph{Alt.}~#1. }
+\def\alti#1{#1}
+\def\altihnum#1#2{#2\uprm{#1}}
+
+\def\ant#1{\emph{Ant.}~#1. }
+\def\anti#1{#1}
+\def\antihnum#1#2{#2\uprm{#1}}
+
+\def\cf#1{\emph{Cf.}~#1. }
+\def\cfi#1{#1}
+\def\cfihnum#1#2{#2\uprm{#1}}
+
+\def\cm#1{#1}
+
+\def\cme#1{} % delete for now
+\def\cmei#1{}
+\def\cmeihnum#1#2{}
+
+\def\cmp#1{#1}
+
+\def\criterion#1{\paragraph{#1}}
+
+\def\csl#1{#1}
+
+\def\ct#1{\emph{#1}}
+
+\def\df#1{#1.}
+
+\def\deriv#1{#1}
+
+\def\dialects#1{ \textup{(#1)}}
+\def\dli#1{#1}
+
+\def\domain#1{[#1]}
+\def\dmi#1{#1}
+
+\def\et#1{`#1'}
+
+\newenvironment{examples}{\begin{itemize}}{\end{itemize}}
+
+\def\gl#1{#1. }
+\def\gli#1{#1}
+
+\def\hwsubhnum#1#2{% \hfill\par
+  \vskip 6pt plus 2pt minus 2pt
+  \leavevmode%\hspace*{-1.5em}
+%  \hangindent=-0.75em\hangafter=-1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\large\textbf{\emph{#2}}\uprm{#1}}\markboth{#2}{#2}}
+
+\def\hwsub#1{% \hfill\par
+  \vskip 6pt plus 2pt minus 2pt
+  \leavevmode%\hspace*{-1.5em}
+%  \hangindent=-0.75em\hangafter=-1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\large\textbf{\emph{#1}}}\markboth{#1}{#1}}
+
+\def\hwhnum#1#2{% \hfill\par
+  \vskip 8pt plus 2pt minus 2pt
+  \leavevmode\hspace*{-1.5em}
+%  \hangindent=-0.75em\hangafter=-1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\Large\textbf{#2}\uprm{#1}}\markboth{#2}{#2}}
+
+\def\hw#1{% \hfill\par
+  \vskip 8pt plus 2pt minus 2pt
+  \leavevmode\hspace*{-1.5em}
+%  \hangindent=-0.75em\hangafter=-1
+% \hspace{\dictindent}
+%  \parbox[t]{\leftfield}
+%   {\raggedright 
+% \hspace{-\dictindent}
+{\Large\textbf{#1}}\markboth{#1}{#1}}
+
+\def\lat#1{#1}
+\def\latin#1{#1}
+
+\newenvironment{pdx}{}{}
+
+\def\pos#1{\emph{#1}}
+
+\def\pvl#1{\emph{Preverbs}~#1. }
+\def\pvli#1{#1}
+\def\pvlihnum#1#2{#2\uprm{#1}}
+
+\def\ref#1{#1}
+\def\refa#1{#1.}
+
+\def\registers#1{ \textup{(#1)}}
+\def\rgi#1{#1}
+
+\def\rem#1{#1}
+\def\rul#1{#1}
+
+\def\se#1{}
+\def\sei#1{}
+\def\seihnum#1#2{}
+
+\newenvironment{sense}{\paragraph{$\blacktriangleright$}}{}
+
+\def\src#1{\textup{#1}}
+
+\def\syn#1{\emph{Syn.}~#1. }
+\def\syni#1{#1}
+\def\synihnum#1#2{#2\uprm{#1}}
+
+\def\we#1{#1}
+
+\def\wed#1{\emph{#1}}
+
+\def\xme#1{\emph{Same as} #1. }
+\def\xmei#1{#1}
+\def\xmeihnum#1#2{#2\uprm{#1}}
+
+
+
+%%%
+
+
+% A4 is 297 x 210 mm
+% These are good sizes 
+\textheight=246mm
+\textwidth=159mm
+\oddsidemargin=0mm\evensidemargin=0mm
+\topmargin=0mm
+% \marginparwidth=.75in
+
+% play sizes for picture
+%\textheight=70mm
+%\textwidth=50mm
+%\oddsidemargin=-17.5mm\evensidemargin=-5mm
+%\topmargin=-17mm
+
+% xdvi -paper a5 &
+% \special{papersize=a5}
+
+% \columnsep=5mm
+
+\title{{\Huge\bf The Warlpiri Dictionary}}
+\author{Full Version \\ \ \\ To be decided}
+\date{This version prepared on \today\\
+by Christopher Manning\\
+from the electronic version of 11/3/98}
+
+\raggedright

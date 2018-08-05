@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="warlpiri.xsl"?>
+<DICTIONARY>
+<ENTRY><HW HNUM="1">-ja</HW>
+<POS>ENCL</POS>
+<DEF>Assertive: this clitic draws assertive emphasis to a proposition. It is added to the final word of the constituent expressing the proposition</DEF>
+<GL><GLI>indeed</GLI>, <GLI>in fact</GLI>, <GLI>assuredly</GLI>, <GLI>actually</GLI></GL>
+<CM>Predicate scope.</CM>
+<PDX>
+<CRITERION>On verbs</CRITERION>
+<EXAMPLES>
+<EXAMPLE><WE>Ngamirliri, ngulaji kirrirdi-pardu. Nyanungu-piya-kula-jala parrulkapiya, kala jaljajuku karla -- nyinami. Kutu-kula-jala kala kirrirdi-jiki-jala ka wapamiJA ngamirliriji. <SRC>HN:588</SRC></WE>
+<ET>The curlew is tall. It is actually like the turkey, but a little less than it in size. But the curlew is actually still tall.</ET></EXAMPLE>
+<EXAMPLE><WE>Milpa ka maruyijala nyina -- wita ka liirlpari nyina, milpaju, marulku ka nyinaJA. <SRC>{??}</SRC></WE>
+<ET>Its eyes are also black -- they are small and gleaming. It is really black.</ET></EXAMPLE>
+<EXAMPLE><WE>Nguruwana ka wapa kankarlu, ngula ka walyakurralku pirri-maniJA, jurlpu yangka yalumpu -- panupiyayijala. Mungangka kalu nyina yangka watiyarlayijala turnu. Yuurrkurla yangka pulkurnparla kalu nyinamiJA mungangkaju -- jardaju. <SRC>HN:584-7</SRC></WE>
+<ET>They fly high in the sky, then they land on the ground, like many other birds too. At night they all perch together in a flock in a tree. Like in a big leafy tree they all sit at night sleeping.</ET></EXAMPLE>
+<EXAMPLE><WE>Kalwaju, mirriji ka kirrirdi-jiki-jala nyinamirra -- parrulka-piya manu ngamirliri-piya. Kala ngamirliriji-palangu witalku -- parrulkaku manu kalwaku. Kala kalwaju wiri-jala. Kalwakari kalu wita-wita nyinamiJA maruju yangka, kalwa wiri ka nyina kirrirdi. <SRC>HN:591</SRC></WE>
+<ET>The heron, it has long thin legs like the bustard and the curlew. Although the curlew is smaller than those other two -- than the bustard and the heron. Although the heron is really big, there are other herons that are smallish and which are actually black. The big heron is tall and thin.</ET></EXAMPLE>
+</EXAMPLES>
+</PDX>
+<PDX>
+<CRITERION>On particle</CRITERION>
+<EXAMPLES>
+<EXAMPLE><WE>Ngula ka kurdu mardarni, yirrarntirli, kularnarla pina-wiyi -- yuwalirla marda ka nyina karijaJA. Ngurrpa-jalarna ngari -- kularna nyangu. Palka-mipa ngari karnajana yangka wiri-wiri nyanyi. <SRC>hn</SRC></WE>
+<ET>When the red-winged cockatoo has young ones, I don't know about it -- perhaps it sits in a nest I don't really know. I actually don't know; I haven't seen one. I only ever actually see the adults (not the chicks).</ET></EXAMPLE>
+</EXAMPLES>
+</PDX>
+<PDX>
+<CRITERION>On case-marked nominal</CRITERION>
+<EXAMPLES>
+<EXAMPLE><WE>Kurdiji-pardu-wangu kurlarda-pardu-kurluJA. <SRC>H59:538</SRC></WE>
+<ET>They have no shields but they do have spears.</ET></EXAMPLE>
+</EXAMPLES>
+</PDX>
+<PDX>
+<CRITERION>On enclitic</CRITERION>
+<EXAMPLES>
+<EXAMPLE><WE>Ngulanya kalwaju. Paarr-pardimi-yijala ka, wapami ka kankarlu nguruwana, yangka nyampu panukaripiya, jurlpumipaju kujakalu wapa panu-kula nguruwanajuku. Ngula karlipajana ngarrirni -- jurlpu ngari yangka kujakalu panu wapa nguruwana. Kalwa-rlangu-kula kujaka wapa ngurungka-yijalaJA. Ngula ka ngaka ngapakarirla, walya-kurra-jarri. <SRC>HN:592</SRC></WE>
+<ET>They fly away, they fly through the air like these others, it is all the birds that fly through the air. We call all those creatures that fly though the air birds. Like the egret which flies in the sky as well. And which later lands as another waterhole.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="-jala">-jala</CFI>, <CFI HENTRY="?">-kila</CFI>, <CFI HENTRY="-kula">-kula</CFI>, <CFI HENTRY="-wurru">-wurru</CFI>, <CFI HENTRY="-yi-jala">-yijala</CFI></CF>
+</PDX>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">-ja</HW>
+<POS>V-SFX</POS>
+<DEF>PAST tense suffix on verbs of the <CT>-mi</CT> class</DEF>
+<REFA>See TABLE OF VERBAL SUFFIXES</REFA>
+</ENTRY>
+
+<ENTRY><HW>jaa</HW>
+<POS>PV</POS>
+<SE><SEI HENTRY="jaa-karri-mi">jaa-karri-mi</SEI>, <SEI HENTRY="jaa-mala-mala-karri-mi">jaa-mala-mala-karri-mi</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<DEF>of two parts of some entity which are joined together or in contact at one end, and far apart at the other end, thus creating an empty space between these two entities at that end</DEF>
+<PDX>
+<CRITERION>of mouth or mouth-like entity</CRITERION>
+<GL><GLI>agape</GLI>, <GLI>open-mouthed</GLI>, <GLI>wide open</GLI></GL>
+</PDX>
+<PDX>
+<CRITERION>of legs or leg-like entities</CRITERION>
+<GL><GLI>apart</GLI>, <GLI>open</GLI>, <GLI>separated</GLI>, <GLI>spread apart</GLI>, <GLI>wide apart</GLI></GL>
+</PDX>
+<CF><CFI HENTRY="jaarn(pa)" HNUM="1">jaarn(pa)</CFI>, <CFI HENTRY="jalanypa">jalanypa</CFI>, <CFI HENTRY="raa">raa</CFI>, <CFI HENTRY="rurrpa">rurrpa</CFI>, <CFI HENTRY="wantiki">wantiki</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaa-karri-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaa">jaa</CMEI></CME>
+<DOMAIN><DMI>stance</DMI>: </DOMAIN>
+<DEF>x be wide open</DEF>
+<GL><GLI>be open</GLI>, <GLI>be agape</GLI>, <GLI>be spread apart</GLI>, <GLI>be separated</GLI>, <GLI>gape</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaa-karrimi, ngulaji yangka kujaka yapa lirra wantiki rurrpa- karri manu jaamalamala-karrimi manu yangka kujaka yapa lirra jaa- karrimi kujaka murrumurru wirliyajangka yangka watiyawarnu pantirninjawarnu purlami. Manu yangka jarntu lirraji kujaka wantiki-jarri kujaka yulami, yangka kujakarla jarntukariki wapal- yulami. Manu warna kujaka lirra wantiki-jarri kulu nyiyakungarnti pinjakungarnti, yangka kulu. <SRC>PPJ 10/87</SRC></WE>
+<ET><CT>Jaa-karrimi</CT> is when a person opens his mouth wide and yawns or when a person opens his mouth wide open as when he calls out in pain when stabbed in the foot. Or it is when a dog opens its mouth wide when it howls, like when it is howling out to another dog. Or when a snake opens its mouth wide in anger before biting something.</ET></EXAMPLE>
+<EXAMPLE><WE>Kurdu ka lirra jaa-karrimi. <SRC>{??}</SRC></WE>
+<ET>The child has its mouth wide open.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaa-karrimi karlipa lirra yapa manu maliki -- lirra wantiki. Jakarlangu ka jaa-karrimi manu wanarri yangka wantiki kujakalu nyina. <SRC>JNE 1983</SRC></WE>
+<ET>We people and dogs open our mouths -- mouth wide open. And buttocks are spread out as are legs wherever people sit with them wide apart.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaa-karrimirni ka pirnki. <SRC>{??}</SRC></WE>
+<ET>The cave opens out this way. (The mouth of the cave faces this way.)</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaa-mala-mala-karri-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaa">jaa</CMEI></CME>
+<DEF>x be wide apart</DEF>
+<GL><GLI>yawn</GLI>, <GLI>have mouth wide open</GLI>, <GLI>hang open (of mouth)</GLI>, <GLI>stretch (arms, legs)</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jaamalamala-karrimi kanpa, jardangku mayi kangku pinyi? <SRC>{??}</SRC></WE>
+<ET>You are yawning, are you sleepy?</ET></EXAMPLE>
+<EXAMPLE><WE>Jaamalamala-karrimi kalu yangka jardajangka kujakalu yakarra-pardimi manu yangka kurdu kalu jaamalamala-karrimi jardalku. <SRC>JNE 1983</SRC></WE>
+<ET>People yawn when they wake up and babies yawn when sleepy.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY><HW>jaa-jaa</HW>
+<POS>PV</POS>
+<SE><SEI HENTRY="jaa-jaa-wangka-mi">jaa-jaa-wangka-mi</SEI></SE>
+<DOMAIN><DMI>sound</DMI>: </DOMAIN>
+<CM>Onomatopoeic</CM>
+<GL><GLI>"jaa-jaa-jaa"</GLI></GL>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaa-jaa-wangka-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaa-jaa">jaa-jaa</CMEI></CME>
+<DOMAIN><DMI>sound</DMI>: </DOMAIN>
+<DEF>x (typically crow (<CT>kaarnka</CT>)) produce sound like "jaa-jaa"</DEF>
+<GL><GLI>caw</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Wangarla kalu milpa liirlki jaajaa-wangka. <SRC>H59:858os</SRC></WE>
+<ET>Crows with their white eyes are cawing.</ET></EXAMPLE>
+</EXAMPLES>
+<SYN><SYNI HENTRY="?">kaakaa-wangka-mi</SYNI></SYN>
+<SENSE>
+<DOMAIN><DMI>sound</DMI>: </DOMAIN>
+<DEF>x (typically human baby) produce speechlike sounds with mouth</DEF>
+<GL><GLI>babble</GLI>, <GLI>talk baby-talk</GLI>, <GLI>go 'jaajaa'</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Wita-wita kujakalu jaajaa-wangka -- kulalpalu Warlpiriji wangkayarla. <SRC>HN:0371</SRC></WE>
+<ET>Little ones who babble, they cannot speak Warlpiri.</ET></EXAMPLE>
+</EXAMPLES>
+<SYN><SYNI HENTRY="?">yaja-yaja-wangka-mi</SYNI></SYN>
+</SENSE>
+</ENTRY>
+
+<ENTRY><HW>jaala</HW>
+<POS>PV</POS>
+<DIALECTS><DLI>H</DLI>,<DLI>Wi</DLI>,<DLI>Y</DLI></DIALECTS>
+<SE><SEI HENTRY="jaala-juurl-juurl-pi-nyi">jaala-juurl-juurl-pi-nyi</SEI>, <SEI HENTRY="jaala-karla-mi">jaala-karla-mi</SEI>, <SEI HENTRY="jaala-ma-ni">jaala-ma-ni</SEI>, <SEI HENTRY="jaala-nya-nyi">jaala-nya-nyi</SEI>, <SEI HENTRY="jaala-parnka-mi">jaala-parnka-mi</SEI>, <SEI HENTRY="jaala-wapa-mi">jaala-wapa-mi</SEI>, <SEI HENTRY="jaala-ya-ni">jaala-ya-ni</SEI>, <SEI HENTRY="jaala-yirdiyi-karri-mi">jaala-yirdiyi-karri-mi</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<DEF>moving repeatedly between different places</DEF>
+<GL><GLI>back and forth</GLI>, <GLI>up and down</GLI>, <GLI>to and fro</GLI>, <GLI>from place to place</GLI>, <GLI>all over</GLI>, <GLI>everywhere</GLI>, <GLI>anywhere</GLI></GL>
+<ALT><ALTI HENTRY="jarala">jarala</ALTI></ALT>
+<CF><CFI HENTRY="?">kirikiri</CFI>, <CFI HENTRY="warru" HNUM="#">warru</CFI>, <CFI HENTRY="warru-kirdi-kirdi">warru-kirdikirdi</CFI>, <CFI HENTRY="yirri-wiliwili">yirri-wiliwili<DIALECTS><DLI>Wi</DLI></DIALECTS></CFI>, <CFI HENTRY="?">yirri-kari</CFI></CF>
+<CSL>YSL#1084</CSL>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaala-juurl-juurl-pi-nyi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaala">jaala</CMEI></CME>
+<DOMAIN><DMI>motion</DMI>: <DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>jump around</GLI>, <GLI>hop around</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jintirrjintirrpa ngulakarnalu yirdi ngarrirni. Wita. Yangka ka jaala-juurl-juurl-pinyi. Ngurrawana. Ngirrily-nyinami kanganpa yapakuju. <SRC>HN:1824</SRC></WE>
+<ET>That small thing we call by the name of <CT>jintirrjintirrpa</CT>, it jumps up and down around the camp. It flits around us humans.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="ngirrily-nyina-mi">ngirrily-nyina-mi</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaala-karla-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaala">jaala</CMEI></CME>
+<GL><GLI>dig all over</GLI>, <GLI>dig everywhere</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Yarlalku kalalu jaala-karlaja wini-wini karlarra-purda. <SRC>millie nk</SRC></WE>
+<ET>Then they went all over the burnt off country towards the west digging up yams.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaala-ma-ni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaala">jaala</CMEI></CME>
+<DEF>xERG obtain (<CT>ma-ni</CT>) y, by moving over wide area</DEF>
+<GL><GLI>get from all over</GLI>, <GLI>gather all along</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Pirrarulpalu ngurlu jaala-manu yulpayi-kirraji. <SRC>millie nk</SRC></WE>
+<ET>They gathered the Fitzroy Wattle seeds from all along the creek.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaala-nya-nyi</HW>
+<POS>V</POS>
+<DIALECTS><DLI>H</DLI>,<DLI>La</DLI>,<DLI>Y</DLI></DIALECTS>
+<CME><CMEI HENTRY="jaala">jaala</CMEI></CME>
+<DOMAIN><DMI>motion</DMI>: <DMI>spatial</DMI>: <DMI>perception</DMI>: </DOMAIN>
+<DEF>xERG move repeatedly between places, and see (<CT>nya-nyi</CT>) y</DEF>
+<GL><GLI>go back and forth to see</GLI>, <GLI>keep going to check up on</GLI>, <GLI>go several times to have a look at</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaala-nyanyi, ngulaji yangka kujaka wapami -- mungangka. Warlu yikajana yarrpirni jarrawarnurlu yulpurruku. Yangka warlu yikajana palkajuku janka. Yika wapami jaala yangka -- warluku yarrpirninjaku. Ngula kajana jaala-nyanyi yangka jarrawarnurluju. Warluku. Warlu palkajuku yinga jankamiyi. <SRC>HN:0259-60</SRC></WE>
+<ET><CT>Jaala-nyanyi</CT> is like to walk around at night as the <CT>jarrawarnu</CT> does as he stokes the fires for the fathers and uncles of the initiate so that the fires will keep burning for them. He walks up and down to keep the fires stoked. Thus the <CT>jarrawarnu</CT> checks on the fires so that they will keep burning.</ET></EXAMPLE>
+<EXAMPLE><WE>Malirdi-nyanurlulpa ngari yangka purunyungu jaala-nyangu. <SRC>HN:1550</SRC></WE>
+<ET>The initiate's promised wife's uncle just went back and forth to see him (to check up on him).</ET></EXAMPLE>
+</EXAMPLES>
+<SENSE>
+<DEF>xERG move repeatedly between places, in order to see (<CT>nya-nyi</CT>) yDAT</DEF>
+<GL><GLI>go back and forth looking for</GLI>, <GLI>go up and down in search of</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Japanangkarlu karla karliki jaala-nyanyi kuja kijirninjarla wajawaja-manu. <SRC>{??}</SRC></WE>
+<ET>Japanangka is going back and forth looking for the boomerang which he threw and lost.</ET></EXAMPLE>
+<EXAMPLE><WE>Kalwangku karla jirriki pirntinyarrarlarlu jaala-nyanyi. <SRC>HN:590</SRC></WE>
+<ET>The crane walks up and down the creek-bank looking for tadpoles.</ET></EXAMPLE>
+</EXAMPLES>
+<ALT><ALTI HENTRY="?">jarala-nya-nyi</ALTI></ALT>
+<CF><CFI HENTRY="?">nya-nja-parnka-mi</CFI></CF>
+</SENSE>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaala-parnka-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaala">jaala</CMEI></CME>
+<DOMAIN><DMI>motion</DMI>: <DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>run to and from</GLI>, <GLI>race up and down</GLI>, <GLI>fly to and fro</GLI>, <GLI>travel back and forth</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Nantuwupatu karnajana nyanyi yuwurrkuwana jaala-parnkanja-kurra. <SRC>{??}</SRC></WE>
+<ET>I see the horses running up and down through the scrub.</ET></EXAMPLE>
+<EXAMPLE><WE>Jurlpu kalu nguruwana jaala-parnkami. <SRC>{??}</SRC></WE>
+<ET>The birds are flying back and forth in the sky.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaala-wapa-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaala">jaala</CMEI></CME>
+<DOMAIN><DMI>motion</DMI>: <DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>walk back and forth</GLI>, <GLI>walk to and fro</GLI>, <GLI>go from place to place</GLI>, <GLI>travel from place to place</GLI>, <GLI>walk up and down</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaala-wapaju karnalu ngarrirni yangka yika ngurrakurranya jaala-wapami. Jintakari-jintakarikirra. Ngurrakurra. Yinyarlangu marda wurntururlangu yangka yani. Ngurrarakarikirra -- ngurrarakarikirra yanimpa -- ngurrarakarikirra yanimpa.... Ngulanya karnalu ngarrirni jaala-wapamiji. Yikalu yangka yirdiyi-karri ngurrarakari-ngurrarakarikirra. <SRC>adapted from HN:0389</SRC></WE>
+<ET>We call <CT>jaala-wapa</CT> like when one goes to other places. From one place to another. Or perhaps when one goes to some place far away to different countries. That is what we call <CT>jaala-wapami</CT>. As when people move from place to place.</ET></EXAMPLE>
+<EXAMPLE><WE>Kurdu-kurdu kalu jaala-wapami ngatinyanurlajinta wirlinyi. <SRC>{??}</SRC></WE>
+<ET>The children are walking back and forth hunting with their mothers.</ET></EXAMPLE>
+<EXAMPLE><WE>Yangka kalu yapa jaala-wapami ngurrakari-ngurrakari, yuwarlikari-yuwarlikari. <SRC>JNE 1983</SRC></WE>
+<ET>Like people go to and fro between different places, from settlement to settlement.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="wurna">wurna</CFI>, <CFI HENTRY="yirdiyi-karri-mi">yirdiyi-karri-mi</CFI></CF>
+<SYN><SYNI HENTRY="?">yirri-kari-wapa-mi</SYNI>, <SYNI HENTRY="?">yirri-wili-wili-wapa-mi<DIALECTS><DLI>Wi</DLI></DIALECTS></SYNI></SYN>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaala-ya-ni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaala">jaala</CMEI></CME>
+<DOMAIN><DMI>motion</DMI>: <DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>go back and forth</GLI>, <GLI>go to and fro</GLI>, <GLI>go up and down</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Purlka ka jaala-yani karru-wana. <SRC>{??}</SRC></WE>
+<ET>The old man is going up and down the creek.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaala-yirdiyi-karri-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaala">jaala</CMEI></CME>
+<DOMAIN><DMI>motion</DMI>: <DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>go back and forth</GLI>, <GLI>go to and fro</GLI>, <GLI>go up and down</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jaalalpa yirdiyi-karrija. <SRC>{??}</SRC></WE>
+<ET>He went up and down.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY><HW>jaaljaal(pa)</HW>
+<POS>N</POS>
+<POS>PV</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<DOMAIN><DMI>behavioural</DMI>: </DOMAIN>
+<GL><GLI>feeling</GLI>, <GLI>hunch</GLI>, <GLI>premonition</GLI></GL>
+<CM>Object of premonition is expressed by nominal in allative case</CM>
+<EXAMPLES>
+<EXAMPLE><WE>Ngaju karna jaaljaal-jarrimi nyiyakurra. Marda kapulu kurdu ngaju-nyangu pakarni. <SRC>{??}</SRC></WE>
+<ET>I have a feeling about something. Perhaps they are going to hit my son.</ET></EXAMPLE>
+<EXAMPLE><WE>Kari! Nyiyakurra karna jaaljaal-jarrimi miyalu nyampuju? Ngajunyangukurra kaja-nyanu-kurra? Junga-juku ngaju-nyangu-kurralparna jaaljaal-jarrija manjurruju. Jungajuku wantija miyalu-purdanji. <SRC>Pauline Gallacher Napangardi, Y 29/9/88</SRC></WE>
+<ET>Oh, why do I have this feeling in my stomach? Is it because of my son? It was because of my son that I had this twitching feeling (a premonition). He had fallen down on his stomach.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="manjurru">manjurru</CFI></CF>
+<SENSE>
+<DIALECTS><DLI>La</DLI>,<DLI>Y</DLI></DIALECTS>
+<GL><GLI>have an urge</GLI>, <GLI>desire (to do something)</GLI>, <GLI>want</GLI>, <GLI>feel (like)</GLI>, <GLI>have a yen for</GLI></GL>
+<CM>Object of premonition is expressed by nominal in Dative case.</CM>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaaljaal-jarrimi, ngulaji yangka kujaka yapa kiyikiyi-jarri manu jalajala-jarrimi nyiya-rlanguku majuku marda ngurrjuku marda -- ngurrju-maninjaku -- yangka nyanungu yangka yapa -- wati marda, karnta marda, kurdu marda. <SRC>PPJ 6/88</SRC></WE>
+<ET><CT>Jaaljaal-jarrimi</CT> is when a person feels like or gets the urge to do something, either something bad or something good -- to make something -- just that person himself -- either a man or a woman or a child.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaaljaal-jarrimi karna janyungukupurda. <SRC>Alma Granites Nungarrayi, Y 27.9.88</SRC></WE>
+<ET>I feel like some tobacco.</ET></EXAMPLE>
+<EXAMPLE><WE>Wara! Janyunguku karna jaaljaal-jarrimi. <SRC>Jean Napanangka Brown Y 1988</SRC></WE>
+<ET>Oh I really feel like some tobacco.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jalajala">jalajala</CFI>, <CFI HENTRY="kiyikiyi">kiyikiyi</CFI>, <CFI HENTRY="ngampurrpa">ngampurrpa</CFI></CF>
+</SENSE>
+</ENTRY>
+
+<ENTRY><HW HNUM="1">jaal(pa)</HW>
+<POS>PV</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<SE><SEI HENTRY="jaal-karri-mi">jaal-karri-mi</SEI>, <SEI HENTRY="jaal-pari" HNUM="1">jaal-pari</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>end in sharp point</GLI>, <GLI>pointed</GLI></GL>
+<CF><CFI HENTRY="jampaly(pa)">jampalypa</CFI>, <CFI HENTRY="pukurdi">pukurdi</CFI>, <CFI HENTRY="yiri">yiri</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaal-karri-mi</HW>
+<POS>V</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<CME><CMEI HENTRY="jaal(pa)" HNUM="1">jaal(pa)</CMEI></CME>
+<GL><GLI>be pointed</GLI>, <GLI>taper off</GLI>, <GLI>stick out</GLI>, <GLI>protrude</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jukajukarla, jaal-jaal-karrimirra ka pamarrpa -- jaantakurra-pinyi ka pamarrpa. <SRC>krn</SRC></WE>
+<ET>At <CT>Jukajuka</CT>, the pointy rocks all stick up out of the ground -- they protrude way out.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jaantaku-karri-mi">jaantaku-karri-mi</CFI>, <CFI HENTRY="jaarn-karri-mi" HNUM="#">jaarn-karri-mi</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW HNUM="1" TYPE="SUB">jaal-pari</HW>
+<POS>N</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<CME><CMEI HENTRY="jaal(pa)" HNUM="1">jaal(pa)</CMEI></CME>
+<GL><GLI>sticking up</GLI>, <GLI>pointed</GLI>, <GLI>pointy</GLI>, <GLI>cone-shaped</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Pukurdi-wara ngulaju jaalpari. <SRC>{??}</SRC></WE>
+<ET>The traditional cone-shaped hairdo was pointed.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jampaly(pa)">jampalypa</CFI>, <CFI HENTRY="?">pukirdi</CFI>, <CFI HENTRY="yiri">yiri</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">jaal(pa)</HW>
+<POS>PV</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<SE><SEI HENTRY="jaal-jaal-karri-mi">jaal-jaal-karri-mi</SEI>, <SEI HENTRY="jaal-pari" HNUM="2">jaal-pari</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>sharp point</GLI></GL>
+<CF><CFI HENTRY="jaantaku">jaantaku-</CFI>, <CFI HENTRY="jaarn(pa)" HNUM="2">jaarn(pa)</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaal-jaal-karri-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaal(pa)" HNUM="2">jaal(pa)</CMEI></CME>
+<GL><GLI>stick up</GLI>, <GLI>stick out</GLI>, <GLI>protrude</GLI>, <GLI>end in a point</GLI>, <GLI>be pointed <SRC>krn</SRC></GLI></GL>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW HNUM="2" TYPE="SUB">jaal-pari</HW>
+<POS>N</POS>
+<CME><CMEI HENTRY="jaal(pa)" HNUM="2">jaal(pa)</CMEI></CME>
+<GL><GLI>pointed</GLI>, <GLI>with sharp point</GLI></GL>
+<CF><CFI HENTRY="jampaly(pa)">jampalypa</CFI>, <CFI HENTRY="pukurdi">pukurdi</CFI>, <CFI HENTRY="yiri">yiri</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW HNUM="1">jaaly(pa)</HW>
+<POS>N</POS>
+<POS>PV</POS>
+<SE><SEI HENTRY="jaalypa-wangka-mi">jaalypa-wangka-mi</SEI>, <SEI HENTRY="jaaly-ma-ni">jaaly-ma-ni</SEI></SE>
+<DOMAIN><DMI>sound</DMI>: </DOMAIN>
+<DEF>low volume (of sound)</DEF>
+<GL><GLI>whispering</GLI>, <GLI>soft (of voice)</GLI>, <GLI>low (of voice)</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaalypa, ngulaji yangka kujaka yapa wangkami pingka kanunju yangka yapakari purda-nyanjawangu, yangka kujakarla yapakariki kutu-nyayirni langangka wangkami yangka nyiyarlanguku, yangka kujakarla jaru yimi-ngarrirni yapakariki langangkarlu kutunyanyirnirli manu yangka kujaka yapakari japirni, payirni langangkarlu kutu-nyayirnirli -- yangka nyiyarlangu, yangka wakurturdu wangkanjawangurlu, manu wakurturdu warlawarla- maninjawangurlu, manu yangka purlanjakarra wangkanjawangurlu, kanunjurlu pingkangku. <SRC>PPJ 10/87</SRC></WE>
+<ET><CT>Jaalypa</CT> is when a person speaks softly and low so that another cannot hear, as one speaks about something in the ear of someone who is very close, like when he tells a story to another person right in his ear or asks another person something close up to that person's ear, not speaking loudly, or not calling out in a loud voice, not shouting, but talking low and softly.</ET></EXAMPLE>
+<EXAMPLE><WE TYPE="DEFN">Jaalypa, jaalypa yangka kajika kanunju wangka jaalypa-nyayirni. Ngulaju marda yikalurla kulurlangu jangkardu-wangka yangka kanunju kujakalu jaaly-mani -- jaalypa kujakalu wangkami. Jaalypa ngulaju kanunju. Kulalpalu kankarlu wangkayarla. Kulakarnalu jaalypaju ngarrirni kankarlu, kala yangka jaalypaju kanunju kujakalu wangka. <SRC>HN:0083-4</SRC></WE>
+<ET><CT>Jaalypa</CT> is like when one speaks in a low voice, very low. It is perhaps as when angry people are speaking against someone like in a low voice when they are plotting -- when they speak softly. They won't speak up. We don't call (speaking) up <CT>jaalypa</CT>, rather when people speak low.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="kanunju">kanunju</CFI>, <CFI HENTRY="pingka">pingka</CFI>, <CFI HENTRY="pulya">pulya</CFI>, <CFI HENTRY="wurdungu">wurdungu</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaalypa-wangka-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaaly(pa)" HNUM="1">jaaly(pa)</CMEI></CME>
+<DOMAIN><DMI>sound</DMI>: <DMI>speech</DMI>: </DOMAIN>
+<DEF>x speak (<CT>wangka-mi</CT>) in low volume (to yDAT)</DEF>
+<GL><GLI>whisper</GLI>, <GLI>speak in an undertone</GLI>, <GLI>speak softly</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jaalypa ka wangka, kulalparna purda-nyangkarla. <SRC>H59:77ns</SRC></WE>
+<ET>He's whispering and I can't hear him.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaalypa-wangkaya -- kalakangkulu purda-nyanyi panukarirli. <SRC>{??}</SRC></WE>
+<ET>Speak in a whisper, the others might hear you.</ET></EXAMPLE>
+</EXAMPLES>
+<SYN><SYNI HENTRY="japarilyparilypa-wangka-mi">japarilyparilypa-wangka-mi<DIALECTS><DLI>H</DLI></DIALECTS></SYNI></SYN>
+<CF><CFI HENTRY="waninja">waninja</CFI></CF>
+<CSL>YSL#1523</CSL>
+<SENSE>
+<DOMAIN><DMI>manner</DMI>: </DOMAIN>
+<GL><GLI>secretly</GLI>, <GLI>conspiring</GLI></GL>
+<CF><CFI HENTRY="jaal(pa)" HNUM="#">jaal(pa)</CFI>, <CFI HENTRY="wuruly(pa)">wuruly(pa)</CFI></CF>
+</SENSE>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaaly-ma-ni</HW>
+<POS>V</POS>
+<DIALECTS><DLI>La</DLI>,<DLI>Y</DLI></DIALECTS>
+<CME><CMEI HENTRY="jaaly(pa)" HNUM="1">jaaly(pa)</CMEI></CME>
+<DOMAIN><DMI>behavioural</DMI>: </DOMAIN>
+<DEF>xERG (=being) make plan to act with respect to yDAT (=being), such that plan is deliberately not made known to y</DEF>
+<GL><GLI>lay secret plans</GLI>, <GLI>plot against</GLI>, <GLI>conspire against</GLI>, <GLI>make secret arrangements for</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jintangka kirringka, kujalpalu nyinaja jukurrpa, ngulalurla jaaly-manu kurduku marluluku. <SRC>C:22</SRC> <SRC>SS p.7 (3/1983)</SRC></WE>
+<ET>In the same place where the Dreaming heroes were, they laid plans concerning the youth to be initiated.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jaru-pi-nyi">jaru-pi-nyi</CFI>, <CFI HENTRY="jirringi-yirra-rni">jirringi-yirra-rni</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">jaaly(pa)</HW>
+<POS>PV</POS>
+<SE><SEI HENTRY="jaaly-luwa-rni">jaaly-luwa-rni</SEI></SE>
+<GL><GLI>cooling</GLI></GL>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaaly-luwa-rni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaaly(pa)" HNUM="2">jaaly(pa)</CMEI></CME>
+<DOMAIN><DMI>weather</DMI>: </DOMAIN>
+<DEF>xERG (=wind) cause cooling effect on y, by coming into contact with y</DEF>
+<GL><GLI>blow cool air/ wind/ breeze on</GLI>, <GLI>cool (of wind)</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaaly-luwarni, ngulaju yangka payingki yangka kujakangalpa jaaly-luwarnirni. Kajilpangku wupun-wupun-purrayarla, pardayirla-wiyi, ngula-jangka kajilpa payilki yarnkayarlarni warlpalku, ngula kajikanpa wangka kujalku: "Yatiyi! Payingkilki kaju jaaly-luwarnirni. Walykalku ka ngurrju wangkamirni payilki. <SRC>HN:0056</SRC></WE>
+<ET><CT>Jaaly-luwarni</CT> is when the wind blows cool on us. If you are being scorched by hot air and then a cool wind comes up you would say: "Hurrah! The wind is now blowing cool on me, a nice cool breeze is now blowing this way.</ET></EXAMPLE>
+<EXAMPLE><WE TYPE="DEFN">Jaaly-luwarniji karnalu ngarrirni yika yangka -- payingki -- kanganpa jaaly-luwarni. Yika tuurntuurnparla -- ngulaju karnalu jaaly-luwarniji ngarrirni. Yika payingki yangka jaalyparni-luwarni. <SRC>HN:0381</SRC></WE>
+<ET>We call <CT>jaaly-luwarni</CT> like when the wind blows cool air on us. In very hot weather we call it <CT>jaaly-luwarni</CT> when the wind blows cool air in our direction.</ET></EXAMPLE>
+<EXAMPLE><WE TYPE="DEFN">Ngula-jangkaju yitirlili yirrarnu, wiyarrpa. Payingki ka jaaly-luwarni. <SRC>H59:149ns</SRC></WE>
+<ET>After that, they put him (sick person) outside, poor thing. The wind is blowing cool on him.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY><HW>jaantaku</HW>
+<POS>PV</POS>
+<DIALECTS><DLI>La</DLI>,<DLI>Y</DLI></DIALECTS>
+<SE><SEI HENTRY="jaantaku-karri-mi">jaantaku-karri-mi</SEI>, <SEI HENTRY="jaantaku-pari">jaantaku-pari</SEI>, <SEI HENTRY="jaantaku-pi-nyi">jaantaku-pi-nyi</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>steep</GLI>, <GLI>sharp rise</GLI>, <GLI>sharp fall</GLI>, <GLI>high and steep</GLI>, <GLI>protruding</GLI></GL>
+<CF><CFI HENTRY="jaal(pa)" HNUM="2">jaal(pa)</CFI>, <CFI HENTRY="jaantarr(pa)">jaantarr(pa)</CFI>, <CFI HENTRY="jaarn(pa)" HNUM="1">jaarn(pa)</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaantaku-karri-mi</HW>
+<POS>V</POS>
+<DIALECTS><DLI>La</DLI>,<DLI>Y</DLI></DIALECTS>
+<CME><CMEI HENTRY="jaantaku">jaantaku</CMEI></CME>
+<GL><GLI>be steep</GLI>, <GLI>rise straight upwards</GLI>, <GLI>go straight up</GLI>, <GLI>rise sharply</GLI>, <GLI>be high (as of forehead)</GLI>, <GLI>stick out</GLI>, <GLI>protrude</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jaantaku-karri yangka wiri milpirimpiri kalu yapa nyina. Milpa wiri ngulakalu milpirimpiri jingijingi karrimi yungkurnu. <SRC>JNE 1983</SRC></WE>
+<ET>Some people have big eyebrows that stick out. They have big eyes that the brow bone stands straight out over.</ET></EXAMPLE>
+<EXAMPLE><WE>Mulyu waja ka Karrinyarra jaantakurra-karrimi kuja-purda. <SRC>krn</SRC></WE>
+<ET>The crest (lit. nose) of <CT>Karrinyarra</CT> (Mount Wedge) is sticking out away from us.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jaarn-karri-mi" HNUM="1">jaarn-karri-mi</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaantaku-pari</HW>
+<POS>N</POS>
+<CME><CMEI HENTRY="jaantaku">jaantaku</CMEI></CME>
+<GL><GLI>steep</GLI>, <GLI>sharp (of rise, fall)</GLI>, <GLI>high (of forehead)</GLI>, <GLI>prominent</GLI>, <GLI>protruding</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaantakupari, ngula yangka -- milpirimpiri wiri kujakalu nyina panukari. Rdakulpa marda -- milpa wiri. Milpa wita. Milpirimpiri wiri marda yangka. Yika jaantaku-pinyi. <SRC>HN:0175</SRC></WE>
+<ET><CT>Jaantakupari</CT>, that is like those people who have big eye-brows that protrude out and make the eyes appear to be sunken whether they are big or small. The eye-brows which are more prominent stand out further (than the eyes).</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaantaku-pi-nyi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaantaku">jaantaku</CMEI></CME>
+<XME><XMEI HENTRY="jaantaku-karri-mi">jaantaku-karri-mi</XMEI></XME>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaantaku-pinyiji kujakarlipa ngarrirni, ngula milpirimpiri wiri. Manu rdaku milpa yangka, wirilki -- milpirimpiriji ka jaantaku-pinyi. <SRC>HN:0175</SRC></WE>
+<ET>What we describe by <CT>jaantaku-pinyi</CT>, are big eye-brows or eyes that are like sunken in under prominent eye-brows which protrude well beyond the eyes themselves.</ET></EXAMPLE>
+<EXAMPLE><WE>Ngarnka ka jaantaku-pinyi, ngulaju karaly-karalypa. Kulalpalu yapa warrkakarla. Kalakalu wantimi. <SRC>krn</SRC></WE>
+<ET>The bluff is steep and is very slippery. People cannot climb it. They might fall down.</ET></EXAMPLE>
+<EXAMPLE><WE>Ngulaju pirli ka ngarnka jaantaku-pinyi. <SRC>jj</SRC></WE>
+<ET>The cliff-face rises sharply.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaantaku-pinyi-ka ngami turaki-kirlangu. <SRC>jj</SRC></WE>
+<ET>The tray of the tip truck is fully elevated.</ET></EXAMPLE>
+<EXAMPLE><WE>Pirntinyarra-ka jaantaku-pinyi karrungka. <SRC>jj</SRC></WE>
+<ET>The river bank is very high and steep.</ET></EXAMPLE>
+</EXAMPLES>
+<CM>The word often has the sense of there being a washed-out or fallen-away section of the bank of a water-course which results in the steepness.</CM>
+<GL><GLI>be steep</GLI>, <GLI>rise straight upwards</GLI>, <GLI>go straight up</GLI>, <GLI>rise sharply</GLI>, <GLI>be high (as of forehead)</GLI>, <GLI>stick out</GLI>, <GLI>protrude</GLI></GL>
+</ENTRY>
+
+<ENTRY><HW>jaantarr(pa)</HW>
+<POS>PV</POS>
+<SE><SEI HENTRY="jaantarr-karri-mi">jaantarr-karri-mi</SEI>, <SEI HENTRY="jaantarr-pari">jaantarr-pari</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: <DMI>directional</DMI>: </DOMAIN>
+<DEF>extending beyond surrounding surface</DEF>
+<GL><GLI>protruding</GLI>, <GLI>prominent</GLI></GL>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaantarr-karri-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaantarr(pa)">jaantarr(pa)</CMEI></CME>
+<DEF>x extend beyond surrounding surface</DEF>
+<GL><GLI>protrude</GLI>, <GLI>stand out from</GLI>, <GLI>stick out from</GLI>, <GLI>be big and fat <SRC>GJR</SRC></GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Yangka yungkurnu kalu jaarntarr-karrimi jimantarla yapa -- kakardarlangurla. <SRC>JNE 1983</SRC></WE>
+<ET>That bone on people's shoulders stands out, and also at the back of the neck.</ET></EXAMPLE>
+<EXAMPLE><WE>Pirlirlangu ka jaantarr-karrimi. <SRC>JNE 1983</SRC></WE>
+<ET>Rocky hills also protrude.</ET></EXAMPLE>
+<EXAMPLE><WE>Wati witawangu ka jaantarr-karrimi. <SRC>C:ML</SRC></WE>
+<ET>The very fat man stands out.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="?">rdapu-rdapu</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaantarr-pari</HW>
+<POS>N</POS>
+<CME><CMEI HENTRY="jaantarr(pa)">jaantarr(pa)</CMEI></CME>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>protruding</GLI>, <GLI>prominent</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Mingkirrirlangu kalu jaantarr-karrinja-yani jaantarrpari- jaantarrpari marnawana. <SRC>JNE 1983</SRC></WE>
+<ET>Ant hills stand out protruding out from amongst the spinifex grass.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jaantaku-pari">jaantaku-pari</CFI>, <CFI HENTRY="turlkun-ku">turlkun-ku</CFI>, <CFI HENTRY="turlkun-pari">turlkun-pari</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW>jaa-nyurdu</HW>
+<POS>N</POS>
+<DIALECTS><DLI>La</DLI></DIALECTS>
+<DOMAIN><DMI>sound</DMI>: <DMI>body related</DMI>: </DOMAIN>
+<DEF>unable to speak (<CT>wangka-mi</CT>) normally (of human)</DEF>
+<GL><GLI>mute</GLI>, <GLI>dumb</GLI>, <GLI>speech-impeded</GLI>, <GLI>speech-impaired</GLI>, <GLI>with speech defect</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Rdaka-rdaka ngulaji yangka kujaka wangkami kalipuka, manu kujaka yangka nyinami jalanypa jaanyurdu. <SRC>ppj</SRC></WE>
+<ET>Hand-talk is how a widow speaks, or a mute person.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jaa">jaa</CFI>, <CFI HENTRY="jalanypa-kari">jalanypa-kari</CFI>, <CFI HENTRY="jirdikarrapiyi">jirdikarrapiyi</CFI>, <CFI HENTRY="yaja-palyapalya">yaja-palyapalya</CFI>, <CFI HENTRY="yurrkurduju">yurrkurduju</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW>jaarl(pa)</HW>
+<POS>PV</POS>
+<DIALECTS><DLI>La</DLI>,<DLI>Y</DLI></DIALECTS>
+<SE><SEI HENTRY="jaarl-karri-mi">jaarl-karri-mi</SEI>, <SEI HENTRY="jaarl-luwa-rni">jaarl-luwa-rni</SEI>, <SEI HENTRY="jaarl-ma-ni">jaarl-ma-ni</SEI>, <SEI HENTRY="jaarl-marda-rni">jaarl-marda-rni</SEI>, <SEI HENTRY="jaarl-nguna-mi">jaarl-nguna-mi</SEI>, <SEI HENTRY="jaarl-parnka-mi">jaarl-parnka-mi</SEI>, <SEI HENTRY="jaarl-ya-ni">jaarl-ya-ni</SEI>, <SEI HENTRY="jaarl-yirra-rni">jaarl-yirra-rni</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>in the way of</GLI>, <GLI>in the path of</GLI>, <GLI>blocking</GLI>, <GLI>obstructing</GLI>, <GLI>across</GLI></GL>
+<CF><CFI HENTRY="tirnngi">tirnngi</CFI>, <CFI HENTRY="yirrngirrngi">yirrngirrngi</CFI></CF>
+<SYN><SYNI HENTRY="jarlki">jarlki<DIALECTS><DLI>H</DLI>,<DLI>Wi</DLI></DIALECTS></SYNI></SYN>
+<CSL>YSL#930</CSL>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarl-karri-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarl(pa)">jaarl(pa)</CMEI></CME>
+<GL><GLI>block the way of</GLI>, <GLI>stand in way of</GLI>, <GLI>block passage of</GLI>, <GLI>obstruct passage of</GLI>, <GLI>stop from</GLI>, <GLI>intervene</GLI>, <GLI>reserve for</GLI>, <GLI>protect from</GLI>, <GLI>defend from</GLI></GL>
+<CM>Original case-frame of VERB is maintained; new DAT case-marked argument is added.</CM>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-karri kanyanu, ngulaju yangka murrumurru -- pingkangku marnpirninjaku. Kala wakurturdurlu kajipanpa marnpikarla, ngula kanyanu jaarl-karri wakurturdurlaju. Yangka kajilpanpa wakurturdurlu marnpikarla. Ngulaju kanyanu jaarl-karri. Yikanpa wakurturdurlu yangka jirri-mardarni, murrumurru-jarri ka. Pingkangka, ngulaju ngurrju. Wakurturdurla, jaarl-karri kanyanu. Ngulanya. <SRC>HN:0214-5</SRC></WE>
+<ET>One stops someone from touching one when one is sore so that they will touch gently, for if you were to touch her roughly, then she will recoil at the roughness. Thus if you touch her roughly, she will intervene. When you take hold of her firmly then it hurts her. When you have a gentle touch, that's fine. When it's rough, she will stop you from touching her.</ET></EXAMPLE>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-karrimi, ngulaji kujakarlipajana yapakariki pata-pinyi manu kurnta-ngarrirni, "Yampiya wiyarrpa yarnma, ngawu-ngawu, pakarninjawangurlu kulunypawangurlu --ngawu-ngawu, kuluparntawangu manu ngawu-ngawu jami." <SRC>PPJ 10/87</SRC></WE>
+<ET><CT>Jaarl-karrimi</CT> is when we warn other people and tell them off, "Leave that poor skinny thing alone. Stop hitting her in anger -- she cannot fight and does not fight and is no threat."</ET></EXAMPLE>
+<EXAMPLE><WE>Jupurrurla karla jaarl-karrimi yapakariki. <SRC>{??}</SRC></WE>
+<ET>Jupurrurla is standing in the way of the other person.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaarl-karrimi karla parnkanjakujaku yapa yirdiyirla manu yangka yapa karla kulukujaku jaarl-karrimi yimi. <SRC>JNE 1983</SRC></WE>
+<ET>A person blocks someone's passage on the road or stops someone from fighting by talking (i.e. by telling them not to fight).</ET></EXAMPLE>
+<EXAMPLE><WE>Ngulajuku -- lawalku maniyi nyuntunyangukuju. Nyurrunpa muku manu. Kala -- yapa yalumpuku kanparlajana jaarl-karri -- nyurrunpa nyuntulurluju muku manu. Yapa yalumpurra kujakalu karri panu, yingalu ngulangkulku mani. <SRC>{??}</SRC></WE>
+<ET>That's it, your money has all gone. You've already bought all you can. And moreover you are standing in the way of those people -- you've already bought everything you can. Those people are all standing there, let them buy now.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaarl-karrijalpanyanurla kurdu-kurdukuju marluju kirdanyanuju. <SRC>{??}</SRC></WE>
+<ET>The father kangaroo stood between him and his own children (to protect them).</ET></EXAMPLE>
+<EXAMPLE><WE>Nyampuku karnajurla jaarl-karri. <SRC>SS</SRC></WE>
+<ET>I'm protecting myself from it.</ET></EXAMPLE>
+<EXAMPLE><WE>Ngarirnangku ngaju jaarl-karrija. <SRC>SS</SRC></WE>
+<ET>I just protected you from that trouble.</ET></EXAMPLE>
+<EXAMPLE><WE>Ngarirla jaarl-karrija yalumpuku, kala kapu nyinayarla pirnkingka. <SRC>SS</SRC></WE>
+<ET>He (the lawyer) defended that one, otherwise he would have landed in jail.</ET></EXAMPLE>
+</EXAMPLES>
+<ALT><ALTI HENTRY="?">jarlki-karri-mi<DIALECTS><DLI>H</DLI>,<DLI>Wi</DLI></DIALECTS></ALTI></ALT>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarl-luwa-rni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarl(pa)">jaarl(pa)</CMEI></CME>
+<GL><GLI>throw and block/stop</GLI>, <GLI>strike and block/stop (of lightning)</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-luwarni yangka karla yapangku jintakarirli parnkanjakujaku yapaku. Manu ngapaku karla wirnpangku jaarl-luwarni. <SRC>JNE 1983</SRC></WE>
+<ET>Another person blocks someone who is trying to run away by throwing something at him. Or lightning strikes and stops approaching rain.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="?">parrparda-jaarl-luwa-rni</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarl-ma-ni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarl(pa)">jaarl(pa)</CMEI></CME>
+<DEF>xERG cause self to be in path of yDAT, in order to cause y not to come to be at some place [DD]</DEF>
+<GL><GLI>block</GLI>, <GLI>intercept</GLI>, <GLI>cut off</GLI>, <GLI>allow no room for</GLI>, <GLI>bar passage to</GLI>, <GLI>block way of</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-mani, ngulaji yangka kujakarlajinta yapakariki yuwarli-ngirliki wilypi-pardinjaku nyinami tuwangkajuku yangka yapa wirijarlu. Manu yangka kujakarlajinta yapaku karrungka ngapa-witawangu ngunami yirdiyirla yangka rdulykurr-yaninjaku tiraki-kirliki. <SRC>PPJ 10/87</SRC></WE>
+<ET><CT>Jaarl-mani</CT> is like when a very big person sits in the doorway and prevents another person from coming out from a building. Or how a lot of water in a creek that runs across a road stops anyone from driving through it and being able to keep going.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaarl-mani kanpajurla. <SRC>{??}</SRC></WE>
+<ET>You're in my way.</ET></EXAMPLE>
+<EXAMPLE><WE>Yalingirlinyalu purlayampa pirli-ngirli kakarrara-ngurlu yinya kajirnalujanarla karlarra jaarl-mani. <SRC>DJ-NyuYu:9</SRC></WE>
+<ET>Shout at them (rock wallabies) from over there, from the hill to the east there so that we others can intercept them on the west side.</ET></EXAMPLE>
+<EXAMPLE><WE>Milpirrirlingalparla jaarl-manu. <SRC>H59:65ns</SRC></WE>
+<ET>The clouds obscured our vision.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaarl-mantarla! <SRC>H59:65ns</SRC></WE>
+<ET>Don't give him room! (Don't let him through/past.)</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="kurriyi-ma-ni">kurriyi-ma-ni</CFI>, <CFI HENTRY="ngarlki-ma-ni" HNUM="#">ngarlki-ma-ni</CFI>, <CFI HENTRY="?">ngarlkinpa</CFI>, <CFI HENTRY="ngarlki-rni">ngarlki-rni</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarl-marda-rni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarl(pa)">jaarl(pa)</CMEI></CME>
+<GL><GLI>hold and block</GLI>, <GLI>parry</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-mardarni, ngulaji yangka kujanyanurla mirta mardarni ngarlkinpa manu kurdiji mardarni ngarlkinpa yangka yapakarikijaku luwarninjakujaku karlikirlikijaku manu yangka kujakanyanu kankarlarninginti ngarlkinpa jurruku yaarl-mardarni pakarninjakujaku yapakarikijaku jurrukujaku. <SRC>PPJ 10/87</SRC></WE>
+<ET><CT>Jaarl-mardarni</CT> is like when a person holds a hard-wood shield as a blocker or a soft-wood shield as a blocker to stop the blows of another's boomerangs hurled at him and like when he holds it up over his head to avoid being hit on the head by another person.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarl-nguna-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarl(pa)">jaarl(pa)</CMEI></CME>
+<GL><GLI>lie in the way of</GLI>, <GLI>lie in/on path of</GLI>, <GLI>lie blocking passage</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-ngunami, ngulaji yangka kujakarla ngunami warrawarra ngatinyanu kurdunyanunguku nyanungunyanguku yapakujaku manu jarntukujaku manu nyiyarlangukujaku. <SRC>PPJ 10/85,10/87</SRC></WE>
+<ET><CT>Jaarl-ngunami</CT> is like how a mother lies to protect her child from another person or from a dog or from anything.</ET></EXAMPLE>
+<EXAMPLE><WE>Lulju karla wardapiki jaarl-ngunami ngulyangka. <SRC>{??}</SRC></WE>
+<ET>The dug-away earth lies in the burrow on the path of the goanna.</ET></EXAMPLE>
+<EXAMPLE><WE>Ngatinyanu karla jaarl-ngunami kurduku warlukujaku. <SRC>{??}</SRC></WE>
+<ET>The mother lies between her child and the fire so as to protect the child from the fire.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaarl-ngunami karla ngapa ruuturla wiri, manu watiya karla jaarl- ngunami wiri ruuturla. <SRC>JNE 1983</SRC></WE>
+<ET>Much water lying on the road blocks the way and a big tree lying across the road also bars the way.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarl-parnka-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarl(pa)">jaarl(pa)</CMEI></CME>
+<DEF>x move rapidly to come to be in path of yDAT</DEF>
+<GL><GLI>run in way of</GLI>, <GLI>cut off</GLI>, <GLI>head off</GLI>, <GLI>run in front of</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-parnkami, ngulaji yangka kujaka yapa yarnkamirra lani pakarninjakujaku ngula kujakarla yapakari yurnturru warru-parnka. Ngula kujaka nyanyi yapakari yurnturruwarnu kamparrurla karrinjakurra, ngulaji ka nyanjarla juul-karrinjarla kulpari yarnkamirni mulu-nyanjarla laniji. <SRC>PPJ 10/87</SRC></WE>
+<ET><CT>Jaarl-parnkami</CT> is like when a person takes off in fear of being hit and another person runs around and cuts him off. Then when he sees the other person who has run around standing in front of him, then he stops and starts back, avoiding him out of fear.</ET></EXAMPLE>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-parnka, kajilpa yangka marlu parnkayarla -- marlurlangu, parnkami kujaka, ngula karla malikiji yangka jaarl-parnkamilki. Yinga yangka puuly-mardarnirralku jaarl-parnkanjarla. Malikirliji. Ngulanya -- jaarl-parnkaju. Ngulajuku. Jaarl-parnka, jaarl-parnka kujakarnalu ngarrini, ngula yangka ka purdangirlirliwiyi wajili-pinyi malikirli, wawirri, kamparru ka parnka wawirri, purdangirli maliki, ngula, kulalpa yangka puuly-mardakarla, ramarrawanalku karla parnka, malikiji, ngularla yangka jaarl-parnkamilki, ramarrawanajangkaju, yinga kapanku puuly-mardarnikatu jaarl-parnkanjawarnurluju. <SRC>HN:0108</SRC></WE>
+<ET><CT>Jaarl-parnka</CT> is like if a kangaroo, for example, were to run and while it's running a dog cuts it off, so that it can take hold of it once the dog has cut it off. That is what <CT>jaarl-parnka</CT> means. What we call <CT>jaarl-parnka</CT> is like when a dog is first of all chasing a kangaroo from behind -- the kangaroo running in front, the dog behind -- then the dog cannot seize hold of the it so it runs up alongside of the kangaroo, and then runs in front of it coming from the side to quickly seize hold of the kangaroo better having cut in front of it.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarl-ya-ni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarl(pa)">jaarl(pa)</CMEI></CME>
+<GL><GLI>go in way of</GLI>, <GLI>cut in front of</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarl-yani, ngulaji yangka kujakarla yapaku yirdiyirla warna wirijarlurlu yirdiyi jaarl-mani, yangka kujaka yapa lani yirdiyirla jupu-karrinjarla yanirni pina. Manu yangka kujakarla yapaku turakikirliki ngapa karrungka jaarl-yani. Yangka rdulykurr- yaninjaku. <SRC>PPJ 6/87</SRC></WE>
+<ET><CT>Jaarl-yani</CT> is like when a big snake blocks the path of a person going along the road, and the person stops, afraid, and goes back. Or like when water in a creek bars the way to a person in a vehicle, like stops them from going straight through.</ET></EXAMPLE>
+</EXAMPLES>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarl-yirra-rni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarl(pa)">jaarl(pa)</CMEI></CME>
+<GL><GLI>block up entrance/passage with</GLI>, <GLI>put up a barrier to</GLI>, <GLI>stop (up) with</GLI>, <GLI>block</GLI>, <GLI>close out</GLI>, <GLI>shut in</GLI>, <GLI>shut out</GLI>, <GLI>keep out</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Palyayijala karla kanunjumparra ngunami, yikanyanu jaarl-yirrarni minikiyirli. Yangka nyiyarlangu kajikarla yukami. Ngaparlangu, ngulakujaku yikanyanu jaarl-yirrarni palya. Ngapapuru kalunyanu jaarl-yirrarni, kulalpalu wilypi-pardiyarla milpawanaju. <SRC>C: in part</SRC></WE>
+<ET>Wax too lies underneath it, thus the native honey-bee blocks itself in. Like something could get in to it. Such as rain, he blocks himself in with wax to keep it out. When it is raining, they block themselves in, and they cannot get out through the opening (of the hive).</ET></EXAMPLE>
+</EXAMPLES>
+<CM>Where the original diathesis of VERB includes a DAT argument, the added argument is typically expressed by NEGPURP cased marked nominal.</CM>
+<EXAMPLES>
+<EXAMPLE><WE>Palya karla jaarl-yirrarni ngapakujaku. <SRC>C</SRC></WE>
+<ET>They put wax on it to block out water.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="rdapu-pi-nyi">rdapu-pi-nyi</CFI>, <CFI HENTRY="tirnngi-yirra-rni">tirnngi-yirra-rni</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW>jaarlparra</HW>
+<POS>N</POS>
+<DIALECTS><DLI>Wi</DLI>,<DLI>Y</DLI></DIALECTS>
+<DOMAIN><DMI>behavioural</DMI>: <DMI>speech</DMI>: </DOMAIN>
+<DEF>way of talking that is not direct or open but which has to be specially decoded to get real meaning, typically used to exclude uninformed listeners from intended meaning</DEF>
+<GL><GLI>secret code</GLI>, <GLI>coded speech</GLI>, <GLI>indirect speech</GLI>, <GLI>sousentendu</GLI>, <GLI>misleading words</GLI>, <GLI>obscure speech</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarlparra yangka kujakalu wangkami, yapakarikijaku purda-nyanjakujaku. Kuluku-rlangu pamaku-rlangu, yangka kujakalunyanu yiwarrarla wuruly-yirrarni warrarda, ngarrirni kalu-nyanurla yangka, "Nyiya-jangka kalungalpa jaarlparrarlu yajarni waja?" Kulukujaku-rlangu warraja-maninjakujaku-rlangu, nyiya-kantikantikijaku, kajika yimi kanyi. Kuja kalu wangka, "Yanirlipa wirlinyi waja -- kakarrara!" "Ngulaju pamakurlu-rlangulu-ngalpa jaarlparrarnu yajarnu waja." <SRC>krn</SRC></WE>
+<ET>That <CT>jaarlparra</CT> way of talking is to prevent others from knowing something. Like it might be for a fight or for something like grog that they always hide for themselves along the road, they say to each other, "Why are they asking us to go with them in this tricking deceptive way?" They talk like this to stop news of something like a fight or the presence of grog from spreading out. They talk like this, "Let's go out for the day -- (let's go) east." "It must be that they have got grog so that they are getting us to go with them in that deceptive way."</ET></EXAMPLE>
+<EXAMPLE><WE TYPE="DEFN">Jaarlparra yangka yimi-wangu. Yanirni ka tawunu-jangka-rlangu, yajarni kajana jaarlparrarlu. <SRC>krn</SRC></WE>
+<ET><CT>Jaarlparra</CT> is not (giving out) news. Someone comes back from town, and then gets some people to go with him in a way that is meant to deceive the others (as to the real reason).</ET></EXAMPLE>
+<EXAMPLE><WE>Ngarilpa jaarlparrarlu kangu. <SRC>Winnie:Y</SRC></WE>
+<ET>They were taking the girl off unbeknown to her letting her think they were doing something else.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jaaly(pa)" HNUM="#">jaalypa</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW HNUM="1">jaarn(pa)</HW>
+<POS>PV</POS>
+<SE><SEI HENTRY="jaarn-karri-mi" HNUM="1">jaarn-karri-mi</SEI>, <SEI HENTRY="jaarn-paka-rni">jaarn-paka-rni</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>arched</GLI>, <GLI>overhanging</GLI>, <GLI>leaning across</GLI>, <GLI>leaning over</GLI>, <GLI>out over</GLI></GL>
+<CF><CFI HENTRY="jaantaku">jaantaku</CFI>, <CFI HENTRY="jakurdan(pa)">jakurdan(pa)</CFI>, <CFI HENTRY="jartirimin(pa)">jartirimin(pa)</CFI>, <CFI HENTRY="jartiripin(pa)">jartiripin(pa)</CFI>, <CFI HENTRY="narntirn(pa)">narntirn(pa)</CFI>, <CFI HENTRY="nganjiny(pa)">nganjiny(pa)</CFI>, <CFI HENTRY="ngawily(pa)">ngawily(pa)</CFI>, <CFI HENTRY="ngawirr(pa)">ngawirr(pa)</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW HNUM="1" TYPE="SUB">jaarn-karri-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarn(pa)" HNUM="1">jaarn(pa)</CMEI></CME>
+<DEF>x be arch</DEF>
+<GL><GLI>form an arch</GLI>, <GLI>be arched</GLI>, <GLI>lean over/against/across</GLI>, <GLI>hang over</GLI>, <GLI>bend over</GLI>, <GLI>be stretched over</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jaarn-karrimi, ngulaji kujaka jaarn-karrimi pantirninja-warnu yapa yawarra yirlara yangka yirajarrarra manu yangka kujaka pirli kankarlu-warnu paya-paya jaarn-karri. <SRC>PPJ 10/87</SRC></WE>
+<ET><CT>Jaarn-karrimi</CT> is like when a person has been stabbed and their flesh hangs open in two separate pieces, or like the high part of a rocky hill that stands out separately in the distance.</ET></EXAMPLE>
+<EXAMPLE><WE TYPE="DEFN">Jaarn-karri, jaarn-karri karnalu ngarrirni yangka kajilpa yaparlangu pirli panmangka wardu-karriyarlarni, jaarn-karriyarlarni, kajika yapakarirli nyanyi, "Yapa ka pirlingka yali jaarn-karrimirni." <SRC>{??}</SRC></WE>
+<ET>We call <CT>jaarn-karri</CT> like if someone were lying face down over a flat rock, were bent over it, another person might see him (and say) "That person there is stretched over the rock."</ET></EXAMPLE>
+<EXAMPLE><WE>Ngarnka ka jaarn-karrimi kirdirrparla kankarlumparrawarnu. <SRC>{??}</SRC></WE>
+<ET>The rim of rock forms an arch over the cave.</ET></EXAMPLE>
+<EXAMPLE><WE>Pirnki karnalu ngarrirni, kujaka jaarn-karri yangka ngarnkangka kanunjumparra. <SRC>{??}</SRC></WE>
+<ET>We refer to a cave as that which stands in the form of an arch under a rim of rock.</ET></EXAMPLE>
+<EXAMPLE><WE>Watiyarla ka jaarn-karrimi wati. <SRC>{??}</SRC></WE>
+<ET>The man is leaning against the tree.</ET></EXAMPLE>
+<EXAMPLE><WE>Jaarn-karri kalu pirli ruutuwana manu wurnturu yangka kujakarlipa nyanyi manu yangka kujakarlipa wapami ngula karlipa nyanyi watiya wiri jaarn-karrinjakurra watiya jamalya manu wita-wita. <SRC>JNE 1983</SRC></WE>
+<ET>Rocks lean out over the road that we can see from afar as we are travelling, and as we are walking we can see big trees and logs and small sticks too bending over.</ET></EXAMPLE>
+<EXAMPLE><WE>Yangka kalunyanu jaarn-karri junmajangka wanarri yapa, kujakalunyanu pajirni wanarri. <SRC>JNE 1983</SRC></WE>
+<ET>People stand supporting a wounded leg against the other leg when they have cut themselves on the thigh with a knife.</ET></EXAMPLE>
+<EXAMPLE><WE>Jamirdi ka jarda mirdi jaarn-karrimi. <SRC>E</SRC></WE>
+<ET>My mother's father is sleeping with his knees up.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="jaantaku-karri-mi">jaantaku-karri-mi</CFI>, <CFI HENTRY="jaantarr-karri-mi">jaantarr-karri-mi</CFI>, <CFI HENTRY="?">jungkurr-karri-mi</CFI>, <CFI HENTRY="wardu-karri-mi">wardu-karri-mi</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW TYPE="SUB">jaarn-paka-rni</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarn(pa)" HNUM="1">jaarn(pa)</CMEI></CME>
+<GL><GLI>chop down over</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Kurdukurnarla yaarlpa-jaarn-pakarnu watiya. <SRC>{??}</SRC></WE>
+<ET>I chopped the tree down over the top of the child.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="rdaaly-paka-rni">rdaaly-paka-rni</CFI>, <CFI HENTRY="?">yaarl-paka-rni</CFI></CF>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">jaarn(pa)</HW>
+<POS>PV</POS>
+<SE><SEI HENTRY="jaarn-karri-mi" HNUM="2">jaarn-karri-mi</SEI></SE>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL><GLI>protruding</GLI>, <GLI>up</GLI>, <GLI>out</GLI></GL>
+<CF><CFI HENTRY="jaal(pa)" HNUM="2">jaal(pa)</CFI>, <CFI HENTRY="jaantaku">jaantaku</CFI>, <CFI HENTRY="?">jamalypa</CFI>, <CFI HENTRY="juka" HNUM="#">juka</CFI></CF>
+</ENTRY>
+
+<ENTRY TYPE="SUB"><HW HNUM="2" TYPE="SUB">jaarn-karri-mi</HW>
+<POS>V</POS>
+<CME><CMEI HENTRY="jaarn(pa)" HNUM="2">jaarn(pa)</CMEI></CME>
+<GL><GLI>protrude</GLI>, <GLI>stick up</GLI>, <GLI>stand out</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jaarnparra ka karrimi Karrinyarra, "Nyiya ka pirli yinya jaarnpampa karri?" <SRC>krn</SRC></WE>
+<ET><CT>Karrinyarra</CT> (Mount Wedge) stands out in the distance, "What's that hill that's standing out there in front of us?"</ET></EXAMPLE>
+<EXAMPLE><WE>Jampalypa ka jaarn-karrimi lalypa-wangu. <SRC>krn</SRC></WE>
+<ET>This pointed thing that is not flat is sticking up.</ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI HENTRY="juka-karri-mi">juka-karri-mi</CFI>, <CFI HENTRY="?">yulu-nguna-mi</CFI></CF>
+<SENSE>
+<GL><GLI>stay up</GLI>, <GLI>be alert</GLI>, <GLI>be on the lookout</GLI></GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jaarn-karrinjarla ka yakarrarlu nyanyi karnta nyanungu-parntarlu. <SRC>krn</SRC></WE>
+<ET>Staying up on the alert, his wife who was awake saw him.</ET></EXAMPLE>
+</EXAMPLES>
+</SENSE>
+</ENTRY>
+
+<ENTRY><HW>jaarntarr(pa)</HW>
+<POS>PV</POS>
+<SE><SEI HENTRY="jaarntarr-karri-mi">jaarntarr-karri-mi</SEI>, <SEI HENTRY="jaarntarr-pardi-mi">jaarntarr-pardi-mi</SEI></SE>
+<DOMAIN><DMI>sound</DMI>: <DMI>body related</DMI>: </DOMAIN>
+<GL><GLI>belch</GLI>, <GLI>burp</GLI>, <GLI>hiccup</GLI></GL>
+<SYN><SYNI HENTRY="ngikarnturr(pa)">ngikarnturr(pa)</SYNI></SYN>
+</ENTRY>
+
+</DICTIONARY>

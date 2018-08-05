@@ -1,0 +1,108 @@
+<?XML version="1.0" encoding="ISO-8859-1"?>
+<DICTIONARY>
+<ENTRY><HW HNUM="1">-ja</HW>
+<FREQ>0</FREQ>
+<POS>ENCL</POS>
+<SOUND><SNDI>computer.au</SNDI></SOUND>
+<IMAGE><IMGI>kangaroo.gif</IMGI></IMAGE>
+<DEF>Assertive: this clitic draws assertive emphasis to a proposition. It is added to the final word of the constituent expressing the proposition</DEF>
+<GL>indeed, in <FL>fact</FL>, assuredly, actually</GL>
+<CM>Predicate scope.</CM>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">-ja</HW>
+<FREQ>230</FREQ>
+<POS>V-SFX</POS>
+<DEF>PAST tense suffix on verbs of the <CT>-mi</CT> class</DEF>
+<REFA>See TABLE OF VERBAL SUFFIXES</REFA>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">jamaru</HW>
+<SOUND><SNDI>jamaru.au</SNDI></SOUND>
+<FREQ>230</FREQ>
+<POS>V-SFX</POS>
+<DEF>PAST tense suffix on verbs of the <CT>-mi</CT> class</DEF>
+<REFA>See TABLE OF VERBAL SUFFIXES</REFA>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">jumu(pa)</HW>
+<SOUND><SNDI>jumu.au</SNDI><SOUND>
+<FREQ>230</FREQ>
+<POS>V-SFX</POS>
+<DEF>PAST tense suffix on verbs of the <CT>-mi</CT> class</DEF>
+<REFA>See TABLE OF VERBAL SUFFIXES</REFA>
+</ENTRY>
+
+<ENTRY><HW HNUM="1">jaal(pa)</HW>
+<FREQ>4</FREQ>
+<POS>PV</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL>end in sharp <FL>point</FL>, pointed</GL>
+<CF><CFI>jampalypa</CFI>, <CFI>pukurdi</CFI>, <CFI>yiri</CFI></CF>
+<SUBENTRY><SHW>jaal-karri-mi</SHW>
+<POS>V</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<GL>be <FL>pointed</FL>, <FL>taper</FL> off, <FL>stick</FL> out, protrude</GL>
+<EXAMPLES>
+<EXAMPLE><WE>Jukajukarla, jaal-jaal-karrimirra ka pamarrpa -- jaantakurra-pinyi ka pamarrpa. <SRC>krn</SRC></WE>
+<ET>At <CT>Jukajuka</CT>, the pointy rocks all stick up out of the ground -- they protrude way out. </ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI>jaantaku-karri-mi</CFI>, <CFI>jaarn-karri-mi</CFI></CF>
+</SUBENTRY>
+<SUBENTRY><SHW>jaal-pari</SHW>
+<POS>N</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<GL><FL>sticking</FL> up, pointed, pointy, cone-shaped</GL>
+<EXAMPLES>
+<EXAMPLE><WE>Pukurdi-wara ngulaju jaalpari. <SRC>{??}</SRC></WE>
+<ET>The traditional cone-shaped hairdo was pointed. </ET></EXAMPLE>
+</EXAMPLES>
+<CF><CFI>jampalypa</CFI>, <CFI>pukirdi</CFI>, <CFI>yiri</CFI></CF>
+</SUBENTRY>
+</ENTRY>
+
+<ENTRY><HW HNUM="2">jaal(pa)</HW>
+<FREQ>4</FREQ>
+<POS>PV</POS>
+<DIALECTS><DLI>Y</DLI></DIALECTS>
+<DOMAIN><DMI>spatial</DMI>: </DOMAIN>
+<GL><FL>sharp</FL> <FL>point</FL></GL>
+<CF><CFI>jaantaku-</CFI>, <CFI>jaarn(pa)</CFI></CF>
+<SUBENTRY><SHW>jaal-jaal-karri-mi</SHW>
+<POS>V</POS>
+<GL><FL>stick</FL> up, <FL>stick</FL> out, protrude, end in a <FL>point</FL>, be <FL>pointed</FL> <SRC>krn</SRC></GL>
+</SUBENTRY>
+<SUBENTRY><SHW>jaal-pari</SHW>
+<POS>N</POS>
+<GL>pointed, with <FL>sharp</FL> <FL>point</FL></GL>
+<CF><CFI>jampalypa</CFI>, <CFI>pukurdi</CFI>, <CFI>yiri</CFI></CF>
+</SUBENTRY>
+</ENTRY>
+
+<ENTRY><HW>jarntu</HW>
+<FREQ>23</FREQ>
+<POS>PV</POS>
+<DIALECTS><DLI>La</DLI></DIALECTS>
+<DOMAIN><DMI>quantity</DMI>: <DMI>spatial</DMI>: </DOMAIN>
+<GL><FL>more</FL> of, additional</GL>
+<PVL>indeed, in <PVLI>-jiji</PVLI>, assuredly, actually</PVL>
+<ANT><ANTI>-jazy</ANTI></ANT>
+<SYN><SYNI>-jk</SYNI></SYN>
+<COLLOC><COLLI>-jac</COLLI></COLLOC>
+<XME><XMEI>-jac</XMEI></XME>
+<CF><CFI>yarda</CFI><CFI>jaal(pa)</CFI></CF>
+<SUBENTRY><HW>jarntu-yirra-rni</HW>
+<POS>V</POS>
+<DEF>obtain (<CT>ma-ni</CT>) additional quantity of y</DEF>
+<GL><FL>get</FL> <FL>more</FL> of, <FL>get</FL> <FL>another</FL> of, repeat, remarry</GL>
+<EXAMPLES>
+<EXAMPLE><WE TYPE="DEFN">Jarntu-yirrarni, ngulaji yangka kujakajana yapangku watingki manu karntangku maniyi mani manu yaja-yajarni yangka jarntu marda panujarlu, yangka wati marda panujarlu karntangkuju. Manu yangka watingki marda, yangka karnta panujarlu. <SRC>PPJ 6/87</SRC></WE>
+<ET><CT>Jarntu-yirrarni</CT> is like when a man or a woman gets money or keeps getting more dogs, or a woman who gets a lot of husbands. Or a man who marries lots of wives. </ET></EXAMPLE>
+<EXAMPLE><WE>Karntangku kajana jarntu-yirrarni watikari-watikari ngulakajana watikari-watikari yampimi warrarda tarnngakari-tarnngakarirli. <SRC>ppj 6/87</SRC></WE>
+<ET>The woman get one man after another and then always leaves each of them for good. </ET></EXAMPLE>
+</EXAMPLES>
+</SUBENTRY>
+</ENTRY>
+
+<DICTIONARY>

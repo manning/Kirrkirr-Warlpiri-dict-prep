@@ -1,0 +1,245 @@
+<HTML>
+<HEAD>
+<SCRIPT>
+					var altState = false;
+					function keypressed() {
+						if (window.event.keyCode == 18)
+							altState = true;
+					}
+					
+					function keyreleased() {
+						if (window.event.keyCode == 18)
+							altState = false;
+					}
+					
+					function hilight(id, on) {
+						var theItem = document.all.item(id);
+						if (theItem.className != "none")
+							theItem.children.item(0).children.item(0).style.backgroundColor = on ? "yellow" : "white";
+					}
+
+					function setState(state, theItem) {
+						if (state == "minus") {
+							theItem.children.item(1).style.display = "block";
+							theItem.children.item(0).children.item(0).src = "minus.gif";
+						} else if (state == "plus") {
+							theItem.children.item(1).style.display = "none";
+							theItem.children.item(0).children.item(0).src = "plus.gif";
+						}
+						theItem.className = state;
+					}
+
+					function show(id) {
+						var theItem = document.all.item(id);
+						if (theItem.className == "plus") {
+							setState("minus", theItem);
+						} else if (theItem.className == "minus") {
+							if (altState) {
+								var theContents = theItem.children.item(1);
+								var allClosed = true;
+								var i;
+								for (i = 0; i < theContents.children.length; i++) {
+									var aChild = theContents.children.item(i);
+									if (aChild.className == "minus") {
+										setState("plus", aChild);
+										allClosed = false;
+									}
+								}
+								if (allClosed) {
+									for (i = 0; i < theContents.children.length; i++) {
+										var aChild = theContents.children.item(i);
+										if (aChild.className == "plus")
+											setState ("minus", aChild);
+									}
+								}
+							} else {
+								setState("plus", theItem);
+							}
+						}
+					}
+
+					function allLevels(state) {
+                        var i, theItem, currentState, desiredState;
+                        
+						if (state == "expand") {
+                            currentState = "plus";
+                            desiredState = "minus";
+                        } else {
+                            currentState = "minus";
+                            desiredState = "plus";
+                        }
+
+						var allDivs = document.all.tags("DIV");
+						for (i=0; i < allDivs.length; i++) {
+							theItem = allDivs.item(i);
+							if (theItem.className == currentState) {
+								setState(desiredState, theItem);
+							}
+						}
+					}
+				</SCRIPT>
+</HEAD>
+<BODY onkeydown="keypressed();" onkeyup="keyreleased();" style="font-size: 10pt; font-family: Verdana">
+<DIV style="margin-bottom: 4px; font-size: 18pt; font-weight: bold"> XML Data Browser </DIV>
+<DIV style="font-size: 9pt; font-style: italic"> Instructions: <IMG src="plus.gif" hspace="4">Click to show children. <IMG src="minus.gif" hspace="4">Click to hide children. Alt-click to hide or show all children. <IMG src="none.gif" hspace="4">No children. </DIV>
+<DIV style="font-size: 9pt; font-style: italic; margin-bottom: .5em"> Click here to <SPAN ID="expandAll" CLASS="global-control" onMouseOver="style.backgroundColor = 'yellow'" onMouseOut="style.backgroundColor = ''" onClick="allLevels('expand')" style="text-decoration: underline">Expand All Elements</SPAN>, or to <SPAN ID="collapseAll" CLASS="global-control" onMouseOver="style.backgroundColor = 'yellow'" onMouseOut="style.backgroundColor = ''" onClick="allLevels('collapse')" style="text-decoration: underline">Collapse All Elements</SPAN>. <HR>
+</DIV>
+<DIV ID="breakfast-menu1" class="minus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('breakfast-menu1',true)" onMouseOut="hilight('breakfast-menu1',false)" onClick="show('breakfast-menu1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="minus.gif" style="background-color: white"> &#60;breakfast-menu&#62; </DIV>
+<DIV>
+<DIV ID="food1_1" class="minus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('food1_1',true)" onMouseOut="hilight('food1_1',false)" onClick="show('food1_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="minus.gif" style="background-color: white"> &#60;food&#62; </DIV>
+<DIV STYLE="display:block">
+<DIV ID="name1_1_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('name1_1_1',true)" onMouseOut="hilight('name1_1_1',false)" onClick="show('name1_1_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;name&#62; </DIV>
+<DIV STYLE="display:none">
+Belgian Waffles
+</DIV>
+</DIV><DIV ID="price1_1_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('price1_1_1',true)" onMouseOut="hilight('price1_1_1',false)" onClick="show('price1_1_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;price&#62; </DIV>
+<DIV STYLE="display:none">
+$6.95
+</DIV>
+</DIV><DIV ID="description1_1_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('description1_1_1',true)" onMouseOut="hilight('description1_1_1',false)" onClick="show('description1_1_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;description&#62; </DIV>
+<DIV STYLE="display:none">
+two of our famous Belgian Waffles with plenty of real maple syrup
+</DIV>
+</DIV><DIV ID="calories1_1_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('calories1_1_1',true)" onMouseOut="hilight('calories1_1_1',false)" onClick="show('calories1_1_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;calories&#62; </DIV>
+<DIV STYLE="display:none">
+650
+</DIV>
+</DIV>
+</DIV>
+</DIV><DIV ID="food1_2" class="minus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('food1_2',true)" onMouseOut="hilight('food1_2',false)" onClick="show('food1_2')" style="text-indent: -16px; font-weight: bold">
+<IMG src="minus.gif" style="background-color: white"> &#60;food&#62; </DIV>
+<DIV STYLE="display:block">
+<DIV ID="name1_2_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('name1_2_1',true)" onMouseOut="hilight('name1_2_1',false)" onClick="show('name1_2_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;name&#62; </DIV>
+<DIV STYLE="display:none">
+Strawberry Belgian Waffles
+</DIV>
+</DIV><DIV ID="price1_2_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('price1_2_1',true)" onMouseOut="hilight('price1_2_1',false)" onClick="show('price1_2_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;price&#62; </DIV>
+<DIV STYLE="display:none">
+$7.95
+</DIV>
+</DIV><DIV ID="description1_2_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('description1_2_1',true)" onMouseOut="hilight('description1_2_1',false)" onClick="show('description1_2_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;description&#62; </DIV>
+<DIV STYLE="display:none">
+light Belgian waffles coverred with strawberrys and whipped cream
+</DIV>
+</DIV><DIV ID="calories1_2_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('calories1_2_1',true)" onMouseOut="hilight('calories1_2_1',false)" onClick="show('calories1_2_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;calories&#62; </DIV>
+<DIV STYLE="display:none">
+900
+</DIV>
+</DIV>
+</DIV>
+</DIV><DIV ID="food1_3" class="minus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('food1_3',true)" onMouseOut="hilight('food1_3',false)" onClick="show('food1_3')" style="text-indent: -16px; font-weight: bold">
+<IMG src="minus.gif" style="background-color: white"> &#60;food&#62; </DIV>
+<DIV STYLE="display:block">
+<DIV ID="name1_3_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('name1_3_1',true)" onMouseOut="hilight('name1_3_1',false)" onClick="show('name1_3_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;name&#62; </DIV>
+<DIV STYLE="display:none">
+Berry-Berry Belgian Waffles
+</DIV>
+</DIV><DIV ID="price1_3_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('price1_3_1',true)" onMouseOut="hilight('price1_3_1',false)" onClick="show('price1_3_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;price&#62; </DIV>
+<DIV STYLE="display:none">
+$8.95
+</DIV>
+</DIV><DIV ID="description1_3_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('description1_3_1',true)" onMouseOut="hilight('description1_3_1',false)" onClick="show('description1_3_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;description&#62; </DIV>
+<DIV STYLE="display:none">
+light Belgian waffles coverred with an assortment of fresh berries and whipped cream
+</DIV>
+</DIV><DIV ID="calories1_3_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('calories1_3_1',true)" onMouseOut="hilight('calories1_3_1',false)" onClick="show('calories1_3_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;calories&#62; </DIV>
+<DIV STYLE="display:none">
+900
+</DIV>
+</DIV>
+</DIV>
+</DIV><DIV ID="food1_4" class="minus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('food1_4',true)" onMouseOut="hilight('food1_4',false)" onClick="show('food1_4')" style="text-indent: -16px; font-weight: bold">
+<IMG src="minus.gif" style="background-color: white"> &#60;food&#62; </DIV>
+<DIV STYLE="display:block">
+<DIV ID="name1_4_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('name1_4_1',true)" onMouseOut="hilight('name1_4_1',false)" onClick="show('name1_4_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;name&#62; </DIV>
+<DIV STYLE="display:none">
+French Toast
+</DIV>
+</DIV><DIV ID="price1_4_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('price1_4_1',true)" onMouseOut="hilight('price1_4_1',false)" onClick="show('price1_4_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;price&#62; </DIV>
+<DIV STYLE="display:none">
+$4.50
+</DIV>
+</DIV><DIV ID="description1_4_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('description1_4_1',true)" onMouseOut="hilight('description1_4_1',false)" onClick="show('description1_4_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;description&#62; </DIV>
+<DIV STYLE="display:none">
+thick slices made from our homemade sourdough bread
+</DIV>
+</DIV><DIV ID="calories1_4_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('calories1_4_1',true)" onMouseOut="hilight('calories1_4_1',false)" onClick="show('calories1_4_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;calories&#62; </DIV>
+<DIV STYLE="display:none">
+600
+</DIV>
+</DIV>
+</DIV>
+</DIV><DIV ID="food1_5" class="minus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('food1_5',true)" onMouseOut="hilight('food1_5',false)" onClick="show('food1_5')" style="text-indent: -16px; font-weight: bold">
+<IMG src="minus.gif" style="background-color: white"> &#60;food&#62; </DIV>
+<DIV STYLE="display:block">
+<DIV ID="name1_5_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('name1_5_1',true)" onMouseOut="hilight('name1_5_1',false)" onClick="show('name1_5_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;name&#62; </DIV>
+<DIV STYLE="display:none">
+Homestyle Breakfast
+</DIV>
+</DIV><DIV ID="price1_5_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('price1_5_1',true)" onMouseOut="hilight('price1_5_1',false)" onClick="show('price1_5_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;price&#62; </DIV>
+<DIV STYLE="display:none">
+$6.95
+</DIV>
+</DIV><DIV ID="description1_5_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('description1_5_1',true)" onMouseOut="hilight('description1_5_1',false)" onClick="show('description1_5_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;description&#62; </DIV>
+<DIV STYLE="display:none">
+two eggs, bacon or sausage, toast, and our ever-popular hash browns
+</DIV>
+</DIV><DIV ID="calories1_5_1" class="plus" style="margin-left: 16px">
+<DIV onMouseOver="hilight('calories1_5_1',true)" onMouseOut="hilight('calories1_5_1',false)" onClick="show('calories1_5_1')" style="text-indent: -16px; font-weight: bold">
+<IMG src="plus.gif" style="background-color: white"> &#60;calories&#62; </DIV>
+<DIV STYLE="display:none">
+950
+</DIV>
+</DIV>
+</DIV>
+</DIV>
+</DIV>
+</DIV>
+</BODY>
+</HTML>

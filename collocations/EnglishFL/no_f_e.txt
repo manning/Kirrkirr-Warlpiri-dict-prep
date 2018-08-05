@@ -1,0 +1,1608 @@
+jayapi ()	yirrikarrika (dislike of, unfriendly, unhelpful, unsociable, not liking, not wanting, not inclined to, don't feel like, not desirous of)	1	1	1	-3	1	
+napurru	ngurujinta	1	1	1	-4	1	
+jaarr (travel all the way, travel to destinationreach destination, travel to another place, go to another country, go a long way)	parayilpilpakurra	1	1	1	-1	1	
+kirdily (black, darkbe dark, be black, appear blackblack, dark, darkened, blackened, dark patch)	kirdilypa (black, darkbe dark, be black, appear blackblack, dark, darkened, blackened, dark patch)	1	1	1	1	1	
+ramparlngarrurnu	yartunyu	1	1	1	-1	1	
+wupun (hot, scorching, burningburn, scorchhot (as of weather))	wupunpa (hot, scorching, burningburn, scorchhot (as of weather))	1	1	1	1	1	
+kirrkirlardi ()	wiiny	1	1	1	-2	1	
+nyuurlpari (hump, convex, rounded, prominent, sticking out)	tapurlapilki	1	1	1	3	1	
+mimi (forehead, browtip (of boomerang), end (of boomerang))	nyuurlpari (hump, convex, rounded, prominent, sticking out)	1	1	1	1	1	
+kujamanjikila	wurrurupuka	1	1	1	2	1	
+palkajarrinjawangu	yurrurluju (animal sp.)	1	1	1	4	1	
+ngajunyangujupikirr	rdilykiyani	1	1	1	2	1	
+yingarilpajana	yurdukurduku ()	1	1	1	2	1	
+kawa	ngukalyki ()	1	1	1	-1	1	
+makurntawangu	makurntawangurluyij	1	1	1	-1	1	
+wirntalijarra	yingarilpajana	1	1	1	-4	1	
+luntuly (immobilized, unable to move, stationary, broken downhit (with missile) and immobilizebe lamed, be crippled, be unable to move, be immobilizedset in (of rain), not let up (of rain), continue in one placehit and lame, hit and immobilizefall and be unable to move, become immobilized)	yarrpirninjayanu	1	1	1	1	1	
+bottle	tirlpi	1	1	1	4	1	
+jurrurlungku	warpa	1	1	1	-4	1	
+kartdirdiwana	rdarrngany (up in, lodged up in, deposited up onlie up in tree, stay up on top of, be up out of reach, lie safely out of reachput up in, deposit up in, put across)	1	1	1	1	1	
+jalpukurlu (tame (of animal), quiet (disposition), wellbehaved, peaceful)	pinapinamardawangu	1	1	1	4	1	
+kakarrapurta	karrkarni	1	1	1	1	1	
+nyanngirrnyanngirrp	nyanngirrpari	1	1	1	-1	1	
+maarnta (bus, coach, omnibus, van)	puratiyi	1	1	1	-4	1	
+ngintirr (bear (child), be with childhave and be enlarged bybe sticking out, be enlarged, be bloated, be swollen upfat, protruding, bloated, swollen up, sticking out)	ngintirrkingintirrkikir	1	1	1	-2	1	
+jarrinjayanilki	wuulykijirni	1	1	1	4	1	
+jurruyarltiriji	wardarr (side to side, from one side to another, roll, turn over, wallowrotate, move from^ side tosideroll, throw down and roll, bowl, turn over, rotateroll)	1	1	1	3	1	
+japalarri (wide, broad)	ngitilyi	1	1	1	-3	1	
+jampupurdanji	putaputa	1	1	1	-4	1	
+purdikirli (dirty; black, dark)	yulykurrpinjawarnu	1	1	1	4	1	
+ngaanykutukutu	nguurlnguurlpajarri	1	1	1	-1	1	
+jintajintajarrinjar	warruparnkami	1	1	1	-3	1	
+jarnkujarnkuwangkaj	rdakardaka (rolling, tumbling, slidingtumble down, roll down, slide down, slip down)	1	1	1	1	1	
+parraparrarla	prdimirni	1	1	1	-3	1	
+marrarlyani	pardanykijirni	1	1	1	-1	1	
+julukut	luyurr (sad, sorrowful, crying, mourningmake to feel sorry for, make cry, made sad for, sadden, attract pity, arouse pityfeel sorrow over, be sad in sympathy with, cry over, be sad for, sorry for)	1	1	1	-3	1	
+ngulanyakajinta	patapinyi	1	1	1	-4	1	
+rarrarlpapardulku	taarl (bang, thud, clang, pop, crackmake a bang, produce a thud, make a clanging noisego bang, go pop, crack, clangbang on, thump on, tap onmove up and go bang, fly up and go bang)	1	1	1	2	1	
+abie	jarrara (closing in on, nearing, overtaking, catching up with)	1	1	1	-3	1	
+jukunpaju	ngupa (bodysnatching, stealing corpse {??} check if not more general meaning like 'save one's own skin, escape punishment']]hide body, snatch body)	2	1	2	-1.5	1	
+ngardalykijirni	pawiyipurdanji	1	1	1	-3	1	
+kurrinjirli	walmayi	1	1	1	-3	1	
+jitipayini	yaparaji	1	1	1	4	1	
+kalkurnujarriyawiyi	warranywarranypa (negligent towards relations, uncaring, not caring properly for relations)	1	1	1	1	1	
+papimi (ignite, start burning, break out (of fire), flame up suddenly, light upcatch alight, burst into flame(s), catch fire, ignite, flare up)	rdupa ()	1	1	1	3	1	
+mangkajingi (goanna burrow)	partangarra ()	1	1	1	2	1	
+ngalarri	ngarlarra (frog sp.)	1	1	1	-3	1	
+kurrmurntu (constrictingconstrict, squeeze, impinge on, squash)	wartijingirlirna	1	1	1	-1	1	
+ngalyungalyukarrija	rduulngarni	1	1	1	-2	1	
+wirntalijarra	yurdukurduku ()	1	1	1	-2	1	
+ngurrarntija (countryman, indigenous, native)	yuwurlparni	1	1	1	-3	1	
+jurruwa	wirrijikilajinta	1	1	1	-3	1	
+rdimpinyi	warruparnkami	1	1	1	-1	1	
+jilkaja (initiation travel, initiation travellers, "business mob")	rri	1	1	1	4	1	
+pipirr	puulypa (seizing, grabbing, catching hold ofdraw out of, take inperform (of ceremony), act outgrab hold of, catch, grab, seize, trap, keep, restrain)	1	1	1	3	1	
+pungurlajinta	yarntaru	1	1	1	1	1	
+kirrirdimpayirla	rdilypi	1	1	1	-3	1	
+warlayayipinyi	yukanjayani	1	1	1	2	1	
+rdultu (display of angerdisplay anger towards, threaten, warn, stomp on ground in anger, stamp one's feet, growl atcomplain to, tell off, growl at, sound off atchallenge to fightassume posture to threaten to attack, plant foot in show of anger)	rdululukarrija	1	1	1	-1	1	
+warlkurrmani	warradampa	1	1	1	-1	1	
+tungunypa	wulyuwulyu (small rat sp., mouse sp.)	1	1	1	-1	1	
+kulpurr (dented, squashed, crumpled, smashed in, pressed in, compressedsquash, crumble, dentsquash, crumble, dent, batterdented, squashed, crumbled)	kulpurrparikulpurrparij	1	1	1	1	1	
+kunaparlpirrpa (spear)	ngarnnguwirnti	1	1	1	-2	1	
+winja (baby, small child, toddler)	yamurnturrngurla	1	1	1	2	1	
+jurntardilykipungu	kurlukurlu ()	1	1	1	-2	1	
+kirrkirlardi ()	wiinypa	1	1	1	-1	1	
+milkiyirrarnularla	panta (toothlessminced meat, ground meat)	1	1	1	-1	1	
+jirrijirri (love potion, magic love powder, love spell, love stone)	wayirriki	1	1	1	2	1	
+kipirni (winnowwinnow away)	pantanjarrngilkipala	1	1	1	2	1	
+jajalyluwarni	warranywarranymanu	1	1	1	-4	1	
+pakakurlu	wurramirdijarrarla	1	1	1	-3	1	
+wilalpunguku	yirrilji	1	1	1	3	1	
+ngarnkangarnka (^Australian ^Kestrel {?})	warrangkurrpajangka	1	1	1	-3	1	
+kurrmurntu (constrictingconstrict, squeeze, impinge on, squash)	wampina	1	1	1	3	1	
+purdijirri ()	yarrkamarlu ()	1	1	1	-1	1	
+manangkarrarrla	yarluputu (stay put, not moving, stopping, not going anywhere)	1	1	1	1	1	
+ngarnkangarnka (^Australian ^Kestrel {?})	yirntiljirriwana	1	1	1	3	1	
+milykakurlu (stranger, foreigner, alien)	yikarnalungarrini	1	1	1	-1	1	
+japukurlapinkili	ngalapipuka	1	1	1	1	1	
+rdilypi	rdilypirrinjayanilki	1	1	1	2	1	
+lamanparna	yarriyarri ()	1	1	1	4	1	
+jurlkulypa (squashed, mushy, pulpy, soft and squashycook squashy, cook to a pulpsquash, stand on and squash, run over and squash)	kalarnalujurlkulypakarr	1	1	1	-1	1	
+parntinyanyi	parntipura	1	1	1	-4	1	
+mangaya (pubic hair)	yuwinjiwitaku	1	1	1	2	1	
+pungulpalujana	pututu (warning, advising, tellingadvise, warm, counsel, inform, tellinform, tell to, advise, counsel, warnspeak to about, advise)	1	1	1	-1	1	
+jimanpaku (wanting to have a try, wanting to have a go at, wanting to try)	rurrurl	1	1	1	2	1	
+purtu	wirlaji	1	1	1	2	1	
+ngajukupirdangkakuj	papipi (initiation ground)	1	1	1	1	1	
+kajipa ()	yilyayarlalku	1	1	1	2	1	
+jarnamiljarnpa (generation moiety of ^Jangala, ^Japanangka, ^Jungarrayi, ^Jupurrurla)	nganarntarrka (^Jakamarra ^Japaljarri ^Jampijinpa ^Japangardi, Nakamarra ^Napaljarri ^Nampijinpa ^Napangardi, generation moiety)	1	1	1	2	1	
+kanapakarra (piece of wood)	nganjinypa (curved, curled)	1	1	1	3	1	
+milpapatupatujarrij	papardipuka	1	1	1	1	1	
+pakapaka	pakapakayirdi	1	1	1	-3	1	
+minyi	yurlpurrujurla	1	1	1	-3	1	
+jurruwa	kanunjumpayipala	1	1	1	1	1	
+marriwa (unreserved, reckless, thoughtless, bold, brazen)	warnturrumani	1	1	1	4	1	
+jirrkajirrkarli	ngarnnguwirntikangukang	1	1	1	3	1	
+ikarirlalpa	jinjirri (shrub sp.)	1	1	1	-3	1	
+juurlpungkarla	kajipa ()	1	1	1	3	1	
+jardayirrarni	pintapintajarrinjarla	1	1	1	3	1	
+puurr (idlelie idle, do nothing, be inactiveselfish, selfcentred, egotisticaltravel alone fearlesslymove away from independently, walk away from independently, just get up and go independently, take off by oneself)	yarnurrpukurra	1	1	1	2	1	
+pangkulpa (into, lodged in, wedgedhit into, wedge into, lodge into, stick into)	rilkirla	1	1	1	4	1	
+kuula (seed, core, insides of (fruit))	rdangiyipinyi	1	1	1	4	1	
+panturnurlu	wangkanjawitawangu	1	1	1	-4	1	
+jarntantarrujarrija	yurnujumpurruyurnujumpu	1	1	1	-2	1	
+kiralkiral (slashingslash, gash)	tilpija	1	1	1	-4	1	
+mimi (forehead, browtip (of boomerang), end (of boomerang))	tapurlapilki	1	1	1	4	1	
+jirrkajirrkarli	kunaparlpirrpa (spear)	1	1	1	-3	1	
+kurrngalpaku	ngumayi (soninlaw's camp, motherinlaw's campinlaw's camp)	1	1	1	-2	1	
+pinymarlarlu	rdungkurr (dislodging, removing, off, detachingdig up, dig out, unearthknock off (by a missile), dislodge, pelt and dislodgemove, remove, take off, dislodgeknock off, hit off, knock top offpick out, prise out, prise awaycome off from, detach from)	1	1	1	-4	1	
+kuwarri (beating timebeat time, mark rhythm)	marriwa (unreserved, reckless, thoughtless, bold, brazen)	1	1	1	3	1	
+jurntijurntirrpa (fatty)	jurntujurnturrpa ()	1	1	1	3	1	
+juwaki ()	kulpuraturnu	1	1	1	1	1	
+ngurujinta	yabgka	1	1	1	-4	1	
+jalawanpirrirla	yini	1	1	1	4	1	
+kulukurrajarriyarla	kunkapardimi	1	1	1	-2	1	
+katumparrajuku	patakarrimi	1	1	1	-3	1	
+wapurtarlipalarla	wurrurru (hard, fast)	1	1	1	-2	1	
+pamapardu	warntungurru	1	1	1	-1	1	
+kurlpukurlpu (mean, stingy, ungenerousbehave in manner so as to avoid sharing with others, not share, be stingy, be mean, avoiding, spurning)	kurlpukurlpujarrija	1	1	1	1	1	
+jiwiri ()	kitiki (Spatialaborted burrow, partially dug burrow)	1	1	1	3	1	
+jirringi (planplan, discuss, decide, arrange, work out, organize)	kakalaju	1	1	1	-3	1	
+majujarriyarla	pinayani	1	1	1	4	1	
+mirniwarra	warlpalyi	1	1	1	3	1	
+katirdi	rapurapu (blackened)	1	1	1	1	1	
+wilypirr ()	wilypirrpardiyarla	1	1	1	4	1	
+phicol	rdarrkanpa (support, something to lean on, something to keep something upright, something to hold something in placesomething to rely on, help, something to depend onelder brother, elder sister)	1	1	1	-2	1	
+jarnajarna (witi songs, initiation songs)	jartiyimani	1	1	1	4	1	
+kuyukirda	warnmankurlangu	1	1	1	3	1	
+kulanpaju	warraka	1	1	1	3	1	
+kurntarla ()	mulyukardijipinkiji	1	1	1	1	1	
+punturlpari ()	wijikirlki	1	1	1	4	1	
+pungulkaw	warlkanji	1	1	1	-3	1	
+ngarnkangarnka (^Australian ^Kestrel {?})	wujurnurra	1	1	1	-4	1	
+karlingkaturu	wurrurru (hard, fast)	1	1	1	-1	1	
+jalangujarra	jarlupajuwangurlawiyi	1	1	1	-1	1	
+lirdirrparla	wujuwuju (dark, black, dull, sombre, very black, dull black)	1	1	1	3	1	
+jirrijirri (love potion, magic love powder, love spell, love stone)	wayirrirla	1	1	1	3	1	
+nyarrparlulkurlupa	rdanjarrpa (loaded, amassed, laden, large quantity, big loadcarry load, take loaddig large quantity, dig up a lot ofbe amassed, be laden, be loadeddump a load, unload a large quantity, throw a load on, load uphave a full load, be laden withlie in a heap, lie in large pile, be a big pile ofcook lot ofsupply with large quantity, give big amount to, give liberally to, give lots ofput pile on, load up, pile)	1	1	1	-4	1	
+numa	tiitiirlparnkaja	1	1	1	-3	1	
+kularnpirlarnpi	minyiranyira (smell of rain, smell of freshly wet earth)	1	1	1	-2	1	
+jarntangka	kaarrpa (stare, fixed gazestare at, fix eyes on, look intently atfurtively, cautiously, attentively, carefully, watchfully)	1	1	1	4	1	
+julyalkarrijalpa	yinjilyirrpilyirrpi (bunch, cluster, crowd, group)	1	1	1	-3	1	
+wajilipungulku	wapapakarra (calling out, yelling, screaming)	1	1	1	-3	1	
+ngalkari (speaker calls relation of maternal uncle with respect to person in speaker's father's mother's subsection ngalkariuncleuncle of deceaseduncle and nephew, uncle and nieceuncles and nephews, uncles and nieces)	warringirntiri	1	1	1	2	1	
+pilyirriji	yurnungka (pregnant)	1	1	1	-1	1	
+yungkara	yurra	1	1	1	3	1	
+walalirkirlangu	walalyirrki (Coonavittra Wattle)	1	1	1	4	1	
+winkirrpawita	yaarrpariwitarlu	1	1	1	1	1	
+jarriyarlalpanpa	warnakurlkurlpa (legless lizard sp., tooth snake)	1	1	1	-3	1	
+ngawukurlangu	yarlpurrujintamipa	2	3	1	0	0.666	
+jaralpanpa	rdiirrpa (burst, split open, cracked open (such that inner contents escape)burn and split open, cook and split open, get hot and burstdrop and crack open, drop and bust, throw and break open, throw and bust opencrack open, split open, cut and bust openchop open, hit and break open up, crack openpierce and crack open, stab open, stab and bustsplit open, bust open, burstfall and split open, fall and crack open, fall and burst openbreak, separation, pause, cutbreak, stop, spell, interruption, pause)	2	1	3	0	0.666	
+jiwinpungu	winkirrpawita	2	3	1	3.5	0.666	
+pungkajuwaja	rdiirrpa (burst, split open, cracked open (such that inner contents escape)burn and split open, cook and split open, get hot and burstdrop and crack open, drop and bust, throw and break open, throw and bust opencrack open, split open, cut and bust openchop open, hit and break open up, crack openpierce and crack open, stab open, stab and bustsplit open, bust open, burstfall and split open, fall and crack open, fall and burst openbreak, separation, pause, cutbreak, stop, spell, interruption, pause)	2	1	3	-2	0.666	
+jarajapalpanpa	rdiirrpa (burst, split open, cracked open (such that inner contents escape)burn and split open, cook and split open, get hot and burstdrop and crack open, drop and bust, throw and break open, throw and bust opencrack open, split open, cut and bust openchop open, hit and break open up, crack openpierce and crack open, stab open, stab and bustsplit open, bust open, burstfall and split open, fall and crack open, fall and burst openbreak, separation, pause, cutbreak, stop, spell, interruption, pause)	2	1	3	3	0.666	
+kurrmurntu (constrictingconstrict, squeeze, impinge on, squash)	yarrirtarrirta	2	1	3	1.5	0.666	
+jarntinyjarntinypa (limping, lamebe pointed, have bits sticking out from, have spineswalk with a limp, limpwalk with a limp, limp)	limirlimi ()	2	3	1	-2	0.666	
+waarlwaarlluwani	waarlwaarlluwarni	2	3	1	-1.5	0.666	
+kurrinjirlalku	mulpurra	2	1	3	-2.5	0.666	
+julku	parnkayarnili	2	1	3	-1.5	0.666	
+kujakaa	tupulpari	2	1	3	0	0.666	
+nyampirlnyampirlani	nyampirlnyampirlyani	2	3	1	3.5	0.666	
+churinga	kirni ()	2	1	3	1	0.666	
+watukulyarri (gashing, cutting opengash, cut open, cut deeply)	watulkulyarrimanu	2	3	1	1.5	0.666	
+murdi ()	pinjarniyanilki	2	3	1	-2.5	0.666	
+wanjapiri ()	yangkurl (habitat, nest, burrow, hole, perch, place, resting placeinhabit, reside, nest, perch, rest, sit, lie, besettle in, lie down in, rest input down on, rest on)	2	1	3	2.5	0.666	
+nyinantu	yiwinji ()	1	1	2	2	0.5	
+karrpakarrpa	yajiti	1	2	1	2	0.5	
+kawarla ()	kujakalalurla	1	2	1	-3	0.5	
+kartarlajangka	warrangkarli (plant sp.)	2	1	4	0	0.5	
+karrkurrmirnti (burnt up completely, burnt to ashes, burnt to a cinder)	puranjayani	1	2	1	3	0.5	
+marrkarirlangu	tasman	1	2	1	-3	0.5	
+jarrarlarl (far apart (of legs), spread wide (of legs)stand with legs apart, stand with legs outstretched, stand with legs spread wide,)	kanarlyurl	1	1	2	4	0.5	
+jurrkuwarnu	purroarlarlawardingki	1	2	1	-3	0.5	
+murnumurnu ()	nyampay	1	2	1	-4	0.5	
+jurrkuwarnu	ngurujinta	1	2	1	3	0.5	
+jiwilki (sticking out of, lodged into (like a spear or knife lodged in body), hanging from, danglinghave something dangling from body, have something sticking out from bodymove rapidly with some elongated thing attached to body, run with something dangling, run and dangle)	pakitikirli	2	4	1	2.5	0.5	
+karalykaralymanilki	nguntupinyi	1	1	2	4	0.5	
+ilpanyanu	nyirawu ()	1	1	2	2	0.5	
+karnanganja ()	yaliyumpukurra	1	2	1	-1	0.5	
+ngulangkulpalujna	wanji (novice)	2	2	2	1	0.5	
+lulurlpinyi	lurlurlpinyi	1	1	2	-4	0.5	
+nginyii	nyinyi (novice, initiate)	1	1	2	1	0.5	
+mikijapi	milykakurlu (stranger, foreigner, alien)	1	2	1	3	0.5	
+rampalpa ()	yinjipurrupurru	1	2	1	3	0.5	
+kurlwayurnu	ngardurrkura (^Acacia sp., ^Coonavittra ^Wattle, ^Candelabra ^Wattle)	1	1	2	3	0.5	
+ngangkirri	wirrkatu	2	2	2	-1	0.5	
+jiljamarramarra	watuyakari	1	2	1	2	0.5	
+jamirtirli	ngangkirri	2	2	2	4	0.5	
+ngarlarra (frog sp.)	parnkanyjini	1	1	2	-3	0.5	
+jarraly (unreserved, allowing, permitting, free, open, lettingjust talking anyway, talking openly without hesitation, talking clearly all the timespeak freely to, be unreserved withgive permission for, give leave to do to, call forgive permission for, allow, permit, agree for, letgive permission to, allow, permit)	yangkajiwarrumpa	1	2	1	2	0.5	
+juntu (choosing place, designating suitable placechoose place, decide on place, place, designate place for, set up (camp))	yurapitinya	1	1	2	-2	0.5	
+pukurlpa (loving, happy with, pleased by, proud ofloving, kind, proud of, happy for, contented, friendly, peaceful, pleased)	rdankalpa	1	2	1	1	0.5	
+turnujarrijalku	yanpiri (temporary stay, overnight stay, come and go, on the movevisitor, caller, traveller)	1	1	2	2	0.5	
+jingijingikari	kamparrumpayi	1	1	2	4	0.5	
+kirliyi ()	pungujana	1	1	2	-1	0.5	
+jurupinyi	pilikantirlalkulu	1	2	1	-2	0.5	
+jampirtiyinyanurlu	kuyakuya (knowledgeable, expert, specialist)	1	1	2	1	0.5	
+marntarnpinyi	mungalyurrujarrija	1	2	1	1	0.5	
+warnipiyiwardingki	yiwirnngi (spirit, Dreaming, conception ^Dreaming)	1	1	2	-4	0.5	
+kutukutu (without family, without relations, alone, orphaned, friendless)	maparnulpa	1	2	1	1	0.5	
+ngarnngurr (thud, crack, rattlecrack into, thump into, bang into, clapdeal a thudding blow, hit with a thud, deal a resounding blowstrike with a thud, deal a resounding blowthud, clap, rattlewhirr)	wirrinykuruju	1	2	1	2	0.5	
+kaka (poo, shit)	rdurrulyparrurnu	1	2	1	2	0.5	
+jangankurlangu	rdaarr (agreeing, trustingagree with, go along with)	1	2	1	2	0.5	
+karrarlurra (straight into, straight throughgo straight through, go straight into)	parnkajampa	1	1	2	-2	0.5	
+jurljurl	kiil (attached to, sticking to, glued to, affixedattach to, stick to, affix to, glue to, hold onto, latch onto)	1	1	2	-4	0.5	
+malyamalya (stream out from, leave and fan out)	yalumpa	1	1	2	-2	0.5	
+ngukara (for real, serioussmall quantity, a little bit, not much, not many)	nurnangkulpanpanyanurla	1	2	1	-1	0.5	
+jilkaja (initiation travel, initiation travellers, "business mob")	rirriyi	2	1	4	-1.5	0.5	
+backward	jurduly (returnmove back tomove around (in bed), lie in a circle{??}move around, circle around, go fullcircle, turn around and go back, return, go backdodging, running one way and the next, running from side to side, dart, back and forth)	2	2	2	3	0.5	
+jurrkuwarnu	yabgka	1	2	1	-1	0.5	
+kapunkujulu	kunku (bag)	1	2	1	-4	0.5	
+kawulu (useless, incompetentbe useless, be incompetent)	luwaka	1	2	1	4	0.5	
+nyuntulujulpanpa	puulymardarni	2	1	4	1	0.5	
+yarltiri (quartzsilver coin)	yijuwukujukunya	1	2	1	3	0.5	
+nyawu	yila (hairstring bag hn59)	1	1	2	4	0.5	
+laarrpakarni	ngarijarru	1	2	1	-2	0.5	
+jikirri (climbing, mountingclimb, mount)	payipirlaku	1	2	1	-2	0.5	
+pukurl	pukurlpa (loving, happy with, pleased by, proud ofloving, kind, proud of, happy for, contented, friendly, peaceful, pleased)	2	2	2	1	0.5	
+kilkiki	rdilypirrpanturnupalarl	1	2	1	4	0.5	
+nyurnkunyurnku (rolled up, bent, crooked, zigzag, twisted, folded over)	tarlkurtarlku	1	1	2	-1	0.5	
+purrjurlpa (miss, aim and missfail to hit, hit at and miss, miss hitting, fail to hit cleanlytry to spear and fail, fail to spear, fail to pierce, miss spearingswiping, robbing, stealingfuck off with, swipe)	yaarlparnkaja	2	2	2	-1	0.5	
+wurulyparnkami	yirrirnki (timid, fearful)	2	2	2	-2.5	0.5	
+jawinji (burrow of ^Rabbiteared bandicoot)	jawirji	1	2	1	4	0.5	
+tiirlpinjarlalpanya	yarltiri (quartzsilver coin)	1	1	2	3	0.5	
+rili	wirimangurru (tree sp.)	2	1	4	-2	0.5	
+jurduly (returnmove back tomove around (in bed), lie in a circle{??}move around, circle around, go fullcircle, turn around and go back, return, go backdodging, running one way and the next, running from side to side, dart, back and forth)	yilaprnalu	1	2	1	3	0.5	
+julyal (raised ground, high ground, elevationbe raised, be high, be elevated)	karrinyampa	1	2	1	-4	0.5	
+pakakurlu	wurramirdirla	1	1	2	-2	0.5	
+ngupa (bodysnatching, stealing corpse {??} check if not more general meaning like 'save one's own skin, escape punishment']]hide body, snatch body)	paliyarla	1	2	1	3	0.5	
+kuukuku	wurnturumalu	1	1	2	1	0.5	
+manyurna (many, much, plenty, a lot of, lots of, plentiful)	yarnajarnimirrirla	2	2	2	4	0.5	
+mujayi (storage, safekeeping, saving, stockpile)	yanpiri (temporary stay, overnight stay, come and go, on the movevisitor, caller, traveller)	1	1	2	4	0.5	
+jamirtiji	jungari (small grindstone, handheld grindingstone)	2	2	2	1	0.5	
+turnujarrijalku	yarltiri (quartzsilver coin)	1	1	2	4	0.5	
+jangankaku	kartara (mother, maternal auntmother of deceasedmother and child)	2	2	2	1	0.5	
+janama (diminutive male subsection term, diminutive male skin name)	watlki	1	2	1	3	0.5	
+waamani	wajilipungulku	1	2	1	1	0.5	
+jukurtayi ()	wijipirtirlikirra	2	4	1	-0.5	0.5	
+wurninininypardu ()	yawurrulypirdi	2	2	2	4	0.5	
+kirrapa ()	ngarlulkuparnalu	1	2	1	-3	0.5	
+kujarnijarra	wurulyparnkanjakujaku	1	2	1	-1	0.5	
+jiirlpari (small and rounddappled, flecked, mottled, spotted, spotty)	jiirlparijiirlparilki	1	2	1	-4	0.5	
+murlukunpa	yilima ()	1	1	2	-2	0.5	
+jarntarru (kneeling uprightstanding on hind legskneel downshuffle along on one's knees)	marnparnu	1	1	2	1	0.5	
+kurlpa (vomiting)	nganjiniyijalarlipa	2	2	2	-1	0.5	
+pantirniinja	witangkarra (crevice, narrow opening, hole with narrow entrance)	1	1	2	4	0.5	
+karltakarlta (ant sp.)	rdululuyilyajalku	2	4	1	-3.5	0.5	
+parntaparnta (emu feather plume, bunch of emu feathers)	yardurru ()	1	2	1	-1	0.5	
+pirnpari	yantarnkangu	1	2	1	3	0.5	
+munikiyi ()	pirrimantarla	1	1	2	-2	0.5	
+lirrimi (swell, get big(ger), rise up, bulge out)	rularulajarri	1	1	2	-4	0.5	
+mawungarntangarnta	ngayirniwaja	2	4	1	-2.5	0.5	
+jirdi ()	kankalarni	1	1	2	-3	0.5	
+lurlurlkarrilki	raapinyi	1	2	1	-4	0.5	
+jardajarrimi	watuyarla	1	2	1	-3	0.5	
+yarltiri (quartzsilver coin)	yijawukuju	1	2	1	2	0.5	
+ngirntiwuluwulu	nyampju	1	2	1	-1	0.5	
+nyawu	wardinyijarrimi	1	1	2	-1	0.5	
+partangarra ()	wirrkartu	1	1	2	2	0.5	
+mitimiti (behind, one behind the other, in single file, in the rearfollow, go behind, trail)	warruwapa	1	1	2	-1	0.5	
+lirraparnta	marntarnpinyi	1	1	2	-1	0.5	
+jipi (survival, long life, longevitylive to be very old, have a long life, outlive, go on living, stay alive; survive, come out alive, pull through, continue to live, be still alive)	lanturupaparduku	1	2	1	-2	0.5	
+jarnimirri (mother (of speaker's mother), maternal uncle (of speaker's mother), maternal aunt (of speaker's mother)mother of deceased, maternal uncle of deceased, maternal aunt of deceased)	minijajarngijarngi	1	2	1	-1	0.5	
+parkaja	riwirrpa (disintegrate, break up, fall to pieces, fray, in shredsburn to pieces, cook and disintegrate, cook and fall to pieces, burn to shredfall to pieces, come apart piece by piece, fray, disintegrate)	2	1	4	-2.5	0.5	
+laningka (initiation ritual)	yirntirdikirra	2	2	2	4	0.5	
+jardawantipardu	yurnkuyurnku (moving, stirring, budging, shaking, swaying)	1	1	2	-4	0.5	
+waninjawarnu	yankapi	1	2	1	4	0.5	
+kulaki (^Sugar ^Brother, wattle sp.)	kurlaparnta (Bush ^Tomato)	2	2	2	-1	0.5	
+wingkijalalpanpaju	winjirr (tight, hard, heavy, strainedspeak in a deliberate way, speak stressing every word, speak in a slow strained way, speak in a heavy waysinewy, tough (as of tendons or rubber bands), strong and flexible)	2	2	2	2	0.5	
+ngalkari (speaker calls relation of maternal uncle with respect to person in speaker's father's mother's subsection ngalkariuncleuncle of deceaseduncle and nephew, uncle and nieceuncles and nephews, uncles and nieces)	ngarrirrajarriya	1	1	2	-3	0.5	
+manyupinyi	nardarni	1	2	1	-1	0.5	
+mpa	pajikaju	2	2	2	2	0.5	
+manyurna (many, much, plenty, a lot of, lots of, plentiful)	yarnajarnimirri	2	2	2	2	0.5	
+mangkajingi (goanna burrow)	wirrkartu	1	1	2	4	0.5	
+kuutukurra	pinayani	1	2	1	1	0.5	
+ruurturla	turlkurr	1	2	1	1	0.5	
+julyal (raised ground, high ground, elevationbe raised, be high, be elevated)	julyalpa (raised ground, high ground, elevationbe raised, be high, be elevated)	1	2	1	1	0.5	
+kajururlalku	wiliwili (to another placerush to another place, move to another place, run off to another placemove to another place, move aboutgo about, go to another place)	2	2	2	1	0.5	
+nyirlinyirli (head (of grass), grass seedsquicktempered, badtempered, cranky, angry, unkind, antisocial)	rayijipiya	2	4	1	-0.5	0.5	
+warlkurrngarrirni	yurakanyi	1	2	1	-4	0.5	
+makuntawangu	rdarrkanyi	1	1	2	2	0.5	
+makuntapanji	milili	1	2	1	-4	0.5	
+pajirninjajinta	rampalpa ()	1	1	2	2	0.5	
+mpa	ngipi (larvae sp.)	2	2	2	1	0.5	
+waamani	wapapakarra (calling out, yelling, screaming)	1	2	1	-2	0.5	
+martarninjaku	mirilki (shiningshine onshine, gleam, reflect lightshine brightly, sparkle, glisten, gleam, glitter, catch the lightmake shine, make glistengleaming, shining)	1	1	2	-3	0.5	
+makirra ()	maparnilkirlipanyanu	1	2	1	-1	0.5	
+pirnpari	yaninjaanu	1	2	1	-4	0.5	
+kirrpurnu	warripinyi (grass seed sp., grass sp.)	1	1	2	4	0.5	
+malulu (facing down, head downwards, averted gaze, demure, reticent, quiet)	yawirrulypirdi	2	2	2	1	0.5	
+rdarrunka (mulga gall)	yipirntiri (^Shy ^Nightshade)	2	2	2	-1	0.5	
+jilpirli	maraji (crosscousin, maternal grandfather, grandchildcousins, grandparentgrandchild)	2	4	1	-2	0.5	
+jukurru (northern wild orange, long leaf wild orange, bush orange)	ngantajarilki	1	2	1	-2	0.5	
+mirilki (shiningshine onshine, gleam, reflect lightshine brightly, sparkle, glisten, gleam, glitter, catch the lightmake shine, make glistengleaming, shining)	takakulku	1	2	1	2	0.5	
+nyinakarrawu	rdarrkanyi	1	1	2	4	0.5	
+nyampujjangkajurnal	wiraji ()	1	1	2	1	0.5	
+jardajarriyarlaju	yakarramani	1	1	2	-3	0.5	
+mitimiti (behind, one behind the other, in single file, in the rearfollow, go behind, trail)	nyuntunparla	1	1	2	2	0.5	
+kirrapa ()	mangkajingi (goanna burrow)	1	2	1	4	0.5	
+jurlu ()	warturnulpajurlu	1	2	1	-2	0.5	
+pinijijarrija	wuyuwuyu (massaging, pummelling, rubbingpass hand over, rub downpress down on, massage, pummel, rub, rub down)	1	2	1	-4	0.5	
+nurna (forcefully, strongly, purposefully, determined)	pinajarrija	1	2	1	1	0.5	
+ngapalkawu	yakuri (smelly manbrother, male cousin)	1	1	2	1	0.5	
+lapilapikirra	nyintarnnyintarnpa (spotted, dappled)	1	1	2	3	0.5	
+tiirlpinjarla	yarltiri (quartzsilver coin)	1	1	2	4	0.5	
+ngipi (larvae sp.)	pajikaju	2	2	2	1	0.5	
+jilkaparnta ()	pujarlingi ()	1	1	2	1	0.5	
+jurrkuwarnu	napurru	1	2	1	-2	0.5	
+jarrawari (water source with Rainbow Serpent)	yurrpulykungurlu	1	2	1	4	0.5	
+puunpa (tree sp.)	wilpi	1	2	1	3	0.5	
+kardijinpurtinja	purtari (elder brother, elder sister, senior brother, senior sister(senior) brother of deceased, ^(senior) sister of deceasedbrothers, sisters)	1	1	2	-4	0.5	
+marnalkurlpa	yinalingki ()	1	1	2	-2	0.5	
+kungala	rduyukarrimi	1	1	2	-2	0.5	
+kawarla ()	kipirni (winnowwinnow away)	1	2	1	2	0.5	
+murulku (short, stumpy)	wirlarni	1	2	1	3	0.5	
+rdiirr (burst, split open, cracked open (such that inner contents escape)burn and split open, cook and split open, get hot and burstdrop and crack open, drop and bust, throw and break open, throw and bust opencrack open, split open, cut and bust openchop open, hit and break open up, crack openpierce and crack open, stab open, stab and bustsplit open, bust open, burstfall and split open, fall and crack open, fall and burst openbreak, separation, pause, cutbreak, stop, spell, interruption, pause)	yuwinjiwitaku	1	2	1	-4	0.5	
+warlkurrngarrirni	yitakimani (track, follow tracks of)	1	2	1	4	0.5	
+marlkalypa (gravel, pebble, grain of sand, grit, small stonesseed of certain fruits, pit, stone)	ngulajarnkaju	1	2	1	3	0.5	
+rdiirr (burst, split open, cracked open (such that inner contents escape)burn and split open, cook and split open, get hot and burstdrop and crack open, drop and bust, throw and break open, throw and bust opencrack open, split open, cut and bust openchop open, hit and break open up, crack openpierce and crack open, stab open, stab and bustsplit open, bust open, burstfall and split open, fall and crack open, fall and burst openbreak, separation, pause, cutbreak, stop, spell, interruption, pause)	yuwinjiwitarla	1	2	1	-1	0.5	
+jardayirrarni	kujalparlajinta	1	1	2	-4	0.5	
+marntawara	rdiirr (burst, split open, cracked open (such that inner contents escape)burn and split open, cook and split open, get hot and burstdrop and crack open, drop and bust, throw and break open, throw and bust opencrack open, split open, cut and bust openchop open, hit and break open up, crack openpierce and crack open, stab open, stab and bustsplit open, bust open, burstfall and split open, fall and crack open, fall and burst openbreak, separation, pause, cutbreak, stop, spell, interruption, pause)	1	1	2	-4	0.5	
+watuyakari	yilyampurumarramarra	1	1	2	-1	0.5	
+pirrpirrpakarnu	wanarli ()	1	1	2	-1	0.5	
+bag	langakurlu	1	1	2	-4	0.5	
+wurukupalupaluju	wuurr ()	1	1	2	1	0.5	
+pitipiti ()	tiji	1	1	2	1	0.5	
+jawinji (burrow of ^Rabbiteared bandicoot)	jinjinyki (white tasselrun with white tail showing)	1	2	1	2	0.5	
+ngirntiwuluwulu	yijarduwaja	1	2	1	4	0.5	
+pinarlingi (skewer, stick for carrying fruits)	rirrijarrija	1	2	1	-3	0.5	
+karrkurrmirnti (burnt up completely, burnt to ashes, burnt to a cinder)	uranium	1	2	1	4	0.5	
+jilkamarta	pujarlingi ()	1	1	2	1	0.5	
+minti	nyirawu ()	1	1	2	-3	0.5	
+jinypangkanya	ngarrjirnkirlangu	2	2	2	-1	0.5	
+yanpiri (temporary stay, overnight stay, come and go, on the movevisitor, caller, traveller)	yijawukuju	1	2	1	4	0.5	
+karrkurrmirnti (burnt up completely, burnt to ashes, burnt to a cinder)	yitimarramarra	1	2	1	4	0.5	
+kuurrtardayani	yurnkuyurnku (moving, stirring, budging, shaking, swaying)	1	1	2	3	0.5	
+marralpa (be, stay, go, come, put)	narrjangajalkujapa	1	2	1	-4	0.5	
+jurlu ()	wilpimanujurlu	1	2	1	-4	0.5	
+makuntapanji	rdaarrkanyi	1	2	1	4	0.5	
+nyarrpurta	yajukurlu (^Desert ^Cynanchum, ^Native ^Pear, ^Wild ^Cabbage)	2	2	2	1	0.5	
+wawi (fast movement, rushing, racingmove fast, rush along)	yarlarangka	2	2	2	4	0.5	
+rdangiyipinyi	turlturlpa	1	1	2	1	0.5	
+purtari (elder brother, elder sister, senior brother, senior sister(senior) brother of deceased, ^(senior) sister of deceasedbrothers, sisters)	yardurrmanpawanarlu	1	2	1	3	0.5	
+kawarla ()	pantanjarrngilkipala	1	2	1	4	0.5	
+jarraly (unreserved, allowing, permitting, free, open, lettingjust talking anyway, talking openly without hesitation, talking clearly all the timespeak freely to, be unreserved withgive permission for, give leave to do to, call forgive permission for, allow, permit, agree for, letgive permission to, allow, permit)	warnkurr	1	2	1	4	0.5	
+jurljurlpungulpa	kiil (attached to, sticking to, glued to, affixedattach to, stick to, affix to, glue to, hold onto, latch onto)	1	1	2	3	0.5	
+nganturnulkulpaluny	walyi (spilling, overflowing, pouring outtake spilling as one goes along, carry along spillingspill, overflow, ooze out ofthrow out water from containerpour out, spill, slopspill, overflow, pour out, flow out, spill out (as water))	2	2	2	4	0.5	
+karrarlurra (straight into, straight throughgo straight through, go straight into)	larrkarrurl (down inside, deep down inside, penetratinggo down inside, dive down into, penetrate down into)	1	1	2	4	0.5	
+puun	puunpa (tree sp.)	2	2	2	1	0.5	
+wirntal (downing, felling, knocking downtoss, throw down, fell, knock downshoot down, down with missilehit down, kick downfall down, roll (of car in accident))	wiyijurrurnpa (right through)	1	2	1	3	0.5	
+kungala	wirijarrimi	1	1	2	-4	0.5	
+jukurru (northern wild orange, long leaf wild orange, bush orange)	parntimirnaw	1	2	1	-1	0.5	
+karrpakarrpa	murturtalpa	1	2	1	-4	0.5	
+walaparrurnu	yinjilyirrpilyirrpi (bunch, cluster, crowd, group)	1	2	1	1	0.5	
+ngarrijarriya	ngumayi (soninlaw's camp, motherinlaw's campinlaw's camp)	1	2	1	-1	0.5	
+ngurrjujarrinjaku	pirrpirnpa (tree sp.)	1	1	2	4	0.5	
+kuwinyiki	yanjami ()	1	1	2	-4	0.5	
+malulu (facing down, head downwards, averted gaze, demure, reticent, quiet)	yaparrarnji	1	2	1	-1	0.5	
+jaalypa (coolingblow cool air/ wind/ breeze on, cool (of wind))	nyuntujunpaju	1	2	1	2	0.5	
+yaltiri	yilykirriwurrunyu	1	1	2	2	0.5	
+kawulkawul (cracked earth, split earthbe cracked (of ground))	purdurlu	1	2	1	-2	0.5	
+ngalyapiri	wurrurupuka	1	2	1	-1	0.5	
+pakapipala	yawirrpakarni	1	1	2	-1	0.5	
+purrujini	rduulinyjakungarntikila	2	4	1	-3	0.5	
+ngardurrkura (^Acacia sp., ^Coonavittra ^Wattle, ^Candelabra ^Wattle)	wardngkirli	1	2	1	2	0.5	
+wolfram	wulpumu	2	1	4	1.5	0.5	
+kurrngalpaju	ngumayi (soninlaw's camp, motherinlaw's campinlaw's camp)	1	2	1	3	0.5	
+kirrirdijarrija	mirnikanjayi	2	1	4	-1.5	0.5	
+matter	milirl (injury, harm, hurthit and cause pain, hit and hurt, wound, hit and injure)	1	2	1	4	0.5	
+ngardarrikirlangu	wunga	1	2	1	1	0.5	
+jarrku ()	wirrpiyi (enlisting, gaining assistance or cooperation of, procuring, rounding up, getting to join in)	1	1	2	-3	0.5	
+kalpa (uncle and nephew, soninlaw and fatherinlawuncle of deceased)	kalpantu	1	2	1	1	0.5	
+rurru (right into, throughinject, stab into, pierce into, stick into, put right into)	yaninjayanta	1	1	2	3	0.5	
+jurupungka	tarlpu (actiondo something, act, take action)	1	1	2	-4	0.5	
+juurlpunguyijala	waamani	1	1	2	-3	0.5	
+warrarn (rushing forgrab something in a rush, pick up quickly, snatch hold ofrush to get, rush to find)	warrarnpa ()	4	3	3	1	0.444	
+pirntipirnti (near, close to, nearer, closer to)	yijalkirri (bank (of creek, watercourse), side of creekgrass sp.gully, gorge)	4	3	3	1	0.444	
+karrkanjayanulparla	puululu (streaks of approaching or receding rain, wall of rain, columns of rain {??} calm before storm {??})	2	1	5	0.5	0.4	
+jakurdukurdu (touring novice, preinitiate on tour)	jamirtayirni	2	5	1	3.5	0.4	
+karrkanjarniyanu	puululu (streaks of approaching or receding rain, wall of rain, columns of rain {??} calm before storm {??})	2	1	5	-2.5	0.4	
+jingkipatijarrija	nyarrpajarrimi	2	1	5	1.5	0.4	
+ngajuwaja	pariwanpa (Humanold man, elder)	2	1	5	1	0.4	
+jungarnijarri	wuulywuulypa	2	1	5	3.5	0.4	
+muurr (go, perform, dance, sing, give a callperform, do, act, godancingdance, gyrate)	takurtakurtalu	2	5	1	1.5	0.4	
+pirrjirriji	yirdaki (loose, slack)	2	1	5	2	0.4	
+kurntilypa (back, behind, out of the way, in the rearlook at with some secret scheme in mind, have a secret plan in mind forgive a little of and retain most, keep back most of, retain most of, fob off with bit ofturn back, make stay behind, make stay back, get rid of, make stay awaykeep back some of, retain, hold back)	warirr (turning back, turning aroundturn around, reverseturn around and look at, look back, look around, glance back, look back over shoulder)	4	5	2	-0.5	0.4	
+jampupurdanji	pampu (didgeridoo)	2	1	5	1	0.4	
+yirdaki (loose, slack)	yurdaki	2	5	1	0	0.4	
+kurlardayati	ngarlkirni	2	1	5	-2.5	0.4	
+pampu (didgeridoo)	putaputa	2	5	1	-0.5	0.4	
+mardulpa (be laden, move about laden, walk with a load)	yurrparnulpalu	2	1	5	-3.5	0.4	
+kakarrarda	ngardiji	3	1	8	0.33	0.375	
+malu (from, originating from, dweller, denizen of)	tirnu	1	3	1	2	0.333	
+kurntajarri	lanijarrijalkulpa	1	3	1	-1	0.333	
+mulpurra	palkajarriyarla	1	3	1	-4	0.333	
+ngawukurlangu	ngumparnarra	1	3	1	3	0.333	
+ngayarrka (pregnantgreedy, voracious)	nyinayawaja	1	3	1	-2	0.333	
+ngarirri	yurlturnpa (hollow area, cavity, hole, cavehollow out, gouge out, make cavity inhollowed out area, hollows, cavitiesroom (in building))	2	2	3	1	0.333	
+jakumirnta (termite sp.termite mound, anthill)	marnta (displeasurescold, threaten, reprimand, be mad at, be angry with)	1	1	3	-1	0.333	
+lanturru (talons, claws, legstake in talons, grab with claws, snatch up in talons)	yaarlkarrijalpa	2	3	2	4	0.333	
+ngurdu (catching, holding, grasping, clutchingcatch hold of, grasp, clutch, take hold of, grab)	wangirrkilpalu	1	1	3	1	0.333	
+corporation	narntirnki (arched, bent over, curved, curled, doubled overninenine)	1	1	3	4	0.333	
+linjikarrikijaku	ngapuru (heat, warmthsteam, vapour)	2	1	6	-1	0.333	
+minjirrminjirrpakur	yuluwayi (Children's Python)	1	1	3	4	0.333	
+karnti (hard ground PH)	ngirirr (sideways, lengthwisecut along, chop lengthwisecut lengthwise, scrape lengthwise)	1	3	1	3	0.333	
+jajutuma	ngajupa	1	3	1	2	0.333	
+jiwirl (within limits, only so far, boundary, limitssing only so far, sing within territorial limitsend of path, end of track, boundary, stopping point, limit)	kawarta	1	1	3	-1	0.333	
+maparnpa (healing power)	ngangkari ()	1	1	3	4	0.333	
+jitijalkurlupa	yuluwayi (Children's Python)	1	1	3	-1	0.333	
+jutupinyi	wangkayalu	1	1	3	-3	0.333	
+yurrarla ()	yurrurla (bundle of weapons)	1	1	3	-4	0.333	
+larrpa (bone, dry bone, bare bone, skeletonleanbony, skinny, just skin and bone, emaciated, thin)	warlapajurnujana	1	3	1	-4	0.333	
+malyarrpa (hidden, out of sight, out of danger, away from, escaping)	yantaru (pebble)	1	1	3	4	0.333	
+jaa (agape, openmouthed, wide openapart, open, separated, spread apart, wide apartbe open, be agape, be spread apart, be separated, gapeyawn, have mouth wide open, hang open (of mouth), stretch (arms, legs))	jamirntilki	1	3	1	2	0.333	
+kuyupanturnu	pinjaparnka	1	1	3	3	0.333	
+julyalpa (raised ground, high ground, elevationbe raised, be high, be elevated)	parrkaparrkarla	1	1	3	2	0.333	
+kajikanpanyanurla	walykamani	1	1	3	3	0.333	
+kalarrumpayi	yalyawarri	1	1	3	1	0.333	
+yiwirri (yam roots from runners)	yukanjayani	1	3	1	-1	0.333	
+karlpi	paranyku	1	1	3	-1	0.333	
+kalkurnujarriya	nguurr (restraininghold down, restrain)	1	1	3	-1	0.333	
+rirriimanu	tuurn (same place, doubled up, turned backreturn to same place, go to same spotreturn, turn back, go back, double back, go to same placehave a cramp)	1	1	3	4	0.333	
+pardimikila	yatura	1	1	3	-2	0.333	
+panparlirla	yantaru (pebble)	1	1	3	2	0.333	
+ngurrjungurrju	tajipinyi	1	3	1	-3	0.333	
+jarrapardimi	rduyukarrinjayani	1	3	1	-3	0.333	
+karlanjirrirla	mumurturlu ()	1	1	3	-1	0.333	
+rdulykurr (through, across, traversingeat quickly through, drink straight upcut through, cut across, bite throughrun across, run through, fly across, fly through, cross, traverse, run through middle ofchop through, split in two, split down the middlebreak in half, break in two, break down the middlekill all, kill manygo through, go across, cross, move through, move across, traversesplit through, split across)	warayarnaku	1	3	1	-4	0.333	
+yakarrapardiya	yutukanyi	2	3	2	0	0.333	
+pirjirrti	tiirl (split, torn, chopped, cut, separated, apartopen, prise apartsplit, split apart, cut open, chop open, trim offsplit apart, split open, split up, part, separate, crack apart, open outsplit, split open, split apart, crack opensplit, flake, knap, chip, sliceopen, bring out, show, put on)	1	1	3	2	0.333	
+panrtaju	warukunarri (partially ripened fruit, fruit just starting to ripen, unripe (fruit), not fully ripe)	2	1	6	-2.5	0.333	
+ngurrjujarrinjaku	warlparra (bedside fire)	1	1	3	-4	0.333	
+cecil	karipardu (^Gascoyne ^Spurge)	1	1	3	-1	0.333	
+wajilipungulu	wapapakarra (calling out, yelling, screaming)	1	3	1	-4	0.333	
+turakirli	wilil (attached to, joined to, hitched todrag along, pull along, push along, lead, tug at, towdangle from, be hitched to, hooked onto, linked, be attacheddrag, pull, pushswing, whirl, dangle, have hanging out, have sticking out)	1	1	3	-3	0.333	
+pirlpanji ()	wangkarnamarralu	1	3	1	2	0.333	
+tarnngaparnta	tini	1	3	1	-3	0.333	
+nyampju	wardayi ()	1	1	3	-4	0.333	
+kurntuwa (tree sp.)	nurrku (^Snappy ^Gum)	1	1	3	-1	0.333	
+ngulangkapalu	yitipikirra	2	2	3	-1	0.333	
+pulpurru (down, overknock over, chop down, hit and drop, floor (someone)fall over, fall down, drop, collapse)	watiyanpaju	1	3	1	-1	0.333	
+ngayarrka (pregnantgreedy, voracious)	nyuntunpawaja	1	3	1	-1	0.333	
+lurrngupungulku	malpa (hip bone and thigh bone, thigh, upper leg)	1	1	3	-2	0.333	
+rrumu	yurrurru (big pile of firewood)	1	1	3	-1	0.333	
+yapakarikijangkardu	yurrurla (bundle of weapons)	1	1	3	4	0.333	
+warrawarra (protection, care, attentionlook after, look out for, watch over, take care of, attend tokeep awake to be ready for danger, stay alert, be on the look out)	yantali	2	3	2	-3	0.333	
+karlka (eyeball, whites of eyesegg white)	yurrurru (big pile of firewood)	1	1	3	4	0.333	
+purangu (summer, hot season, hot weather)	wupun (hot, scorching, burningburn, scorchhot (as of weather))	1	3	1	1	0.333	
+purdijirri ()	tipirri	1	1	3	1	0.333	
+pinjayani	warlupurrku (male initiation rituals, initiation ground)	1	3	1	1	0.333	
+kujanganta	larrakari	2	1	6	1.5	0.333	
+watiyarlajinta	yarntaru	1	3	1	-2	0.333	
+nyarrpamani	nyinapiyalpanpa	1	3	1	4	0.333	
+jaa (agape, openmouthed, wide openapart, open, separated, spread apart, wide apartbe open, be agape, be spread apart, be separated, gapeyawn, have mouth wide open, hang open (of mouth), stretch (arms, legs))	manunpanganpa	1	3	1	4	0.333	
+rdimpirl (clapping, banging togetherbeat boomerangs together, clap time, beat songsticks together)	wirriyawirriyarlu	1	3	1	4	0.333	
+rdulykurr (through, across, traversingeat quickly through, drink straight upcut through, cut across, bite throughrun across, run through, fly across, fly through, cross, traverse, run through middle ofchop through, split in two, split down the middlebreak in half, break in two, break down the middlekill all, kill manygo through, go across, cross, move through, move across, traversesplit through, split across)	warayarnanpurtinjarlalp	1	3	1	-3	0.333	
+tipirri	yarrkamarlu ()	1	3	1	-2	0.333	
+papulanji	papulu (house, building)	1	3	1	2	0.333	
+matini	ramparlyani	1	3	1	2	0.333	
+junkulu	kapurunju	1	3	1	1	0.333	
+matajarrijapala	wapirrajarra	2	2	3	-2.5	0.333	
+kurturdurru (heart)	ngalyarrparntarla	1	3	1	3	0.333	
+purangu (summer, hot season, hot weather)	wupunpa (hot, scorching, burningburn, scorchhot (as of weather))	1	3	1	2	0.333	
+nganaiyiwana	wanja (numb, go to sleep (of body part), without feeling (in body part), anesthetized)	1	1	3	-2	0.333	
+wanja (numb, go to sleep (of body part), without feeling (in body part), anesthetized)	yurrurungalipinkirli	1	3	1	3	0.333	
+parawuju (^Forkleaved ^Corkwood)	rdilykipakanirlangu	1	3	1	2	0.333	
+purranjayanu	rduulngarni	3	9	1	3	0.333	
+crack	yiwirri (yam roots from runners)	1	1	3	-1	0.333	
+malyarrpa (hidden, out of sight, out of danger, away from, escaping)	yurlturnpa (hollow area, cavity, hole, cavehollow out, gouge out, make cavity inhollowed out area, hollows, cavitiesroom (in building))	1	1	3	3	0.333	
+panturnuyi	rdiin (covered, closed, joined, enclosed, shutbe shut, be closed, be enclosed, be covered, be zipped upcovered over, closed, shut, joined up, patched upenclose, cover with, build over, put over, spin over, construct over, block, sew up, sew together, tie together, join, shut, close over, make oneclose, shutbecome silent, not speak, close up, shut up)	4	2	6	-1.5	0.333	
+kankalarrakari	tupulpari	1	1	3	1	0.333	
+karlarnjirri (^Longnosed ^Dragon)	kurluparra	2	6	1	0	0.333	
+jiinikirlirli	wilil (attached to, joined to, hitched todrag along, pull along, push along, lead, tug at, towdangle from, be hitched to, hooked onto, linked, be attacheddrag, pull, pushswing, whirl, dangle, have hanging out, have sticking out)	1	1	3	3	0.333	
+taparralkurnalu	tiirl (split, torn, chopped, cut, separated, apartopen, prise apartsplit, split apart, cut open, chop open, trim offsplit apart, split open, split up, part, separate, crack apart, open outsplit, split open, split apart, crack opensplit, flake, knap, chip, sliceopen, bring out, show, put on)	1	1	3	-4	0.333	
+kurrkurr (plungingplunge (something) into ground (as in probing for water))	puurn	1	3	1	4	0.333	
+jin	jini ()	1	1	3	1	0.333	
+nginji (criticize, backstab, slander, gossip, calumniatecriticize, backstab, slander, gossip, calumniate, talk about behind back of)	rdurru	1	3	1	2	0.333	
+lirraparnta	yalarnimpiji	1	1	3	-4	0.333	
+ngarrijarrinjinta	ngumayi (soninlaw's camp, motherinlaw's campinlaw's camp)	1	3	1	2	0.333	
+mangarli ()	ngupalawiyijangarranpal	2	3	2	2	0.333	
+kanjayani	warlayayipinyi	1	3	1	-4	0.333	
+murdi ()	yaninjarniyani	1	3	1	-3	0.333	
+yanurlupa	yuluwayi (Children's Python)	2	2	3	1.5	0.333	
+wantinjawarnu	yawurlku	2	3	2	2	0.333	
+ngajukupirdangkapir	wungumani	1	1	3	-4	0.333	
+malpa (hip bone and thigh bone, thigh, upper leg)	mijiwirli	1	3	1	-4	0.333	
+juwaki ()	wurnuparntaju	1	1	3	-4	0.333	
+ngamana (young Napanangka)	walararrpurarrpupinyi	1	3	1	-1	0.333	
+karipardu (^Gascoyne ^Spurge)	yaliwardingkikila	1	3	1	4	0.333	
+pangkarl	pangkarlpa (forked, fork, with spikes, pronged, cloven,)	3	3	3	-0.3	0.333	
+ngurrjungurrju	wuyuwuyu (massaging, pummelling, rubbingpass hand over, rub downpress down on, massage, pummel, rub, rub down)	1	3	1	-2	0.333	
+yanjan (far, further, distantmove further, extend, widen, lengthen)	yatijarniwapirrilki	1	3	1	-1	0.333	
+lurruwantijarnirla	yalyawarri	1	1	3	-2	0.333	
+kayirlirr (ritual shouting, ritual calling, collective roaringshout, call out, cry outroar)	rri	2	6	1	-0.5	0.333	
+manangkarrawartingk	tiirl (split, torn, chopped, cut, separated, apartopen, prise apartsplit, split apart, cut open, chop open, trim offsplit apart, split open, split up, part, separate, crack apart, open outsplit, split open, split apart, crack opensplit, flake, knap, chip, sliceopen, bring out, show, put on)	1	1	3	4	0.333	
+jaa (agape, openmouthed, wide openapart, open, separated, spread apart, wide apartbe open, be agape, be spread apart, be separated, gapeyawn, have mouth wide open, hang open (of mouth), stretch (arms, legs))	ngirnparii	1	3	1	-1	0.333	
+kirni ()	rdanjingka	1	3	1	-2	0.333	
+ngayirlipa	warrawarrakanyi	1	3	1	4	0.333	
+ngarijarrija	wungumani	1	1	3	4	0.333	
+lurnpakurlangu	yurntumujangkalkukarna	1	3	1	-2	0.333	
+larrpa (bone, dry bone, bare bone, skeletonleanbony, skinny, just skin and bone, emaciated, thin)	nyinamirlipa	1	3	1	-3	0.333	
+jirrinypawarnurlawa	muwarnku (unable to see (as in dark), not seeing (due to surrounding conditions), prevented from seeingbe unable to see, not see, sit without seeing, have no view, in poor visibility, be cut off fromwalk without seeing, move in poor visibilityunaware, uninvolved, vacant, distracted, oblivious, unseeingstare vacantly, stare into space, have a fixed stare, be unaware, be uninvolved, be oblivious towalk with a vacant stare, walk around staring into space)	1	1	3	2	0.333	
+ngataji ()	yilpirlanyintiwardingki	2	6	1	-3	0.333	
+mulyumaru	mulyuyarlta	2	3	2	1	0.333	
+nyanungukujangkardu	yurrurla (bundle of weapons)	1	1	3	2	0.333	
+jinjirlpari	jirnjirlpari	1	3	1	-2	0.333	
+wirlinyirlipa	yuluwayi (Children's Python)	1	1	3	2	0.333	
+jaraly (along the ground, level with the ground, horizontal, over the ground, flat, flush withlie flat, run along the ground, be parallel with the ground, spread out)	laanjakungarduyu	1	3	1	1	0.333	
+pulutu	wiyijurrurnpa (right through)	1	3	1	-1	0.333	
+japijapi (ball, skein)	ngulakurnganti	1	3	1	-3	0.333	
+lipirri (seeds, fruits, berries)	lurlurlkarrija	1	1	3	3	0.333	
+kuwarla (wind, air, breathbreathe, take in air, inhale)	warujarri (wind, windy weather, blustery weatherlate summer, time before winterhot northerly wind)	1	1	3	-3	0.333	
+mitirninpa	wungumani	1	1	3	4	0.333	
+miparrpa (face, countenanceunrelated, stranger)	pawutumani	1	3	1	1	0.333	
+tirdi (as a pair, together, as a couplecouple together, husband and wife together, married couple, pair, both together)	yurrurla (bundle of weapons)	1	1	3	-2	0.333	
+maralpa (emptyhanded)	markajarra	1	3	1	-4	0.333	
+ngulangkawu	pirlpanji ()	1	1	3	-4	0.333	
+miparrpa (face, countenanceunrelated, stranger)	yinarrka (newborn baby)	1	3	1	1	0.333	
+ngulajangkakarlipa	tururru (tree sp. PPJ 20/10/86clapping sticks, song sticks)	1	1	3	4	0.333	
+pirdamani	yungunpanyanu	1	3	1	-1	0.333	
+matawangu	parrajingijingi	1	3	1	-3	0.333	
+ngalyirri (young ^Napaljarri)	ngamana (young Napanangka)	1	1	3	-2	0.333	
+lipirriki (with loving desire, in lovelook at with loving desire, look at as lover does)	yumurrpawardingkirli	1	1	3	-4	0.333	
+kirinpuju	yurrkunju ()	2	1	6	-2.5	0.333	
+parlpa (elder, eldest, most senior, older, oldestnovice, initiatecousin (of initiate) hn59initiator)	wanjilpiri	1	1	3	-1	0.333	
+papulanji	wijikirlki	1	3	1	-1	0.333	
+munikiyi ()	yumangipiyayijala	1	1	3	4	0.333	
+pulpurru (down, overknock over, chop down, hit and drop, floor (someone)fall over, fall down, drop, collapse)	wantijao	1	3	1	-2	0.333	
+murdi ()	yantanyanurla	1	3	1	-4	0.333	
+jularmajukujala	jurlama (diminutive male subsection term, diminutive male skin name)	2	1	6	-2.5	0.333	
+nurrku (^Snappy ^Gum)	rdangkardangkarlpa	1	3	1	2	0.333	
+puly	wuturr (stretched, pulled, held tauttow (as of a truck on a rope or chain), drag, pull tightstretch, pull (on), pull tightgrab hold of and stretch, grab and pull on, grab and drag on)	2	3	2	-1	0.333	
+murrunyuntunyuntu (backwards, in reverse)	yarlpurunyanungurlu	1	3	1	-1	0.333	
+jajaly (all, entirelythrow everything out, emptythrow and strike with great force, deal a powerful blow (with missile), hit full oneat away everything, eat up everything, drink all ofharm all of, hurt all of, kill allall fall, empty, everything fall outall go away from, all leave)	turlka	2	2	3	3	0.333	
+kulkurrurlku	pirlpanji ()	1	1	3	1	0.333	
+mirlingirringirri (round, circular, squat, roundedround bark bowlinner tyre tube)	yilyayarlarni	1	1	3	4	0.333	
+ngawurr (heat, hot weather, hot, burningbe hot, burn, be scorching hotbe hot, feel hotheat, make to feel hot, burn)	waruyanu	1	1	3	-2	0.333	
+bottle	tirl	1	1	3	-2	0.333	
+kalyirlpa	yilpankulu	1	1	3	1	0.333	
+ngulju (one's own relation, kin, family, friend)	wunturu	1	1	3	-3	0.333	
+liwiji ()	warujarri (wind, windy weather, blustery weatherlate summer, time before winterhot northerly wind)	1	1	3	-3	0.333	
+karlanjarlawalya	walykamani	1	1	3	-4	0.333	
+walaparra (ibis)	wanurju	1	3	1	4	0.333	
+kurrpurlurla	yalyawarri	1	1	3	-3	0.333	
+piirlpa (painting, daubing, smearingpaint with kaolin, cover with pipeclay, whiten, smear with white)	yunparnujana	2	3	2	-2	0.333	
+waamani	wajilipungulu	2	2	3	2.5	0.333	
+nyirnyi	yumurruparnta	1	1	3	-2	0.333	
+wungumani	yuway	1	3	1	2	0.333	
+warlayayipinyi	yiwirri (yam roots from runners)	1	1	3	3	0.333	
+pirrjirti	puulykijirni	2	6	1	0	0.333	
+kurrngalypa ()	ngarrijarrinjinta	1	1	3	-1	0.333	
+jaraly (along the ground, level with the ground, horizontal, over the ground, flat, flush withlie flat, run along the ground, be parallel with the ground, spread out)	puulypungu	1	3	1	-2	0.333	
+muwa (absence, absent, not, none, no longer, eliminated, extinguished, finished, ended, obliterated, cleared of, healed, filled in (of hole in ground), levelled (of hole in ground, soakage)unlit fire, fire(wood) not burning, extinguished fire, unlit hearth)	muwarl	1	3	1	-4	0.333	
+warirr (turning back, turning aroundturn around, reverseturn around and look at, look back, look around, glance back, look back over shoulder)	warirrpa (turning back, turning aroundturn around, reverseturn around and look at, look back, look around, glance back, look back over shoulder)	2	2	3	1	0.333	
+kurrinjiji	nganalku	1	1	3	-3	0.333	
+mamupuurnparlu	nyarrpamani	1	1	3	2	0.333	
+kalpardaparda (^Spotted ^Nightjar)	yinkardakurdaku (^Spotted ^Nightjar)	3	5	2	0	0.3	
+jungkurr	ngarlingarli ()	3	2	5	-1	0.3	
+business	jinjirri (shrub sp.)	3	10	1	1.33	0.3	
+ngalkarirlangu	ngarrkarirlangu	2	7	1	2.5	0.285	
+murul (severed, cut off, torn off, scrap, remnant, shredcut through, cut off, cut upsplit, sever, chop off, lop off, shatterpierce through, spear right throughin bits, in shreds, in pieces, torn to pieces)	murulururlu	4	7	2	3.5	0.285	
+kurruly (change, transformchange, turn around, change position, change rolesturn, change, transformchange hands, change roles, change possession of, have for a changehold in different positions, change the position of (something held)change, convert, transform, reformput in a different place, change position of, adjust, move (to another position))	layi	4	2	7	0	0.285	
+wurrururlangu	wurururlangu	2	7	1	0	0.285	
+marrarnki (^Desert ^Walnut)	warrawaji	2	7	1	-1.5	0.285	
+lii ()	yurukurra (without further trace, peter out (of tracks), fade from view, become invisible, fade out of sight, disappear from sight)	4	7	2	-2.5	0.285	
+pangkarra (bedding, swag, blanket, sheet, covers)	yurntumuwardingkirlangu	2	7	1	-3.5	0.285	
+jukurdayi (diminutive male subsection term, diminutive male skin name)	wirijarrilki	2	7	1	3	0.285	
+kunykurrkunykurrnga	yirrimiji (bloodsoup, broth)	2	1	7	-1	0.285	
+nini ()	puwuny	1	0	6	6	0	0.277	
+kurntilypa (back, behind, out of the way, in the rearlook at with some secret scheme in mind, have a secret plan in mind forgive a little of and retain most, keep back most of, retain most of, fob off with bit ofturn back, make stay behind, make stay back, get rid of, make stay awaykeep back some of, retain, hold back)	warirrpa (turning back, turning aroundturn around, reverseturn around and look at, look back, look around, glance back, look back over shoulder)	4	5	3	0.5	0.266	
+lirrawangu	rumangku	4	5	3	-1.2	0.266	
+parntarr (breaking, coming apartgrab and break neck, twist and break, twist and snap offlie in shreds, lie in pieces, lie brokenbreak neck ofbreak bones of, hit and break neck of)	putaly ()	4	5	3	3	0.266	
+maarrpa (teasing, making funmake fun of, tease, laugh at)	maninjayani	4	5	3	-0.2	0.266	
+parrirni ()	pirnpari	1	2	2	3	0.25	
+yanpiri (temporary stay, overnight stay, come and go, on the movevisitor, caller, traveller)	yarltiri (quartzsilver coin)	1	2	2	2	0.25	
+jungarayi	panta (toothlessminced meat, ground meat)	1	4	1	-2	0.25	
+pulapijarrinjarla	yurdamirri ()	1	1	4	-1	0.25	
+juwampi	wata ()	1	1	4	-2	0.25	
+jiil (splint, affixed standing, attached upright, set in place, set upright, set verticalstand in place, stand affixed, be attached, stand uprightset in place, splint, fix in place, attach to)	pardijampa	1	4	1	3	0.25	
+mulu (dislikebe jealous of, envy, dislike, suspect, be suspicious ofavoid, run away from, keep away from, refuse to talk to, ignore, retreat from)	wuuwangurlawiyi	1	4	1	-2	0.25	
+jiyikipatapatarla	puurl (away, off, out, downset off, set out, leave, get up and go{??})	1	1	4	1	0.25	
+mannga (sexually aroused, sexually excited, randy, sexy, hornysexually arousedrelieved (of pain), better, assuaged, no longer in pain)	yannga (nipple, teatseed)	2	2	4	0.5	0.25	
+marrukuru	wanjarri (red down, red fluff)	1	1	4	4	0.25	
+ngarrijarrimi (go, walk; sit, stand, lie; act on)	yawuwaja	1	1	4	1	0.25	
+nuwunpa	warlumirlamirla (gecko sp.)	1	2	2	4	0.25	
+yirriyirri (burning pain, searing paincause (intense) pain)	yuuwa	1	4	1	2	0.25	
+kanapakarra (piece of wood)	wirimangurru (tree sp.)	1	1	4	-3	0.25	
+wardalya (test throw of boomerang, trial throw of boomerangspinning through air)	warrpirnpakurralkurnalu	2	8	1	2.5	0.25	
+kirridi	rdukulku (concave, scooped out, belly, hollow)	1	2	2	2	0.25	
+ngulalparlawurra	yirirri	2	2	4	-1	0.25	
+wuulypa (dark, darkness, nightget dark, fall dark, turn nightbe darkdarkdarken, become dark with fog, roll in (of fog), envelop in fog, enshroud in darknessdusk, nightfall, late evening, twilight, sunset)	yulumpawurrukurra	1	2	2	-4	0.25	
+mawungarntangarnta	miyaluwaja	1	4	1	-4	0.25	
+jardawangu	warrardapajini	1	4	1	-1	0.25	
+rirriyi	tiyiparduju	1	4	1	2	0.25	
+lightning	manngirri (lightning, thunder)	3	2	6	1	0.25	
+marnma ()	yurrurluku (moving down and away fromgush out of, pour out of, flow rapidly out ofstrike down much of, down, hit  and cause to fall downspill out of, all fall down, all come tumbling down, all collapsebreak off, cut downcome down (of rain from massed rainclouds), pour down (of massed rainclouds), rain downgush out of, flow out of, come out of with force, rain down hardpour out of, flow out ofput down lot of, disgorge many)	1	1	4	4	0.25	
+purruparnta	wirtajitirla	2	4	2	-3	0.25	
+manyupinyi	yurntumurluju	1	2	2	-3	0.25	
+jirnipirlarri	wanjarri (red down, red fluff)	1	1	4	-4	0.25	
+jiljamarramarra	yilyampurumarramarra	1	2	2	1	0.25	
+yirdijirrima	yurduwaruwaru ()	1	1	4	-1	0.25	
+pungkaju	yaarr (rubbing, pressing down on, massagerub down, massage, press down on, apply downwards pressure to, feel)	1	2	2	-1	0.25	
+jilpirli	ngulajangkajinkili	1	4	1	-4	0.25	
+jutumani	turrpaju	1	4	1	2	0.25	
+traveling	yurirrimi (move, stir, shiftfeel contractions, have contractions)	1	1	4	-4	0.25	
+jamalya (log)	yurnmajuwana	1	4	1	-2	0.25	
+jankardu	yarlpa (nipple, teat)	1	2	2	-4	0.25	
+jamalya (log)	yapyarijiwana	1	4	1	4	0.25	
+jilpirli	kurrurumanpalukula	1	4	1	2	0.25	
+jardawangu	ngurntarlwangkaja	1	4	1	2	0.25	
+japunpurru (childless woman, barren woman)	ngajukujarntu	1	2	2	-1	0.25	
+kakarrarninginti	wakarlarrangulpalunyanu	1	4	1	-3	0.25	
+kankarlarrajarrijal	panja (bed of branches, bed of leaves)	1	1	4	4	0.25	
+eganiji	jijami (tease, incite, pick on)	1	2	2	-2	0.25	
+kunampi (ripe berries)	ngarirliparla	2	4	2	2	0.25	
+lanjutu	wirimangurru (tree sp.)	1	1	4	2	0.25	
+manjarn	manjarnpa	4	4	4	1	0.25	
+jarraly (unreserved, allowing, permitting, free, open, lettingjust talking anyway, talking openly without hesitation, talking clearly all the timespeak freely to, be unreserved withgive permission for, give leave to do to, call forgive permission for, allow, permit, agree for, letgive permission to, allow, permit)	pamajukurrparlu	1	2	2	-2	0.25	
+kurduklurna	parntanypa (old, adult, mature, fullygrownrear, raise, bring upbig old womanwoman without her children, unfettered, no worries)	3	3	4	-4	0.25	
+lirrimi (swell, get big(ger), rise up, bulge out)	rularula (swollen)	1	1	4	2	0.25	
+ngarriyanta	pipi (fatherfather of deceased)	1	2	2	-1	0.25	
+rdukulku (concave, scooped out, belly, hollow)	wurramirdirla	1	2	2	-4	0.25	
+manyupinyi	warlupurrkakurralku	1	2	2	-3	0.25	
+kunangu ()	nyangunkulujana	1	2	2	3	0.25	
+ngar	ngarlarrpa (handsome, goodlooking, beautiful, pretty)	1	2	2	1	0.25	
+yurany	yuranypa (vegetables, fruits, grains)	1	1	4	1	0.25	
+karrinjayirrarni	wuyuwuyu (massaging, pummelling, rubbingpass hand over, rub downpress down on, massage, pummel, rub, rub down)	1	4	1	2	0.25	
+pirnpari	walaparrurnu	1	2	2	3	0.25	
+pangki (orangeorangeyoung girl, prepubescent female)	pirlangkitiji	1	4	1	-1	0.25	
+kanpalangu	yinjarni ()	1	4	1	-1	0.25	
+jilpirli	nyampulkunkulu	1	4	1	-3	0.25	
+ajuku	jujuju (pup, puppy)	1	1	4	-4	0.25	
+kurdujirripinkirla	purruparnta	2	2	4	1	0.25	
+wanjarri (red down, red fluff)	yantalypa	1	4	1	-2	0.25	
+murrungulkuru (blowfly)	yirdingarrurnu	1	4	1	-2	0.25	
+kuyupungu	yikanpalangu	3	12	1	0	0.25	
+jurntakarri	karlaya ()	1	1	4	-3	0.25	
+jirrmilypa (oozing, tricklingweep, ooze, seep)	katarlpi (headrestpillow, cushion)	1	4	1	-1	0.25	
+kapakapa (unable, disabled, outdone, beaten to it, hindered, prevented, held back, interrupted)	kiyirtikirraju	1	4	1	-2	0.25	
+kawarla ()	pantanjarrngi	1	2	2	-4	0.25	
+punpunwangkajalkulp	wirdiyi ()	1	1	4	4	0.25	
+karltakarlta (ant sp.)	namarlipajarraw	1	4	1	2	0.25	
+tirlawuparnta	yalyaki (quenched (of thirst), relieved (of thirst))	1	4	1	3	0.25	
+wariyiwariyi	yunkuranyi	2	4	2	2	0.25	
+kunampi (ripe berries)	mantay	1	4	1	-1	0.25	
+beeri	yuntalpa	1	1	4	-1	0.25	
+purluwanti (^Barn ^Owl)	warlkirri	1	1	4	1	0.25	
+wariyiwariyi	yunturlpurlu	1	4	1	1	0.25	
+wariyiwariyi	yawulawulu	1	4	1	2	0.25	
+jamalya (log)	jarrjalkulpalu	1	4	1	4	0.25	
+jintjukujala	kurluparri (^Military ^Dragon)	1	1	4	-4	0.25	
+jirriyipalawa	yirdijangarra (reserved for particular person, destined for particular person, owned by, meant for, spoken for)	3	3	4	-1	0.25	
+parlpa (elder, eldest, most senior, older, oldestnovice, initiatecousin (of initiate) hn59initiator)	parlpawarnu (star, planet)	1	1	4	-2	0.25	
+wirlinyanyi	yingankulujana	1	4	1	-1	0.25	
+karlaya ()	kunamaju ()	1	4	1	-2	0.25	
+elon	yuntalpa	1	1	4	2	0.25	
+ngalyarrkarra (in sand hills, in sandhill country)	wirntuwu	1	4	1	2	0.25	
+wirlinyanyi	yulyjapinyi	1	4	1	-1	0.25	
+kurntirrpa (hair of dead person)	yapapa	3	4	3	-1	0.25	
+payirr (away, offsend away, chase away, tell to leave, dismiss)	yantalku	1	1	4	4	0.25	
+karlan	wata ()	1	1	4	-1	0.25	
+luntu (loud and insolentshout back cheekily, answer rudely, shout an insolent reply, give loud cheeky answers, call back loudly)	yarrpurninjayanu	1	4	1	1	0.25	
+purluwu	wintawu	1	1	4	2	0.25	
+kulartan	yumpa (here you are; hey (let's go))	1	1	4	-1	0.25	
+ends	mujuny	1	1	4	1	0.25	
+kapanka	wukarra ()	1	1	4	-2	0.25	
+parnkayarniji	wirnpirli	2	1	8	0	0.25	
+kirlaji	wuurlu	1	4	1	-1	0.25	
+timana ()	wanyanyyirrarni	1	4	1	4	0.25	
+manjarn	nganayipiyijala	2	4	2	3	0.25	
+kalanpa	wirtninjarla	1	4	1	-1	0.25	
+pirirrpa (^Spinytailed ^Gecko)	yurdiwaruwaru ()	1	2	2	4	0.25	
+jirtankiji	ngujuly (gashing, cutting through, chopping throughcut gashes in, gashchop open)	1	4	1	2	0.25	
+riwariwa (far distant, faint, barely visible in distance, hazy, shimmering, distorted figure, silhouette in distance)	turakikirrawirlinyijank	1	4	1	4	0.25	
+karlan	nganayikirli (bird sp.)	1	1	4	-4	0.25	
+antarctic	jampirni (lick)	1	1	4	4	0.25	
+jujuju (pup, puppy)	rdanjarrngunami	1	4	1	-2	0.25	
+rirriyi	rri	1	4	1	3	0.25	
+katumparralpa	miirda (hidden, stealthily, concealedpursue stealthily, follow secretly, trail in secret, spy on)	1	1	4	-3	0.25	
+karlangujarraparnta	narnarnwapa	1	4	1	-2	0.25	
+jiwilki (sticking out of, lodged into (like a spear or knife lodged in body), hanging from, danglinghave something dangling from body, have something sticking out from bodymove rapidly with some elongated thing attached to body, run with something dangling, run and dangle)	ngurrngurr	1	4	1	3	0.25	
+luntu (loud and insolentshout back cheekily, answer rudely, shout an insolent reply, give loud cheeky answers, call back loudly)	wunngukurlu	2	4	2	2	0.25	
+jarlparrpa ((^Northern) ^Bush ^Tomato sp.)	turlturlpa	1	2	2	2	0.25	
+ngarlki (block, deflect, parry, protect, shield, stand between, intercept, stop, separateprotector, blocker, shield)	tirlpakani	1	4	1	-4	0.25	
+wata ()	yarruru	1	4	1	4	0.25	
+murrungulkuru (blowfly)	yukuruyukuri	1	4	1	4	0.25	
+purrurdujinpa (^Rhinoceros beetle)	wiyajala	1	2	2	-3	0.25	
+pirrka (tens, ten combination)	purtari (elder brother, elder sister, senior brother, senior sister(senior) brother of deceased, ^(senior) sister of deceasedbrothers, sisters)	1	2	2	3	0.25	
+njirripirti	wanjarri (red down, red fluff)	1	1	4	-1	0.25	
+judith	yuntalpa	1	1	4	3	0.25	
+ngulajangkarlipa	riwariwa (far distant, faint, barely visible in distance, hazy, shimmering, distorted figure, silhouette in distance)	1	1	4	-1	0.25	
+kankalarrakari	rdupulpari (pointed, humped, crest, prominent)	1	1	4	-4	0.25	
+kapirdilangurlu	waralymardarni	1	2	2	-2	0.25	
+miyirntarlu	yurrkalypa ()	2	1	8	-1	0.25	
+eyedrop	winjirni (pour (into), pour (out), tip outspit outpour out from several containers, tip outpour into or onto)	1	1	4	-3	0.25	
+mangkankuwurduwurdu	ngarrijarrija	6	8	3	-0.8	0.25	
+rduyukarrimi	wirijarrimi	1	2	2	-2	0.25	
+ngalyungalyu (darting, flickering, leapingflicker (flame), dart in and out (tongue), leap up (flame))	rdumangkarra (thick black smoke)	1	2	2	-2	0.25	
+kurrku (dig a hole, dig a ditch)	wurlumpurrungariji	1	4	1	-4	0.25	
+yirajakurla (many people, crowd, mob, big group of people)	yirrara	1	1	4	2	0.25	
+kularta	yumpa (here you are; hey (let's go))	1	1	4	-3	0.25	
+jarrajarra	yunparnujulu	3	12	1	-0.6	0.25	
+karlangujarraparnta	narnarn	1	4	1	-3	0.25	
+majirdi	piilkarra ()	1	1	4	3	0.25	
+jararr (ground, digging (of ground)dig, dig a hole (in ground))	pinjuku	1	4	1	1	0.25	
+ngalyarrkarra (in sand hills, in sandhill country)	ngalyarrpamarramarra	3	4	3	0.33	0.25	
+kawuyuwuyu	yumpa (here you are; hey (let's go))	1	1	4	-2	0.25	
+rdipiny (skewerskeweringbe skewered together, be held together by skewer, be joined by skewerthread onto, skewer, skewer and hold in placeskewer together, join with skewer)	rdipinypa (skewerskeweringbe skewered together, be held together by skewer, be joined by skewerthread onto, skewer, skewer and hold in placeskewer together, join with skewer)	1	2	2	2	0.25	
+puki	rumu	1	1	4	-3	0.25	
+walpangkurra (Black tree lizard sp., goanna sp.)	wayilarlalpa	1	4	1	-3	0.25	
+paarlpa (calf of leg)	paarrjurrurnu	1	4	1	-2	0.25	
+pakapipala	rdirriyinyi	1	1	4	-2	0.25	
+karliwarrpa (loud funeral cry)	murungurru (group dance, war dance)	1	1	4	-4	0.25	
+wanjarri (red down, red fluff)	yumarranykurlanga	1	4	1	2	0.25	
+ngulajangkjaju	yakarrapardimi	1	1	4	2	0.25	
+makuntapanji	rdarrkanyi	1	2	2	4	0.25	
+parulyani	rdupa ()	1	4	1	-4	0.25	
+jinjin (request (favour/ service)tell someone to get something, request, order)	rnantuwuju	1	2	2	2	0.25	
+kanp	yarnunjukuparnta	1	1	4	-3	0.25	
+minyira (headband, armband, neckband)	wapuru	1	2	2	-3	0.25	
+jiil (splint, affixed standing, attached upright, set in place, set upright, set verticalstand in place, stand affixed, be attached, stand uprightset in place, splint, fix in place, attach to)	ngantalparlajinta	1	4	1	-4	0.25	
+julpurnparijulpurnp	ngapurlupunngupunngu	1	2	2	-1	0.25	
+kamparrumpayi	wardingi (witchetty grub)	1	2	2	1	0.25	
+mardanki	marrawaji ()	1	1	4	1	0.25	
+includes	nyirawu ()	1	2	2	3	0.25	
+nganayinpurtinja	warrangkarli (plant sp.)	1	1	4	3	0.25	
+jaal (sharp pointstick up, stick out, protrude, end in a point, be pointed krnpointed, with sharp point)	rayitimi	1	2	2	3	0.25	
+manyukarr	murungurru (group dance, war dance)	1	1	4	-4	0.25	
+kukuju (smiling, pleasedsmile, have happy look on face (because of another person), look happy (over another person), look content (about relation with another person), look pleased, have pleased expression)	pilinjiya	2	4	2	1	0.25	
+walampurrukarra	yumpa (here you are; hey (let's go))	1	1	4	-4	0.25	
+purlkumani	wurrulykumani	1	2	2	1	0.25	
+kirlaji	narntinpayi	1	4	1	3	0.25	
+nyarna (permanent water)	nyawu	1	4	1	-2	0.25	
+ramparlwangkajarna	yartunyu	1	4	1	1	0.25	
+julyalkarrijalpa	wirdiyi ()	1	1	4	3	0.25	
+kamanyarrpa (^Dreamtime python)	yarrirdarrirdia	1	4	1	2	0.25	
+nyiyakunparla	wurnma (next time, later on, eventually)	2	2	4	-1	0.25	
+wariyiwariyi	yarluwayi	1	4	1	4	0.25	
+jurruyarltiriji	ngamurlu (against chest, to the chestcarry against one's chest, take in one's arms, embrace, hug to one's chesthug, embrace, put arms aroundhold against chest, clutch to one's bosom, hold in one's arms)	1	1	4	2	0.25	
+kuurrkuurrpa ()	puntaru ()	1	4	1	-3	0.25	
+rdilykirdilykipajur	timana ()	1	1	4	-1	0.25	
+kujakaa	rdupulpari (pointed, humped, crest, prominent)	1	1	4	-2	0.25	
+yimirrinjawangu	yumpa (here you are; hey (let's go))	1	1	4	2	0.25	
+wintawu	wurlu	1	4	1	1	0.25	
+pakitirla	yayirriyayirri ()	1	1	4	-4	0.25	
+lightning	pirlkipirlki ()	1	2	2	4	0.25	
+pimpaljarntirni	pimpalypari	2	2	4	-1.5	0.25	
+ngarrkakijirni	yalirlanyanlu	1	4	1	3	0.25	
+yilyinkarri ()	yumpulkanjiji	1	2	2	-1	0.25	
+kakarrarninginti	kurduwijawijarla	1	4	1	1	0.25	
+marrkari (spouse, wife, husband, brotherinlawbrotherinlawwidow, widowerhusband and wife, couple, spousesbrothersinlawbrotherinlaws)	minyi	1	4	1	-4	0.25	
+ngarranparla	tarruku (secret dangerous place, powerful thing, sacred, out of bounds to uninitiated men, sacred boards, 'churinga')	1	1	4	-3	0.25	
+nyianami	yawirlara (spinifex seed heads, stalks of spinifex)	1	1	4	2	0.25	
+walyirielaju	walyurlpari ()	1	1	4	4	0.25	
+jamirrka	piriwa (^Forkleafed ^Corkwood, ^Bull ^Hakea)	1	1	4	3	0.25	
+rrumpuljungarnu	wanjarri (red down, red fluff)	1	1	4	1	0.25	
+wangkanamarra (men dancing with leafy witi poles attached to their bodies)	yirrara	1	1	4	-3	0.25	
+wariyiwariyi	yurrpajipi	1	4	1	4	0.25	
+ngamurlu (against chest, to the chestcarry against one's chest, take in one's arms, embrace, hug to one's chesthug, embrace, put arms aroundhold against chest, clutch to one's bosom, hold in one's arms)	wardarr (side to side, from one side to another, roll, turn over, wallowrotate, move from^ side tosideroll, throw down and roll, bowl, turn over, rotateroll)	1	4	1	1	0.25	
+jiil (splint, affixed standing, attached upright, set in place, set upright, set verticalstand in place, stand affixed, be attached, stand uprightset in place, splint, fix in place, attach to)	ngulakujulparlajinta	1	4	1	2	0.25	
+puupala	yirdijangarra (reserved for particular person, destined for particular person, owned by, meant for, spoken for)	3	3	4	-3	0.25	
+karrpakarrpa	parntarrijalpa	2	2	4	2.5	0.25	
+piilkarra ()	rirril	1	4	1	-2	0.25	
+narli ()	yaarlkarrijalpa	2	4	2	-1	0.25	
+kutari (headdress)	piirlpa (painting, daubing, smearingpaint with kaolin, cover with pipeclay, whiten, smear with white)	2	3	3	-1	0.222	
+jiilypa (hisshiss (like beetles))	urlu	2	3	3	1	0.222	
+juurr (discharging, down, unloadingdischarge, unload, put down)	kalapi	2	9	1	3.5	0.222	
+pangkirri (long deep gash, big split.cut lengthwise gashes in, gash, split)	pangkirripungulpanyanu	6	9	3	2.5	0.222	
+jampita (tin, can, jar, billycan)	ngarlany	6	9	3	3.5	0.222	
+rama (weaksighted, poorsighted, bad sight, blurred vision; with poor hearing, with bad hearing, hard of hearing; dizzy, drunkweaksighted, poorsighted, bad sight, blurred vision; poor hearing, bad hearing, hard of hearingsilly, stupid, mad, irrational, foolish, crazywrong, incorrect, silly)	wakurlpukurra	6	9	3	-3.5	0.222	
+laarr (heating, warmingwarm, heat)	pardajyarntiyarntikunga	2	9	1	0.5	0.222	
+laarr (heating, warmingwarm, heat)	pardayarntiyarntinyalpa	2	9	1	1.5	0.222	
+jari ()	yalij	2	9	1	1	0.222	
+pitimimani	yinkarta (^Jew ^Lizard)	2	1	9	0.5	0.222	
+liji (coveting, wanting to have, desirouswant, covet, desire)	liwirn (hungry for meat, meatstarved, craving meatstarve someone of meat, deprive of meatneeding food, desperate need to eat, ravenous)	2	3	3	1	0.222	
+rdapu (solid, not hollow, filled in, plugged up, covered over, constipatedfill in, cover over, plug up, make solid, block uppunch, hitfill in, cave in, silt up, fill up, block up)	wurulyparnkajaku	2	9	1	2.5	0.222	
+kuurrpa (motionless, stoppingsit stillrest, have a rest, have a spell, stop on the way)	sideway	2	9	1	-3.5	0.222	
+jilili (slow moving, lame, limping)	yaarrpungulpalu	2	3	3	-2.5	0.222	
+warnpa (deep sleep, sound sleep, fast asleepsleep soundly, sleep deeply, sleep profoundly, be fast asleep, be in deep sleepoblivious, unaware, vague)	yirnintirla	2	9	1	3.5	0.222	
+kalpalpi (^Lemonscented ^Grass, ^Native ^Lemon ^Grass^Grass sp.)	tardayanupala	2	9	1	2	0.222	
+pilpirlirra	wardinyijarrijarnangku	2	9	1	-0.5	0.222	
+kurtukurtu	puwa	2	1	9	2.5	0.222	
+ngurrjijuarri	pirrki (dizzybecome dizzy, faint)	3	1	14	-2.6	0.214	
+yijalyi (cooked and quartered animal, heap of cooked and quartered meat, joints of cooked meatcarry quarteredquarter an animal, cut up meat into separate sections)	yijalyiyirrarni	3	14	1	-3	0.214	
+jintjukujala	wijiji (complaining, protestingprotest innocence, complaindemean, ridicule, put down {??} SS)	1	1	5	1	0.2	
+kuluparri	wijiji (complaining, protestingprotest innocence, complaindemean, ridicule, put down {??} SS)	1	1	5	-2	0.2	
+pakawurru ()	wajunpu ()	1	1	5	-2	0.2	
+maturarlulpa	ngarlkinpa	1	1	5	4	0.2	
+majardimajardi (^Caustic ^Weed)	ngirla ()	4	5	4	1.25	0.2	
+ngayurru (heat, hot weather)	tracki	1	5	1	2	0.2	
+jira ()	rdurrulpu	1	5	1	-2	0.2	
+ngurrayuntuyuntungu	pantarr (crowd, flockcrowd, flock)	2	2	5	0	0.2	
+ngaparrpa (crossover, opposite directions, exchangecross, cross over, go in opposite directionsin opposite directions, crossover)	palkakarrinyi	1	5	1	2	0.2	
+maarnta (bus, coach, omnibus, van)	tijangku	1	1	5	4	0.2	
+tijangku	wanyanyyirrarni	1	5	1	-2	0.2	
+kawarr (exhausted, worn out, weak, extenuatedexhaust, wear out, tire, weaken, overcome, overwhelmlost, disoriented, confused, waylaidconfuse, disorient, drive crazy, make head spinbe lost, lose way, get lost, go wrong way)	waliparnalu	2	5	2	-1	0.2	
+luwanilki	wirimani	1	5	1	3	0.2	
+muurr (go, perform, dance, sing, give a callperform, do, act, godancingdance, gyrate)	uwayi	2	5	2	0.5	0.2	
+tirirtiri	tirirtiyijala	1	5	1	2	0.2	
+warranywarranymani	warranywarranypajarrija	1	1	5	4	0.2	
+muurr (go, perform, dance, sing, give a callperform, do, act, godancingdance, gyrate)	yawirrilpirrili	1	5	1	4	0.2	
+palupinyi	rdupa ()	1	5	1	-3	0.2	
+bowershade	pangkarlpangkarlpa	2	2	5	-1	0.2	
+mardulpa (be laden, move about laden, walk with a load)	yinjayanurra	1	1	5	-1	0.2	
+liwarurruliwarurru	rdingki (gapbe a gap, be a break in)	1	1	5	3	0.2	
+ngajupurnuwaja	pariwanpa (Humanold man, elder)	1	1	5	4	0.2	
+ngarlurnpa	purrupardu	1	1	5	3	0.2	
+wartirli (waist, girth(both) hips, hind quartersbutcher, gut, slit openbelt, waistband, girdle)	wirlanpaji	1	5	1	-3	0.2	
+kalyipungu	rdululu (one by one, scattering, dispersingtake off one by one, run and scatter, fly off and disperse, dispersescatter (of many), move off in all directionschase away in different directions, make scatter, make run out from, disperse, flush out)	1	1	5	1	0.2	
+nyarrpajarrimi	wilypirr ()	1	5	1	3	0.2	
+jawujawu (small intestine, lower abdomenlarge intestines SS)	jurntijurntirrpa (fatty)	1	5	1	4	0.2	
+kulalpanpa	kurruly (change, transformchange, turn around, change position, change rolesturn, change, transformchange hands, change roles, change possession of, have for a changehold in different positions, change the position of (something held)change, convert, transform, reformput in a different place, change position of, adjust, move (to another position))	2	5	2	1	0.2	
+kuurr (motionless, stoppingsit stillrest, have a rest, have a spell, stop on the way)	tardayani	1	1	5	1	0.2	
+kanmurrpa (decorated body, painted body, designs painted on body)	wangkarnamarralu	1	5	1	-2	0.2	
+kulkulpa (in/ by/ with mouthin armsmouthloadcarry in/by the mouth, carry in/by beak (of bird)pick up by the mouthhave in mouth, hold in/by mouthput down from mouth/ beak, (deliberately) drop it out of the mouth)	yarrpurnulku	1	5	1	4	0.2	
+jira ()	yaparr	1	5	1	-3	0.2	
+kalpardaparda (^Spotted ^Nightjar)	kirrkarlanyjipiyayijala	1	5	1	4	0.2	
+waniyarrarlu	warluraji ()	2	2	5	0	0.2	
+jukarlangu	kujarlupayini	1	5	1	3	0.2	
+makarirlangu	mitirrapungka	1	5	1	3	0.2	
+pirdaku (sated, full up (of stomach), well fed, satiated)	yulaya	1	5	1	4	0.2	
+wirntinjayanu	yukurrukurru (dancing board)	1	1	5	-3	0.2	
+karu (pushing out of way, surgepush out, push away, exert pressure on, move out of way of, cause a surgenocturnal movementmove around at night, walk around at night, lurk at night)	watarurru	1	5	1	4	0.2	
+yirlkinji	yukanjakura	1	5	1	3	0.2	
+ngajakula	pirlirrinyi	2	5	2	3.5	0.2	
+rdingki (gapbe a gap, be a break in)	yakayarturluwana	1	5	1	1	0.2	
+junu ()	ngurjumanu	1	1	5	-4	0.2	
+kutangka ()	purrupardu	1	1	5	-4	0.2	
+rdululu (one by one, scattering, dispersingtake off one by one, run and scatter, fly off and disperse, dispersescatter (of many), move off in all directionschase away in different directions, make scatter, make run out from, disperse, flush out)	wirntalijarrijanpa	1	5	1	-3	0.2	
+corporation	yardajirri (support, help, assistance, backuphelp, support, stand up for, assistspeak up for, support in speech, stick up for)	1	1	5	-4	0.2	
+mangarda ()	marrkirdi (Plumbush, ^Bush ^Plum, ^Wild ^Plum)	1	1	5	-3	0.2	
+kurdijikingarntikil	yirdinjamarda	1	1	5	4	0.2	
+maarrpa (teasing, making funmake fun of, tease, laugh at)	manjayani	1	5	1	1	0.2	
+waniyarrarlulpa	warluraji ()	1	1	5	-2	0.2	
+wijiji (complaining, protestingprotest innocence, complaindemean, ridicule, put down {??} SS)	yirdijirrima	1	5	1	-3	0.2	
+palupinyi	papiyarla	1	5	1	-4	0.2	
+kiwayikirra	tarntarnngarrirlangunga	2	5	2	1	0.2	
+yamirringirla	yirntati ()	1	1	5	-3	0.2	
+jarntajanayi	yardayarda (sacred place, sacred site)	1	1	5	1	0.2	
+jalalapinypinypa (^Yellowthroated ^Miner)	kankarlarrpurdaju	2	10	1	-1.5	0.2	
+ngajakula	tururru (tree sp. PPJ 20/10/86clapping sticks, song sticks)	3	5	3	0.33	0.2	
+ngaparr (crossover, opposite directions, exchangecross, cross over, go in opposite directionsin opposite directions, crossover)	ngarrparrpawitawangu	2	5	2	1	0.2	
+wardinyijarrijalkul	warluraji ()	1	1	5	-2	0.2	
+majardimajardi (^Caustic ^Weed)	wajirrkiwajirrki	1	5	1	4	0.2	
+wapayarlayijala	warrilyi (^Redbud ^Mallee)	1	1	5	-4	0.2	
+jinyijinyimani	kanunjurlardaka	1	5	1	4	0.2	
+maniyimpaju	wararra (cliff, precipice, precipitous mountainside, bluff, steep hill, steep slope)	1	1	5	-1	0.2	
+jukarlangu	wardinyijarrijalunyanu	1	5	1	-3	0.2	
+yawarra (wound, cut, gash)	yumangikijaku	1	5	1	3	0.2	
+walkurrukalu	waringarri	1	1	5	3	0.2	
+ngintirrkingintirrk	ngurlkurr (gulpinggulp down, wolf down, swallow fastgo down in a gulp, go down at once, go straight down)	2	1	10	-2.5	0.2	
+etc	wajunpu ()	1	1	5	-1	0.2	
+wangki (^Potato ^Bush)	yamparrayiwarnu	1	5	1	2	0.2	
+wartirli (waist, girth(both) hips, hind quartersbutcher, gut, slit openbelt, waistband, girdle)	wirlanpikirlilki	1	5	1	3	0.2	
+maarrpa (teasing, making funmake fun of, tease, laugh at)	milpirriji	1	5	1	-1	0.2	
+yirdaki (loose, slack)	yirdakijarrinja	1	5	1	3	0.2	
+jaarnkarri	ngarnta (knife handleknife, adze)	1	1	5	2	0.2	
+milykakurlu (stranger, foreigner, alien)	waringarri	1	1	5	3	0.2	
+paarrpaarr (superficially, on surface, slightlysinge, get singed, burn on surface, scorchquickly, hastily, in haste, fast, rapidlyrush, race, scurry)	paarrpaarrjanka	1	1	5	-4	0.2	
+pampajarrija	yardurrku (hasty, rapidly, quick, fastquick to strike, quick off the mark, quicktempered, hotheaded)	1	5	1	-3	0.2	
+karturnu	wartirli (waist, girth(both) hips, hind quartersbutcher, gut, slit openbelt, waistband, girdle)	2	2	5	0	0.2	
+purluwanti (^Barn ^Owl)	wijiji (complaining, protestingprotest innocence, complaindemean, ridicule, put down {??} SS)	1	1	5	4	0.2	
+pirantimaninjawarnu	tiraki	2	1	10	3	0.2	
+rdangka (apart from, away from, separate fromlift out of, unearth, remove, release, give awayleave, go away from, abandon, separate from, part from)	rl	2	5	2	1	0.2	
+kapati	kujankulupalangu	1	5	1	-1	0.2	
+laarpakanilki	ngajakula	1	1	5	3	0.2	
+walyirri (lastborn, youngest child, baby of the family)	yulykurrpinjawarnu	1	5	1	-4	0.2	
+wanapiyi ()	warntaparrijangkarnalu	1	5	1	-2	0.2	
+luwarnaw	yitiwanakari	2	2	5	-4	0.2	
+kuyurna (daughter, niece, little girl)	yamirringingirli	1	5	1	-1	0.2	
+purluwanti (^Barn ^Owl)	wilypiringawurrpa	1	1	5	-1	0.2	
+liwarurrurlu	rdingki (gapbe a gap, be a break in)	1	1	5	1	0.2	
+wuulykijirni	wuulywuulypa	1	1	5	4	0.2	
+langaparntajarrilki	pirrkirni (carve, makescrape clean of)	1	1	5	4	0.2	
+kirrirdimpayikirra	turlturrpa (skewer, carryingstickskewering, piercingstick into, skewer, stab, peckput on skewer, thread onto skewer)	1	1	5	-3	0.2	
+pirrkirni (carve, makescrape clean of)	tinaku	1	5	1	1	0.2	
+jakurdukurdu (touring novice, preinitiate on tour)	wantangkayati	1	5	1	-1	0.2	
+yujurlpu	yulyurlpu (mistletoe sp.)	1	1	5	3	0.2	
+wirikilajala	yintajirrki (^Centralian ^Carpet ^Python)	2	1	10	-1	0.2	
+ngarlingarli ()	ngarnngu	1	5	1	2	0.2	
+la	purdanga ()	1	5	1	-4	0.2	
+muurr (go, perform, dance, sing, give a callperform, do, act, godancingdance, gyrate)	pinyijesus	1	5	1	-2	0.2	
+manparrpa (ghost, soul, spirit, shadeghostpole)	yumurlumanta	2	10	1	-3	0.2	
+warruparnkanjinani	yungalpa (joey)	2	1	10	0	0.2	
+jira ()	kanpi	1	5	1	2	0.2	
+jakarrpinyi	jurdurrinyilki	1	5	1	1	0.2	
+jipirri (yam sp.)	wiriyalumpukularli	1	5	1	-4	0.2	
+ngantawu	walararrpurarrpupinyi	1	5	1	1	0.2	
+jira ()	wupukurrurluju	1	5	1	2	0.2	
+marrkirdi (Plumbush, ^Bush ^Plum, ^Wild ^Plum)	putunarri (^Prickly ^Saltwort, ^Rolypoly Bush)	1	5	1	1	0.2	
+puululu (streaks of approaching or receding rain, wall of rain, columns of rain {??} calm before storm {??})	wurnturiwiyi	1	5	1	3	0.2	
+kulkulpa (in/ by/ with mouthin armsmouthloadcarry in/by the mouth, carry in/by beak (of bird)pick up by the mouthhave in mouth, hold in/by mouthput down from mouth/ beak, (deliberately) drop it out of the mouth)	pakitirli	1	5	1	-3	0.2	
+does	karnturlku	1	5	1	-2	0.2	
+karti	yakujurupungu	1	5	1	2	0.2	
+kirralkujalarlipa	pajarni (taste, try (some of)taste, find)	2	2	5	-2	0.2	
+narnngunku	palupinyi	1	1	5	3	0.2	
+clean	ngukalyki ()	1	5	1	4	0.2	
+ngaparrpa (crossover, opposite directions, exchangecross, cross over, go in opposite directionsin opposite directions, crossover)	yarripilangurlayijala	1	5	1	-1	0.2	
+miya	tardayani	1	1	5	-1	0.2	
+lingka (big poisonous snake sp., ^Mulga ^Snake, ^King ^Brown snakepoisonous snake, serpent, adder)	yapurnuwarna	1	5	1	4	0.2	
+papipi (initiation ground)	payipiji	1	1	5	-3	0.2	
+wira (up, out, upwards, outwardstake off in flight, fly off, fly up in air, shoot up in air)	yurrujurujurrurra	1	5	1	-4	0.2	
+urru	warnta (crossways, acrosslie acrossacross, crossways, crossed, athwart, side on, bycrosshatchingcross, crosspiece, crucifixat cross purposes, opposed to, wrong, untrue, wrongway, wronglycause to go sideways, put crossways, put acrosshold acrosseat as it goes by, drink as it goes by, intercept and consumelie across, go by (of road, path), go across (of road, path), crossrun acrossgo across, cross, cut across to, go byput across, put crosswaysgo across to, cut across to)	1	1	5	-3	0.2	
+hotpalarla	ngayurru (heat, hot weather)	1	1	5	2	0.2	
+rapa (headache, pain (in head), ache{??})	taparralkurnalu	1	5	1	3	0.2	
+marnakiji ()	wariyi (^Cassia spp.)	1	1	5	-2	0.2	
+pakuju	walanypiri	1	5	1	4	0.2	
+manyjakurlu	wariyi (^Cassia spp.)	1	1	5	3	0.2	
+rdarnka	walyirri (lastborn, youngest child, baby of the family)	1	1	5	4	0.2	
+rdangka (apart from, away from, separate fromlift out of, unearth, remove, release, give awayleave, go away from, abandon, separate from, part from)	yirraninjayanu	1	5	1	-3	0.2	
+winparrkujangka	yimpa ()	2	1	10	-0.5	0.2	
+lirlirli (loud noise, sound of rushing wind, rattlemake loud noise like rushing wind in leaves of treessing in special manner)	wangki (^Potato ^Bush)	1	1	5	-4	0.2	
+pilirripilirrimani	pirrkirni (carve, makescrape clean of)	1	1	5	-2	0.2	
+karu (pushing out of way, surgepush out, push away, exert pressure on, move out of way of, cause a surgenocturnal movementmove around at night, walk around at night, lurk at night)	yawirrilpirrili	1	5	1	3	0.2	
+tayitirli	warluraji ()	1	1	5	-2	0.2	
+mikawurrurlajinta	rdangka (apart from, away from, separate fromlift out of, unearth, remove, release, give awayleave, go away from, abandon, separate from, part from)	1	1	5	4	0.2	
+parlja (wide gash, deep cut, woundmake large wide gash in, cut extensively)	tuckered	1	5	1	4	0.2	
+napangkaju	tarupayi (bald, cleanshaven)	6	3	10	-2.5	0.2	
+pardiki (^Longhaired ^Rat)	warnipiyirla	3	3	5	3	0.2	
+jinyijinyimani	wirriyawirriyarlu	1	5	1	-2	0.2	
+karu (pushing out of way, surgepush out, push away, exert pressure on, move out of way of, cause a surgenocturnal movementmove around at night, walk around at night, lurk at night)	takurtakurtalu	1	5	1	-2	0.2	
+karntirirri (tree mortuaryplatform, mortuary tree, burial tree)	yarujuyarujurlu	2	10	1	-0.5	0.2	
+home	nyangunyangu	1	5	1	-2	0.2	
+pawiyi ()	tanpal	1	5	1	-4	0.2	
+wangkanamarra (men dancing with leafy witi poles attached to their bodies)	wangki (^Potato ^Bush)	1	1	5	2	0.2	
+nawu	rduyumangkarri	1	5	1	-3	0.2	
+puntaru ()	yunkardakurdaku ()	1	1	5	1	0.2	
+dinner	kuyurna (daughter, niece, little girl)	1	1	5	3	0.2	
+japunkurlangu	wirlinyimayipala	1	5	1	-1	0.2	
+jawujawu (small intestine, lower abdomenlarge intestines SS)	ngampuju	1	5	1	-1	0.2	
+waringarri	yikarnalungarrini	1	5	1	-4	0.2	
+kalalunyanuu	rdilykikari	7	1	36	-0.1	0.194	
+karnti (hard ground PH)	ngirirrpa (vulva, vagina hn59)	4	3	7	-2.5	0.19	
+luka ()	yurnulyka (muddy water, stirred up water, foul water, murky waterxERG shake y with wrist action (as to reactivate a felt pen))	4	3	7	-2	0.19	
+pingijarrirlipa	yuu (yes, yeah, that's right)	3	1	16	3	0.187	
+jayimpirr (multitude, crowd, swarmswarm, crowd)	yuu (yes, yeah, that's right)	3	1	16	-3	0.187	
+langakurlu	sugar	3	2	8	0.33	0.187	
+yaku (sporadically, in bursts, off and on, stops and starts, bit by bit, in small amountsget bit by bitdrink in short bursts, drink in short mouthfulsfall in bursts, rain off and on, rain sporadicallyput (down) bit by bit, spoon out)	yatijarniwapirri	3	16	1	-0.6	0.187	
+kuurrpa (motionless, stoppingsit stillrest, have a rest, have a spell, stop on the way)	warnipiyiwanakirli	5	9	3	-2.8	0.185	
+kardardurl	nyurla	2	1	11	-1	0.181	
+kirrrirdi	wipimi (extend out, stretch out, radiate, go out fromstick out, open out, hold out, straighten out, unfold, stretch outlegs outstretched, legs stretched out, legs straight out, stick out straight (of legs)harass, bother, hit)	2	1	11	-3	0.181	
+wurrpardi (^Sandhill ^Wattle, Spearwood)	wurrpardijangkalangu	2	11	1	-0.5	0.181	
+wipimi (extend out, stretch out, radiate, go out fromstick out, open out, hold out, straighten out, unfold, stretch outlegs outstretched, legs stretched out, legs straight out, stick out straight (of legs)harass, bother, hit)	wipinjayani	2	11	1	0	0.181	
+ngurlju (diaphragm, midriff, floating ribssideways, side down, on one's sidein the middle, middle sibling)	walykajarrinjaku	2	11	1	3.5	0.181	
+piirl (painting, daubing, smearingpaint with kaolin, cover with pipeclay, whiten, smear with white)	walykaji (close relation, close family, friends, good relations, friendly relations,)	2	11	1	-3.5	0.181	
+takangku	wirimani	2	11	1	2.5	0.181	
+kurnpariji ()	kurrijinyanukujakuyala	2	11	1	0	0.181	
+wirrintingarnu	yirnti (spark)	2	1	11	-0.5	0.181	
+lawajarrija	ngaanyku (attacking, rushing in anger, stampedeattack, rush at, charge, stampede)	2	11	1	0	0.181	
+marralani	warnarrpirlangu	5	4	7	0.2	0.178	
+kujukuju (paternal grandfather, father's father, father's father's brother, father's father's sister)	pirdarralpajarrinjayanu	4	23	1	2.5	0.173	
+majumani	wardarrwardarrkijini	1	1	6	3	0.166	
+pardinjayani	yalyi (off, away from, detaching, removing, separatingremove, take off, take away, peel off, detachcome off, come loose, loosen, detach, separate fromremove, lift off, take offcome apart, come loose, slip out, gradually make its way loose, slowly separate from)	2	2	6	1.5	0.166	
+kuturnujarriya	warranywarranypa (negligent towards relations, uncaring, not caring properly for relations)	1	6	1	-4	0.166	
+wapirrkulparla	yurrupuru (unseen, never seen, out of sight)	1	1	6	-4	0.166	
+pingi (small, tiny)	yiringiringikijini	3	18	1	1	0.166	
+nini ()	pukamarra	1	6	1	4	0.166	
+jungarnijarrija	nyarrpamani	1	2	3	3	0.166	
+pankulu	wanukurdu (^Whitewoodwitchetty grub)	1	1	6	4	0.166	
+yarnta (blurred vision, bad eyesight)	yirrarujarrijalpalijarr	1	6	1	-4	0.166	
+kujakalalunyanu	wirlampi ()	1	1	6	4	0.166	
+kalpa (uncle and nephew, soninlaw and fatherinlawuncle of deceased)	wantawiri	2	2	6	0.5	0.166	
+marlungkajinta	rampalpa ()	1	3	2	3	0.166	
+nyiyanyirrinyirri	yimpardijinpa ()	3	6	3	-1	0.166	
+wardinyijarri	yawarda ()	1	6	1	-3	0.166	
+ngurnngurnngurnngur	ngurnngurnpa (^Northern ^Nailtail ^Wallaby)	1	1	6	1	0.166	
+kuuku	ngurrngurr	1	6	1	-2	0.166	
+pintipuyu	yikarnalungarrini	1	6	1	-3	0.166	
+kirni ()	waralywaralyirrarnu	1	3	2	1	0.166	
+nyinantu	wanukurdu (^Whitewoodwitchetty grub)	1	1	6	-4	0.166	
+mardanki	yirlangkurrunyu (^Blue ^Mallee)	1	1	6	2	0.166	
+jiwirrimarntu	yilparlipanyanu	1	6	1	3	0.166	
+minmirr	mirrimirri (wounded, shot, hurtrevivebe knocked out, become unconscious)	1	1	6	3	0.166	
+mukunypa (restricted, secret)	yatarani	1	6	1	-1	0.166	
+kujarlajinta	yirnkirnkiri (loose, unstable, fragile, weak, not firm, not tight, slack)	1	2	3	1	0.166	
+yajayaja	yirrirlji (on all fours, crawlingmove on all fours, crawlcrawling, able to crawl)	1	1	6	-3	0.166	
+karlarnjirri (^Longnosed ^Dragon)	yirdijirrima	1	6	1	2	0.166	
+jinypangkanya	yirntatu (hunting blind, hiding place)	2	2	6	2	0.166	
+jurnungu (wet earth, boggy ground, mud)	jurrngu	1	6	1	-4	0.166	
+kurntuwa (tree sp.)	wirrkali (stand of ^Bloodwood treesplenty of trees)	1	1	6	-4	0.166	
+kunampaw	warukunarri (partially ripened fruit, fruit just starting to ripen, unripe (fruit), not fully ripe)	1	1	6	2	0.166	
+kirr	wanjani (not, fail to, refrain from)	2	12	1	-2.5	0.166	
+murupinyi	turakarlu	1	6	1	-2	0.166	
+jintajintajarrija	waaparrirni ()	1	2	3	-4	0.166	
+jilkaja (initiation travel, initiation travellers, "business mob")	kayirlirr (ritual shouting, ritual calling, collective roaringshout, call out, cry outroar)	1	1	6	3	0.166	
+pungkaju	rdiirrpa (burst, split open, cracked open (such that inner contents escape)burn and split open, cook and split open, get hot and burstdrop and crack open, drop and bust, throw and break open, throw and bust opencrack open, split open, cut and bust openchop open, hit and break open up, crack openpierce and crack open, stab open, stab and bustsplit open, bust open, burstfall and split open, fall and crack open, fall and burst openbreak, separation, pause, cutbreak, stop, spell, interruption, pause)	1	2	3	3	0.166	
+yakuranjiwanajana	yarlarlinji	2	1	12	1	0.166	
+ngunungurru	nyana ()	2	1	12	0.5	0.166	
+ngurnngurnngurnngur	ngurnngurnpa (^Northern ^Nailtail ^Wallaby)	1	1	6	-2	0.166	
+murulku (short, stumpy)	wirlana	1	2	3	3	0.166	
+coconut	waraly (hanging downwardsseep out ofcarry hanging downwards, carry suspended, hold suspended while going alonghang, be suspended, dangle, fall in sheets (as rain)throw and leave hanging, throw and suspendsuspend, dangle, hang, pick up and let hanghold hanging downhang, hang up, put up, dangle, suspend)	2	1	12	-2.5	0.166	
+marntarlardilypirru	marntarlrdilypirrungu	1	6	1	4	0.166	
+kanunjuwu	wilypipardimi	1	1	6	-2	0.166	
+jiya (^Euro)	rarringki	1	6	1	-3	0.166	
+ngurnngurnpa (^Northern ^Nailtail ^Wallaby)	puujuma	1	6	1	4	0.166	
+murlurrpa (^Turpentinewitchetty grub sp.)	warrawaji	1	6	1	4	0.166	
+marinji	rarralypa (smooth, long and straight, long and smooth, flatsmooth, flatten, straighten outopen, outgoing, happy, satisfied, content, talking freely)	1	6	1	-2	0.166	
+patanjarrngi (^Broadleaf ^Parakeelya, ^Slender ^Pigweed {?})	wakati (^Munyeroo, ^Pigweed)	2	1	12	0	0.166	
+marlirri	richie	1	3	2	3	0.166	
+purapa	rdilykimirnimirni	1	6	1	-4	0.166	
+kurlurrpa (lively, healthy, well)	kurturtuwu	1	6	1	-4	0.166	
+emuju	yirntatu (hunting blind, hiding place)	1	1	6	-1	0.166	
+kurdupardujkangkaju	yirrirlji (on all fours, crawlingmove on all fours, crawlcrawling, able to crawl)	1	1	6	4	0.166	
+yira (separate, distinct, aparttwo separate, two apart from each other, two distinct, two partstwo waysanother part, separate sectionseparate groups, separate parts, distinct parts)	yururnturukanyi	1	6	1	-3	0.166	
+kilyarlpa (^Blackbreasted ^Buzzard, Eaglehawk)	kiyarlpa	1	6	1	1	0.166	
+karriyayi	pirlpa (privates, genitalia, genitals, bum, prick)	1	1	6	3	0.166	
+pinji ()	taku	1	6	1	-1	0.166	
+palalpalpilpa	warriwarri (father, aunt, uncle, mother, nephew, niece, brother, sistermale genitals, male genitalia, penis; copulation)	2	1	12	1	0.166	
+nini ()	pukamarraku	1	6	1	3	0.166	
+manyjakurlu	wanukurdu (^Whitewoodwitchetty grub)	1	1	6	4	0.166	
+ngatujumparrarnu	pinji ()	1	1	6	3	0.166	
+marrarlantarni	wungumani	1	2	3	1	0.166	
+luurr (settle, campsend (down) into, make to go (down) intowalk close to (another in hope of being invited to join), hang around with, join in withenter into (another's area), camp close to (another), move in on, join withmake to go to, send to joinput ontorun into, fly into)	luwurr	1	6	1	2	0.166	
+nuulpaluyanu	rdaaly (broken (of solid entity) off, snapped, split in two, in pieces, apartburn off, burn out, burn and split, burn throughsnap underfoot, stand on and break in two, tread on and breakthrow over, knock overbreak off with missile, pelt and breaksnap, breakcut off, lop off, snap off, slicechop off, chop down, chop in twobroken (of solid entity), snapped, splitburn and split, burn to pieces, burn off, burn outsnap, go snapbreak and fall off, snap and fall, split off and fallroll (of car in accident), roll overfall to, be left with, stick to, mind, take responsibility for)	1	1	6	2	0.166	
+jijanu (visit, visitingvisit, go visitingvisit, go to visit)	latu	1	6	1	-3	0.166	
+purruparnta	yikilyi (wrigglingdig oneself inwriggle through, dig one's way through, burrow)	2	4	3	4	0.166	
+kankulunyanu	munjapakarni	1	6	1	1	0.166	
+piilkarra ()	wirlana	2	4	3	1	0.166	
+ilpanyanu	yilara	1	1	6	-2	0.166	
+warlkurrpa (bark, barking, growling, snarlingbark atbark atbark (as dog))	yukayi (work, perform action for)	2	2	6	-1	0.166	
+karntakarntaji	kayirlirr (ritual shouting, ritual calling, collective roaringshout, call out, cry outroar)	1	1	6	-3	0.166	
+lampanu (unclenephew pair, uncleniece pairuncles and maternal nephews, uncles and maternal niecesmother, maternal uncle)	lampanupardu (unclenephew pair, uncleniece pairuncles and maternal nephews, uncles and maternal niecesmother, maternal uncle)	1	1	6	1	0.166	
+wirlampi ()	yartalu	1	6	1	-2	0.166	
+murlurrpa (^Turpentinewitchetty grub sp.)	narntinpari	1	6	1	3	0.166	
+warduwardu	warduwardujarrija	1	6	1	-4	0.166	
+parlkunkamani	ruu (soft, tenderbe soft, be tender (as of cooked vegetable))	1	1	6	-2	0.166	
+kajipa ()	paarrpardiyarla	1	1	6	4	0.166	
+jakamarrakupirdangk	jakarra (diminutive male subsection term, diminutive male skin name)	1	1	6	-3	0.166	
+ngarrjirnkirlangu	yirntatu (hunting blind, hiding place)	2	2	6	3	0.166	
+marlirdijarra	murrkardi (elder sister, elder brother, (parallel) cousinelder brother of deceased, elder sister of deceasedbrothers, sisters, (parallel) cousinsmotherinlaws, soninlaws, sisters, brothers)	1	1	6	-4	0.166	
+tilpiya	wirlampi ()	2	2	6	0	0.166	
+kirni ()	rdanjingkamanulpalu	1	3	2	2	0.166	
+lampurnupukawaja	yuwu ()	1	1	6	-1	0.166	
+kartirdiwangkulkuja	yilara	1	1	6	-1	0.166	
+kankulunyanu	makurntawangu	1	6	1	4	0.166	
+kirrirripardu	yantukurda (reddishbrown ant)	2	1	12	-0.5	0.166	
+jinypangka	yirntatu (hunting blind, hiding place)	2	2	6	-2	0.166	
+jurrurnpa	ngaru ()	1	1	6	1	0.166	
+pardurrmaninjarla	yirrirlji (on all fours, crawlingmove on all fours, crawlcrawling, able to crawl)	1	1	6	-1	0.166	
+ngaliparlipa	ngawukurlangu	1	2	3	-1	0.166	
+jarrarlpa (crack, crevice, hole (in rock), opening (in rocky hillside), gap, fissure, cuttingfork, turnoff, gap in mountain, chasm, divergent tracks)	wilypimantarla	2	12	1	1	0.166	
+pirlirrinyi	tururru (tree sp. PPJ 20/10/86clapping sticks, song sticks)	1	2	3	-1	0.166	
+ngaru ()	yungkurdu	1	6	1	-2	0.166	
+nyuntujunpa	wukarranji	1	6	1	2	0.166	
+pirantimani	yarti	4	3	8	-0.5	0.166	
+jaati	kuwurtu	1	2	3	-3	0.166	
+kalyirlpa	ngampurrarni ()	1	1	6	-2	0.166	
+kirralkurlupa	majardi (hairstring belt and tassel, pubic tassel)	2	1	12	2	0.166	
+pimpalypa (notched, nicked, cuttrim with pointed instrument, gouge, nick, cut notch inbite a piece out of, eat bits from, eat holes incut a notch in, gouge hole in, cut a piece out of, nickchop out with pointed instrument, gouge, chop a nick in, chop a notch innick, cut with pointed instrument, gougebreak off, snap offnicked, gouged, chippeddented, gouged in several places, with bits out, covered in nicks)	pimpalytyarntini	1	6	1	4	0.166	
+kurlinjirri (coolamon, wooden dish)	yinjayanurralpalu	2	12	1	-3.5	0.166	
+kanamparni (dry seed)	pirlarla (^Dogwood seeds)	2	2	6	4	0.166	
+mil	panjarn (press down onto, flatten into shape, flatten outflatten, spread, smooth out, hit flat, beat flat, spread outwalk with wide flat feet, walk around leaving a broad trailbig wide flat foot{??})	2	4	3	3	0.166	
+ngarninjakunganti	paku ()	1	1	6	-4	0.166	
+matter	yarungka (retaliation, getting even, paybackretaliate against, get back at, get even with, get square within return, reciprocating, exchanging, squaring up, balancing out)	1	2	3	-3	0.166	
+yinpanyanurla	yutukanyi	1	3	2	-3	0.166	
+jalanypa (tonguedeformed tonguespeech impaired, abnormal speech, speech defect, speech impedimentpoking (of tongue)uvulastick tongue in and out at (sexily), poke tongue in and out)	ngarninyjala	1	6	1	-1	0.166	
+nganingirri (arms pinned back behind back)	pungupala	1	3	2	-2	0.166	
+mapaka	puna (ash)	2	4	3	0.5	0.166	
+ngajukupirdangkapir	ngarrjinkirlangu	1	1	6	1	0.166	
+jampijinpalangu	yuwu ()	1	1	6	-2	0.166	
+jamalya (log)	pungulpanyanurla	2	4	3	-3	0.166	
+kalakanpanyanu	yimingarrirni	1	2	3	-2	0.166	
+ngampurrarni ()	pamajukurrpa	1	6	1	-4	0.166	
+milkarra (showing off, being seen, being noticed, draw notice, attracting attention)	warnukurlupa	1	6	1	3	0.166	
+jangari (diminutive male subsection term, diminutive male skin name)	natipala	1	2	3	2	0.166	
+mutikakirralku	ngirlilpa (sun)	1	1	6	-3	0.166	
+tarlarl (popping, clicking, cracking, creakingtwitch, flex, pop, click, crack, creakhit with loud bang, give ringing blow to, give resounding blow topop (of ligaments), crackfall and go plop (rain)clomp along, go along clack clack)	tuwaju	1	2	3	3	0.166	
+jarrawari (water source with Rainbow Serpent)	yakurdiyikirra	1	2	3	4	0.166	
+kirni ()	tanjirna	1	3	2	-4	0.166	
+julyal (raised ground, high ground, elevationbe raised, be high, be elevated)	parrkaparrkarla	1	2	3	3	0.166	
+marlurnparla	yirakari	1	2	3	-4	0.166	
+mardimardi	wantinjawarnu	2	4	3	3	0.166	
+tapu ()	wulyupala	3	9	2	3	0.166	
+janta (sharing, distributing, lendinggive to use, give a lend of, lend to)	warlpirikirlangula	1	6	1	-1	0.166	
+kapinpaju	wardinyijarrimi	1	3	2	3	0.166	
+pardinjakungarntiki	yalyi (off, away from, detaching, removing, separatingremove, take off, take away, peel off, detachcome off, come loose, loosen, detach, separate fromremove, lift off, take offcome apart, come loose, slip out, gradually make its way loose, slowly separate from)	1	1	6	-1	0.166	
+kajikanpangarrini	wankurru ()	1	1	6	-3	0.166	
+rdulykurr (through, across, traversingeat quickly through, drink straight upcut through, cut across, bite throughrun across, run through, fly across, fly through, cross, traverse, run through middle ofchop through, split in two, split down the middlebreak in half, break in two, break down the middlekill all, kill manygo through, go across, cross, move through, move across, traversesplit through, split across)	ruurturla	1	3	2	-1	0.166	
+kumpakumpa (froth, foam, scumsoapy water, used water, frothy water)	ngawararlu	1	6	1	-2	0.166	
+yikarlipa	yinngirri (become uncontrollably angry, go into a rageappearance, look)	1	1	6	-3	0.166	
+murupinyi	tapurlapilki	1	6	1	-4	0.166	
+murupinyi	pipakurlulangu	1	6	1	-1	0.166	
+roll	ruu (soft, tenderbe soft, be tender (as of cooked vegetable))	2	2	6	-2	0.166	
+nyanungukupirdangka	parljipinyi	1	1	6	1	0.166	
+ngaru ()	turlpapanturnu	1	6	1	-2	0.166	
+kurlurrngarlinypaku	mirrirdi (water contained in hollow of tree, tree water)	1	1	6	-2	0.166	
+yalyi (off, away from, detaching, removing, separatingremove, take off, take away, peel off, detachcome off, come loose, loosen, detach, separate fromremove, lift off, take offcome apart, come loose, slip out, gradually make its way loose, slowly separate from)	yurrurpu	1	6	1	-4	0.166	
+kuntarla	tururru (tree sp. PPJ 20/10/86clapping sticks, song sticks)	1	2	3	-3	0.166	
+jilili (slow moving, lame, limping)	yirrarninjaparnkaja	3	3	6	2	0.166	
+chase	ngunyi (sending away, chasing awaysend away, send back, chase away)	1	1	6	-3	0.166	
+murnturru (^Quinine ^Bush)	ngalyarrpamarramarra	1	2	3	4	0.166	
+jaalparra	nuulpa	1	1	6	2	0.166	
+ngant	yarnta (blurred vision, bad eyesight)	1	1	6	2	0.166	
+pintiparrinilki	yalyimani	1	1	6	-1	0.166	
+mirrimirri (wounded, shot, hurtrevivebe knocked out, become unconscious)	rdurrkulpakurra	1	6	1	-4	0.166	
+ngamangama ()	pirlpa (privates, genitalia, genitals, bum, prick)	1	1	6	1	0.166	
+murupinyi	waruntu	1	6	1	4	0.166	
+munkurrpalpa	yilara	1	1	6	4	0.166	
+majardi (hairstring belt and tassel, pubic tassel)	nganayikirrarlupa	2	12	1	-2	0.166	
+tilpija	wirlampi ()	1	1	6	-4	0.166	
+ngukara (for real, serioussmall quantity, a little bit, not much, not many)	nyarrpajarrijanpa	1	2	3	-2	0.166	
+rangkarrkurlurangka	wuulywantimi	1	2	3	-3	0.166	
+ngulanpaju	winjirr (tight, hard, heavy, strainedspeak in a deliberate way, speak stressing every word, speak in a slow strained way, speak in a heavy waysinewy, tough (as of tendons or rubber bands), strong and flexible)	2	6	2	-2	0.166	
+marnakiji ()	wanukurdu (^Whitewoodwitchetty grub)	1	1	6	-1	0.166	
+milykakurlu (stranger, foreigner, alien)	pintipuyu	1	1	6	2	0.166	
+jararrpa (ground, digging (of ground)dig, dig a hole (in ground))	purturlupurdanji	1	2	3	1	0.166	
+kakarrarninginti	marajupala	2	4	3	-2.5	0.166	
+nardarni	turnumani	1	1	6	2	0.166	
+kalakanpanyanu	warlapajirni	1	2	3	1	0.166	
+murupinyi	nganayijarri	1	6	1	-2	0.166	
+kirrirdikrda	murupinyi	1	1	6	-1	0.166	
+kumpakumpa (froth, foam, scumsoapy water, used water, frothy water)	nguurlkanjayani	1	6	1	4	0.166	
+jintajarrija	nguurr (restraininghold down, restrain)	1	2	3	4	0.166	
+mirra ()	wakujarri	1	6	1	2	0.166	
+pardupardu (approachingapproach, go up to, come up to, go towards, come towards)	yurnukuku (large, bushy, luxuriant, oversized, massive, bulgingbe large, be bushy, be luxuriant, be oversized, be massive, bulge, expand, appear huge, be of exceptional size)	1	6	1	-3	0.166	
+karnturlku	what	1	1	6	1	0.166	
+kantunyanurla	warriwarri (father, aunt, uncle, mother, nephew, niece, brother, sistermale genitals, male genitalia, penis; copulation)	2	1	12	-0.5	0.166	
+mukunypa (restricted, secret)	yukuruutu	1	6	1	-1	0.166	
+mirrimirri (wounded, shot, hurtrevivebe knocked out, become unconscious)	pakitijangka	1	6	1	1	0.166	
+pinkajarrinjawangu	yirrirlji (on all fours, crawlingmove on all fours, crawlcrawling, able to crawl)	1	1	6	-3	0.166	
+purlkunarri	ruu (soft, tenderbe soft, be tender (as of cooked vegetable))	1	1	6	-1	0.166	
+janta (sharing, distributing, lendinggive to use, give a lend of, lend to)	tini	1	6	1	2	0.166	
+ngulajangkjaju	turnumani	1	1	6	-2	0.166	
+napajayi	yarrungkanyi	1	2	3	1	0.166	
+juurlpinyi	waljini	1	2	3	-3	0.166	
+junkulu	puntu (relation, kin, friend, companion, pal, mate, relation, kinsubsection, skinname, skinaccustomed to, acquainted with, feel at homegood, better, without pain, not sore, healed)	1	3	2	-2	0.166	
+purl	winjirri (bodily liquids from corpse (as from dead bullock or person), suppuration)	2	6	2	-2.5	0.166	
+jitirni (activate, make (to be/feel), cause (to be/feel), tease, incite, provoke, goad, stirset going, set into motion, make to sound, turn on (of radio, television), start (of car, engine), start up, play (of musical instrument))	wantinjawarnu	1	2	3	4	0.166	
+jaa (agape, openmouthed, wide openapart, open, separated, spread apart, wide apartbe open, be agape, be spread apart, be separated, gapeyawn, have mouth wide open, hang open (of mouth), stretch (arms, legs))	rayitimi	1	3	2	2	0.166	
+kardirni (fetch water, get water)	ngpalu	1	6	1	-1	0.166	
+nganyjarla	walykamani	1	2	3	-4	0.166	
+rdiin (covered, closed, joined, enclosed, shutbe shut, be closed, be enclosed, be covered, be zipped upcovered over, closed, shut, joined up, patched upenclose, cover with, build over, put over, spin over, construct over, block, sew up, sew together, tie together, join, shut, close over, make oneclose, shutbecome silent, not speak, close up, shut up)	rdipinparla	2	6	2	-4	0.166	
+murupinyi	narngu	1	6	1	2	0.166	
+kaya (hey, look, look outlook, hey)	payimimantarla	1	6	1	3	0.166	
+kulkurrupaja	pilitiku	1	3	2	1	0.166	
+pirlirrinyi	rdimpirl (clapping, banging togetherbeat boomerangs together, clap time, beat songsticks together)	1	2	3	1	0.166	
+pulutu	wirntal (downing, felling, knocking downtoss, throw down, fell, knock downshoot down, down with missilehit down, kick downfall down, roll (of car in accident))	1	3	2	-4	0.166	
+wamuwantimi	wuulywantimi	1	2	3	1	0.166	
+kalanyanuwaja	wirlampi ()	1	1	6	2	0.166	
+kurlurrpa (lively, healthy, well)	martukujarluji	1	6	1	-1	0.166	
+liwanja (fish)	similar	1	6	1	1	0.166	
+watiyakurlupurdinyp	yira (separate, distinct, aparttwo separate, two apart from each other, two distinct, two partstwo waysanother part, separate sectionseparate groups, separate parts, distinct parts)	1	1	6	-1	0.166	
+mungajarrijalku	yanjami ()	1	3	2	2	0.166	
+wapirralyka	yrlpurru	1	6	1	-1	0.166	
+manirlipa	ngardarrikirlangu	1	3	2	4	0.166	
+jalanypa (tonguedeformed tonguespeech impaired, abnormal speech, speech defect, speech impedimentpoking (of tongue)uvulastick tongue in and out at (sexily), poke tongue in and out)	jalanypalkujankaja	1	6	1	-3	0.166	
+kulalparlipanyanu	wamuwantimi	1	3	2	-2	0.166	
+marntarnpinyi	yalarnimpiji	1	2	3	-3	0.166	
+piyarnpa	yirripirli	4	3	8	0	0.166	
+mirrimirri (wounded, shot, hurtrevivebe knocked out, become unconscious)	pakitikirli	1	6	1	4	0.166	
+maurnulparla	yurrupuru (unseen, never seen, out of sight)	1	1	6	4	0.166	
+jalanypa (tonguedeformed tonguespeech impaired, abnormal speech, speech defect, speech impedimentpoking (of tongue)uvulastick tongue in and out at (sexily), poke tongue in and out)	tiyingki	3	6	3	1	0.166	
+lurrngupungulku	yardipi (hip, hipbonehaunch, hindquarter, hip)	1	1	6	1	0.166	
+pulapirrajarrinjaya	yurrupuru (unseen, never seen, out of sight)	1	1	6	3	0.166	
+larrakari	rdilykirdilyki	2	6	2	3.5	0.166	
+pilikani	warrkarnulu	1	2	3	1	0.166	
+jitirni (activate, make (to be/feel), cause (to be/feel), tease, incite, provoke, goad, stirset going, set into motion, make to sound, turn on (of radio, television), start (of car, engine), start up, play (of musical instrument))	rdilykipakarni	1	2	3	-1	0.166	
+jijanu (visit, visitingvisit, go visitingvisit, go to visit)	ngajunyangurlanpa	2	6	2	-4	0.166	
+kurnturru (sky, heavensaeroplanedark colour, dark blue, green, navy, dark grey)	yangkamangkurduwangu	2	12	1	-0.5	0.166	
+maaly (spreading out over area, fanning outspread out and dig, dig over wide areaspread out and hunt, fan out and kill, hunt in all directionsspread out (from group), fan out (from group), head off in different directions, go separate waysspread out (from group), walk all over, fan out)	maarl	2	13	1	-1	0.153	
+turla (scooping, ladlingscoop out of, ladle, scoop upscoop out)	wangkurayirli	2	13	1	3.5	0.153	
+pardinjakungarntiki	yururri	2	1	13	-0.5	0.153	
+ngulakayangka	wuluwulu	2	1	13	1	0.153	
+ngapangardikingarnt	paya (over there)	4	2	13	-0.5	0.153	
+ngalukurru (junior brother, junior sister, younger brother, younger sister(junior) sister of deceased, (junior) brother of deceased)	yalampakupirdangkaku	2	13	1	-1.5	0.153	
+mantirri (sisterinlaw, husband's sister)	ngajukupirdangkakurlang	2	13	1	-1	0.153	
+mantirri (sisterinlaw, husband's sister)	nyuntukupirdangkarlu	2	13	1	-3	0.153	
+nyirampingirli	yupa (old, former, previous, long ago)	2	1	13	3.5	0.153	
+pirlkipirlki ()	yulu (hind leg jointdeformed leg, irregular gait, pigeontoedsit crosslegged, cross legsbroken hind leg jointbreak hind leg joints, sever hind feet at jointone foot in front of the otherpigeontoedgait, walk)	3	2	10	2	0.15	
+winparrkujangkaju	yimpa ()	3	2	10	-2.6	0.15	
+miyaka (^Redflowering ^Kurrajong)	nuanungurlajupala	3	20	1	-0.6	0.15	
+play	pulja ()	6	10	4	-0.6	0.15	
+miyaka (^Redflowering ^Kurrajong)	yunparnupala	3	20	1	1	0.15	
+lukurl (uprootinguproot, pull out (by roots), remove, wash away)	pungulpanyanurla	4	9	3	1	0.148	
+warripiwangu	warririwangu	4	3	9	-1.2	0.148	
+jamirtingirliji	mimayi (jealousy, jealous, envy, envious)	2	2	7	0.5	0.142	
+jarnngi (quarter, slice, piece, cut of, portionquarter, cut up, cut into portions)	kalpantu	1	7	1	-1	0.142	
+piirr (cover with paint)	putapiirrpardija	2	14	1	-1.5	0.142	
+jilpurnpari	wurnarra (straight, sticking straight out)	1	1	7	-2	0.142	
+rdilypi	rr	1	1	7	1	0.142	
+jangkuly	kuukuu	1	1	7	-2	0.142	
+mukulpa (hook on spearthrower)	murrulymurrulypakarnulp	2	14	1	3	0.142	
+yinjipurrupurru	yirrimiji (bloodsoup, broth)	1	1	7	-1	0.142	
+ngayirni (face, turn towards, turn front on, turn to faceface, stand facing)	purturlujayiti	1	7	1	2	0.142	
+jinti (vulva, vagina, birth canal, female genitals, female genitalia, cunt (pejorative)soandso cuntdon't mess around, without delay, immediately, without mucking around)	kukuju (smiling, pleasedsmile, have happy look on face (because of another person), look happy (over another person), look content (about relation with another person), look pleased, have pleased expression)	4	7	4	-1	0.142	
+myima	yurntalpa (daughter, paternal niece(someone's) daughter, (someone's) nieceall one's daughters, many daughters, all one's paternal nieces)	1	1	7	2	0.142	
+mini (touching, fingering, examining, fidgeting, fiddling with)	warmurlujangka	2	7	2	1	0.142	
+kurdipurduwangu	mangulpa (lance, stabbing spear)	1	1	7	3	0.142	
+tirirtiyijala	wurnarra (straight, sticking straight out)	1	1	7	3	0.142	
+jalymangkurra	wanyany (adhering, sticking tostick to, adhere tostick to, adhere to, affix tostick to, glue on, stick on, adhere, affix, make stickstick to, adhere to, affix to, get stuck tostick to, be glued to, adhere tostick to it, be glued to it, be moulded tostick to it, be glued to itadhere to, stick to, adhere tohang around, be always around, be involved in, stick to, stay withstick to, glue on, stick on{??}swing around and throw away)	2	2	7	4	0.142	
+lotta	marnangkartari	1	1	7	-4	0.142	
+kunjurukunjuru	walyawalyawapa	1	7	1	3	0.142	
+yawulawulu	yinjirrpi (^Dogwood seeds^Dogwood seed drink)	1	1	7	-4	0.142	
+juurlpa (jumping, hopping, leapingjump, hop, leap, buck (of horse), bounce, boil (of water), squirt out (of water)buck (of horse), sunfish (of horse))	lintarr	1	7	1	-2	0.142	
+puwujuma (fox)	wirlayaju	1	7	1	-1	0.142	
+marrara (tree sp.)	yuwurlparni	1	7	1	-2	0.142	
+kajilpankulu	rampal ()	1	7	1	1	0.142	
+marrara (tree sp.)	ngurrarntija (countryman, indigenous, native)	1	7	1	1	0.142	
+janganyparlu	mini (touching, fingering, examining, fidgeting, fiddling with)	1	1	7	-3	0.142	
+milarnu	muurl (accurately, successfully, correctly, exactlyshoot and not miss, shoot accurately, shoot on targetspear on target, spear successfully, spear accuratelygive to right person, give to special person, give and fulfil obligation)	1	1	7	4	0.142	
+jarlupardu	wilpi	1	7	1	-2	0.142	
+jurdi (loading (spear into spearthrower), readyingload (spearthrower), set spear in spearthrower, raise (club), take aim with, ready)	warrukurdukurdujulpa	1	7	1	-4	0.142	
+wankilinyi (witchetty grub sp.)	wankirlinyi	1	7	1	1	0.142	
+jarlwatakarurla	ngamajanangu (deep water, big body of water)	1	1	7	-1	0.142	
+wanalypuru	yimampi (lerp sp., edible scale)	1	1	7	4	0.142	
+kajilpankulu	wilyiri (fungi sp., truffle)	1	7	1	-2	0.142	
+lulurlpinyi	parntapi (toy boomerang, fun boomerang, practice boomerang, bark boomerang)	1	1	7	2	0.142	
+maninjinta	parrajingijingi	1	7	1	-4	0.142	
+purntunypardimi	turlkun (protrude, stick out, stand outwalk (as large fat person), walk with round protruding part)	1	1	7	4	0.142	
+jintakarirlijilparl	lutu ((head) louse, lice, weevil, tick, flea)	2	1	14	3	0.142	
+nuulparnalujana	wirnma (always, all the time, repeatedly, persistently, keep on, continually, without stopping, incessant)	1	1	7	3	0.142	
+jawirr	nganju ()	2	2	7	3	0.142	
+mimayi (jealousy, jealous, envy, envious)	napurur	1	7	1	4	0.142	
+muulpa ()	yirrimiji (bloodsoup, broth)	1	1	7	-3	0.142	
+kuru (in one placestay in one place, hang around in one area, hover)	pirlipa	1	7	1	-3	0.142	
+jurruwu	ngamajanangu (deep water, big body of water)	1	1	7	3	0.142	
+nguurrpa (larynx, throat, Adam's apple, gullet)	wiyijurrurnpa (right through)	1	7	1	1	0.142	
+wajampajarrirnangku	warrkijarrimi	1	1	7	-2	0.142	
+jamirtiji	mimayi (jealousy, jealous, envy, envious)	2	2	7	4	0.142	
+jarrurna (watertight, covered, protected)	nyayi ()	1	1	7	1	0.142	
+lutu ((head) louse, lice, weevil, tick, flea)	wiriwaja	2	14	1	0.5	0.142	
+japirni ()	wanpanakuju	1	7	1	1	0.142	
+ngirirrpa (vulva, vagina hn59)	yaarlyaarlkujurnulpalu	1	7	1	4	0.142	
+kulkurruwarnu	marlulu (novice, initiate)	2	7	2	-2	0.142	
+karriyarra	munyuparntiparnti (edible seed plant sp.)	2	2	7	1	0.142	
+ngamajanangu (deep water, big body of water)	wirriyampangurla	2	7	2	-2	0.142	
+wanyany (adhering, sticking tostick to, adhere tostick to, adhere to, affix tostick to, glue on, stick on, adhere, affix, make stickstick to, adhere to, affix to, get stuck tostick to, be glued to, adhere tostick to it, be glued to it, be moulded tostick to it, be glued to itadhere to, stick to, adhere tohang around, be always around, be involved in, stick to, stay withstick to, glue on, stick on{??}swing around and throw away)	wanyanyparntarri	1	7	1	-2	0.142	
+lunjanyinami	turnujarrinjarla	3	3	7	-0.3	0.142	
+marrarnki (^Desert ^Walnut)	watuyakari	1	7	1	-3	0.142	
+japirni ()	walypaikirlangulku	2	7	2	4	0.142	
+jiirnjiirnpa (shiny, bright, white, silvershine, polish)	ngarlkirdinypi	1	1	7	4	0.142	
+nyayinyayi (motherinlaw, maternal nephew's wife, soninlaw)	wangkmirra	1	7	1	4	0.142	
+mini (touching, fingering, examining, fidgeting, fiddling with)	ngnajirni	2	7	2	-1	0.142	
+funny	mukarti (hat, cap, beret)	1	1	7	-3	0.142	
+jinti (vulva, vagina, birth canal, female genitals, female genitalia, cunt (pejorative)soandso cuntdon't mess around, without delay, immediately, without mucking around)	pilinjiya	2	7	2	-3	0.142	
+manyjakurlu	mulyupakarnu	1	1	7	-3	0.142	
+warrkijarrimi	wirtungulku	1	7	1	-3	0.142	
+kaamani	yirrarnti (^Redtailed ^Black ^Cockatoo)	2	1	14	1.5	0.142	
+yinjirrpi (^Dogwood seeds^Dogwood seed drink)	yunturlpurlu	1	7	1	3	0.142	
+kuukuu	purnu (own, very own)	1	7	1	-3	0.142	
+kurlpirra	pardumpa (very big, huge, enormous)	1	7	1	3	0.142	
+purlawukungarnti	yimampi (lerp sp., edible scale)	1	1	7	-1	0.142	
+nyunturluluyunpakay	warrkijarrimi	1	1	7	-1	0.142	
+rdiriyinyi	yirimani	2	1	14	0	0.142	
+muurl (accurately, successfully, correctly, exactlyshoot and not miss, shoot accurately, shoot on targetspear on target, spear successfully, spear accuratelygive to right person, give to special person, give and fulfil obligation)	pitipiti ()	1	7	1	2	0.142	
+kaalypinyi	karlpimi (make hot, make cold, heat, chill, cause to suffer extreme temperatures)	4	7	4	-0.2	0.142	
+jawirrilyi (ceremonial food, gift of food, food offering)	kunarri (ceremonial food, atonement food, present of food, presentation of food)	3	3	7	-1	0.142	
+maninjinta	wukayi (tired, exhaustedpester, humbug, annoy, tire)	1	7	1	1	0.142	
+manupulukurlangurlu	yurnulyka (muddy water, stirred up water, foul water, murky waterxERG shake y with wrist action (as to reactivate a felt pen))	1	1	7	3	0.142	
+kuru (in one placestay in one place, hang around in one area, hover)	manyuwanu	1	7	1	3	0.142	
+narrumpa (elder sister, big sistersisters)	yalampakupirdangka	4	7	4	-1	0.142	
+waturr	yardijirinypa (black ant sp.)	1	1	7	4	0.142	
+pingijarrirlipa	yardijirinypa (black ant sp.)	1	1	7	-2	0.142	
+majumani	yurnulyka (muddy water, stirred up water, foul water, murky waterxERG shake y with wrist action (as to reactivate a felt pen))	1	1	7	-4	0.142	
+ngarnalkurrurla	yinjirrpi (^Dogwood seeds^Dogwood seed drink)	1	1	7	-1	0.142	
+japakukari	yanilkirlipa	1	1	7	-1	0.142	
+lii ()	wayikurdurlu	1	7	1	4	0.142	
+kankara (over, out fromover, more, over and above)	rdarlpakarnu	1	7	1	1	0.142	
+nalyurrajurru	yinjirnmarri ()	1	1	7	2	0.142	
+kunjurukunjuru	langawangu	1	7	1	1	0.142	
+jiwin (restless, tossing and turning, thrashing about, tossing abouttoss and turn, roll about (sleeplessly), be restless, shiver (violently), toss from side to side, toss about, thrash about)	rdurrkulpakurra	1	7	1	-2	0.142	
+jungari (small grindstone, handheld grindingstone)	mimayi (jealousy, jealous, envy, envious)	2	2	7	3	0.142	
+marrara (tree sp.)	wakarlarrangulu	1	7	1	-1	0.142	
+jiwin (restless, tossing and turning, thrashing about, tossing abouttoss and turn, roll about (sleeplessly), be restless, shiver (violently), toss from side to side, toss about, thrash about)	pakitijangka	1	7	1	3	0.142	
+juurlpa (jumping, hopping, leapingjump, hop, leap, buck (of horse), bounce, boil (of water), squirt out (of water)buck (of horse), sunfish (of horse))	ngulanganta	1	7	1	2	0.142	
+yarrarnta	yirrarnti (^Redtailed ^Black ^Cockatoo)	4	2	14	-0.5	0.142	
+kartanjapungu	ngarntu (raised earth, crack (in ground), hollow (under ground), disturbed earth)	2	1	14	0	0.142	
+jarlingkirrmanupala	ngayingayi (along side of, in the vicinity of, near, by, around, close to, on the side of, beside)	1	1	7	-2	0.142	
+friends	jakuru (leave takingtake leave of, announce one's departure)	1	1	7	2	0.142	
+jaarn (protruding, up, outprotrude, stick up, stand outstay up, be alert, be on the lookout)	ngalirri (on side, sidewayson side, sideways)	1	7	1	-1	0.142	
+jarlupardu	nyayaki	1	7	1	-3	0.142	
+marntapali ()	nyinirr (abundant, plentiful, in pile, in heapget many of, get plenty of, get big quantity of, pile up, heap up)	1	1	7	3	0.142	
+wajamp	warrkijarrimi	1	1	7	-4	0.142	
+kuukuu	yalikilarla	1	7	1	-3	0.142	
+jarlwatakarirlalku	ngamajanangu (deep water, big body of water)	1	1	7	2	0.142	
+im	lipa ()	1	7	1	-3	0.142	
+mm	pilarla	1	7	1	3	0.142	
+jakuru (leave takingtake leave of, announce one's departure)	kanarlyurl	2	7	2	0	0.142	
+walpangkurra (Black tree lizard sp., goanna sp.)	walpirda (black goanna sp.)	5	4	9	-1.6	0.138	
+nyurla	yarlkurnulku	3	11	2	-2.6	0.136	
+pirdipirdi (murder, killing, exterminating, assassinatingkill off, wipe out, exterminate, massacre, rid of, eliminate, shoot out)	yakuranjirla	3	11	2	-3.3	0.136	
+mawurl (blob, bulge, spot, splotchbe big and round, form big blobspotted, flecked, dappled, variegated, splotchy)	milpiji	2	15	1	-1.5	0.133	
+kijirninjayanu	mulpurra	4	10	3	-0.5	0.133	
+puntarni (take away from, carry away from, remove from, grab off, take off)	puntarnulkurla	2	15	1	0	0.133	
+jalanguwarnupata	warluwariji (initiate, novice)	2	1	15	-0.5	0.133	
+jarrampayi (^Creek ^Goanna, ^Yellow ^Goanna)	palkalangu	2	15	1	0	0.133	
+yirnirntiji	yurrkali (Spoonbill)	2	1	15	2.5	0.133	
+eagle	jiilypa (hisshiss (like beetles))	2	5	3	0	0.133	
+marntarlrdilypirrun	pirilyipirilyi	2	1	15	1.5	0.133	
+wipi	yarturu	2	15	1	-0.5	0.133	
+yilpinji (love songs, love charms, love magic)	yunparnurla	2	15	1	-1.5	0.133	
+jartijarrimi	marnakurrawarnu	2	1	15	2	0.133	
+narrumparra	ngatinyanujinta	2	15	1	0	0.133	
+jajina (mulgara)	munyupurru ()	4	10	3	-0.2	0.133	
+karlji (kaolin, white pipeclay)	karrawarawararlu	3	23	1	-0.3	0.13	
+pinijijarrinjakunga	yarlupinyi	4	1	31	0	0.129	
+murnturru (^Quinine ^Bush)	ngalyarrkarra (in sand hills, in sandhill country)	1	2	4	1	0.125	
+marrirtilki	marrkari (spouse, wife, husband, brotherinlawbrotherinlawwidow, widowerhusband and wife, couple, spousesbrothersinlawbrotherinlaws)	1	2	4	4	0.125	
+ngujurl	yarriki (father, paternal parent, paternal uncle, paternal auntfather of deceased, paternal aunt of deceased, paternal uncle of deceasedpatricouple, father and son, father and daughter, paternal uncle and paternal nephew, paternal uncle and paternal niece, paternal aunt and her paternal nephew, paternal aunt and her paternal niece)	1	1	8	-4	0.125	
+nyurdimani	parlka (guttinggut, eviscerate, remove innards from)	1	1	8	3	0.125	
+warrangkarli (plant sp.)	yuurnkari	3	4	6	2	0.125	
+jarraji (seed sp.)	marrirtilki	1	4	2	-4	0.125	
+mangkankuwurduwurdu	yirdimantarla	1	8	1	-3	0.125	
+pungulpapalangu	wiraji ()	1	4	2	-3	0.125	
+nyarna (permanent water)	wardinyijarrimi	1	4	2	-3	0.125	
+jitimi (descend, go down, come down, climb down, dismount (from horse), get out of (vehicle)descend to, go down to, come down to, climb down to, get down to, reachget off (at), stop off (at))	rduyukarrimi	1	4	2	3	0.125	
+ngardiji	pirrirnturtuwana	1	8	1	4	0.125	
+times	tirlpi	1	8	1	-3	0.125	
+panji (ones)	pilyajarrijalu	1	8	1	-1	0.125	
+jardajarri	yakarramani	1	4	2	2	0.125	
+nyarna (permanent water)	yila (hairstring bag hn59)	1	4	2	2	0.125	
+jirrmirnpurtinjalpa	yapurnu (salt lake)	1	1	8	-3	0.125	
+rdukuwana	wapiji (round stone, round rockshort club with round head SS)	1	1	8	3	0.125	
+larrkarrurl (down inside, deep down inside, penetratinggo down inside, dive down into, penetrate down into)	rawu (abating, stopping, blockingabate, stop, cut out, block, dry up)	1	2	4	2	0.125	
+ngarlki (block, deflect, parry, protect, shield, stand between, intercept, stop, separateprotector, blocker, shield)	wartijijangka	1	4	2	2	0.125	
+karrkarrlpa	murrarninginti	1	1	8	4	0.125	
+jaala (back and forth, up and down, to and fro, from place to place, all over, everywhere, anywherejump around, hop arounddig all over, dig everywhereget from all over, gather all alonggo back and forth to see, keep going to check up on, go several times to have a look atgo back and forth looking for, go up and down in search ofrun to and from, race up and down, fly to and fro, travel back and forthwalk back and forth, walk to and fro, go from place to place, travel from place to place, walk up and downgo back and forth, go to and fro, go up and downgo back and forth, go to and fro, go up and down)	ruurtulku	2	16	1	0	0.125	
+mula (eggtesticle, testes, 'balls')	warnanpa	1	8	1	-3	0.125	
+kalyirlpa	wardalya (test throw of boomerang, trial throw of boomerangspinning through air)	1	1	8	-3	0.125	
+ngannganparlarnalu	yapurnu (salt lake)	1	1	8	2	0.125	
+lalka (solid, hardened, stiff, firm, frozen stiff, frozen solid, congealed, rigid, dried upmotionless, still, stationary)	wurrmarlkampaja	1	8	1	-1	0.125	
+kalakankulunyanu	kulkurrukulkurru	1	1	8	-2	0.125	
+larlwirl	mula (eggtesticle, testes, 'balls')	1	1	8	1	0.125	
+lotta	yilyanypa (strong fighter, fierce person, bruiser)	1	1	8	-3	0.125	
+puralyarralya	riwarri (consuming, end, finishconsume all of, do in all of, finish up all of, bring an end to)	1	1	8	4	0.125	
+days	mamu (evil monster)	2	8	2	-4	0.125	
+kuturdawurnurla	yapurnu (salt lake)	1	1	8	-2	0.125	
+jitimi (descend, go down, come down, climb down, dismount (from horse), get out of (vehicle)descend to, go down to, come down to, climb down to, get down to, reachget off (at), stop off (at))	wirijarrimi	1	4	2	1	0.125	
+lampurnu ()	lampurnupukawaja	1	8	1	2	0.125	
+mujuny	world	1	4	2	-2	0.125	
+lampurnu ()	yalijikiwaja	1	8	1	-4	0.125	
+jantini	rdilykipinyi	1	1	8	4	0.125	
+kumparri ()	pirlpa (privates, genitalia, genitals, bum, prick)	3	4	6	-0.6	0.125	
+ngapalyalyi	panji (ones)	2	2	8	-2	0.125	
+nuwulparla	warumungku	2	2	8	4	0.125	
+karrkurrmirnti (burnt up completely, burnt to ashes, burnt to a cinder)	rinyimilki	1	2	4	3	0.125	
+kulanpaju	miyaluwarnu	1	1	8	1	0.125	
+pawutumani	yirrpirni (put into, cause to go into, make enter, insert, swallowinsert with, thread)	1	1	8	2	0.125	
+jungangkulpanpa	kulkurrukulkurru	1	1	8	-4	0.125	
+jamanajintalu	kujapiya	1	1	8	4	0.125	
+jintajintajarrija	ngamurlu (against chest, to the chestcarry against one's chest, take in one's arms, embrace, hug to one's chesthug, embrace, put arms aroundhold against chest, clutch to one's bosom, hold in one's arms)	1	2	4	4	0.125	
+lalka (solid, hardened, stiff, firm, frozen stiff, frozen solid, congealed, rigid, dried upmotionless, still, stationary)	rampakujarri	1	8	1	-1	0.125	
+kampparruwarnuyijal	kulkurrukulkurru	1	1	8	1	0.125	
+karnturu	wangulpa (shaking, activatingmove up and down, shake up and down, toss up and down, bounce up and down, winnow)	1	1	8	2	0.125	
+lupu (red ochre)	ritiyilkilinyanu	1	8	1	-1	0.125	
+kapunparla	yurlarri	1	4	2	-3	0.125	
+milpirimpiri (eyebrow, eyeridgeblack eyebrows, dark eyebrows, heavy eyebrowsbushy eyebrows)	pungunya	1	4	2	-4	0.125	
+yarriki (father, paternal parent, paternal uncle, paternal auntfather of deceased, paternal aunt of deceased, paternal uncle of deceasedpatricouple, father and son, father and daughter, paternal uncle and paternal nephew, paternal uncle and paternal niece, paternal aunt and her paternal nephew, paternal aunt and her paternal niece)	yarripilangurlayijala	1	8	1	3	0.125	
+majarni (straighten, stretch (out), flatten outstretch, stretch oneself, straighten up)	warnarri	1	8	1	1	0.125	
+kiltiyiwangu	yirrpirni (put into, cause to go into, make enter, insert, swallowinsert with, thread)	1	1	8	-3	0.125	
+nyuntukupirdangkaja	yangarluwangu	1	1	8	1	0.125	
+four	pirrka (tens, ten combination)	1	4	2	2	0.125	
+yalanyampu	yuwinji ()	1	4	2	-2	0.125	
+milpawurdurrkuku	wurruru (father, paternal aunt, paternal unclefather and son, paternal uncle and nephew/niece, paternal aunt and nephew/niecefathers and sons, fathers and daughters, aunts and nephews, aunts and nieces)	1	1	8	1	0.125	
+jayimpirr (multitude, crowd, swarmswarm, crowd)	rdiinpungu	1	1	8	3	0.125	
+yaku (sporadically, in bursts, off and on, stops and starts, bit by bit, in small amountsget bit by bitdrink in short bursts, drink in short mouthfulsfall in bursts, rain off and on, rain sporadicallyput (down) bit by bit, spoon out)	yumurrpawardingkijala	2	16	1	0	0.125	
+kiwinyi (mosquito(swarm of) mosquitoes)	murrururruru (wasp, hornet)	1	4	2	1	0.125	
+ngutungutu (proper, properly, right, good, perfect, correct)	parlirni (weigh down, keep in place, put weight on, restrain, hold downbe buried in, be interred in)	1	4	2	3	0.125	
+jurupinyi	yantalku	1	2	4	4	0.125	
+umpire	wirnpirli	1	1	8	2	0.125	
+miyaluwarnu	warijarri ()	1	8	1	-2	0.125	
+waripirrapirra (^Yellowfaced ^Whip ^Snake)	wirnpirlinjayani	1	8	1	-2	0.125	
+mirnikanjayi	wiripakarnu	1	4	2	-4	0.125	
+nyangumpa	wurntali (around, skirting, roundabout way)	1	1	8	-4	0.125	
+rangka	rangkarrpa (dawn, dawning, daybreak, firstlight, sunrisedawn, rise (of sun), predawn, be first lightdaybreak, dawn, firstlight, sunrisepredawn, first lightfight till dawnsing until dawn)	2	4	4	1.5	0.125	
+kurlipa	mil	1	2	4	-3	0.125	
+nyampujukapurlupa	rdilykipinyi	1	1	8	-2	0.125	
+kalumpayi	karnala (men's ritual camp)	1	1	8	3	0.125	
+wapiji (round stone, round rockshort club with round head SS)	waraanpalkurnaju	1	8	1	3	0.125	
+wardalya (test throw of boomerang, trial throw of boomerangspinning through air)	yilparrkiki	1	8	1	-4	0.125	
+murrarninginti	nyampurlujukuwajarna	1	8	1	1	0.125	
+jirrmirn	yapurnu (salt lake)	1	1	8	-2	0.125	
+murturtarlu	warumungku	1	1	8	4	0.125	
+pirngki	wangulpa (shaking, activatingmove up and down, shake up and down, toss up and down, bounce up and down, winnow)	1	1	8	4	0.125	
+jakurr (elevated, lifted, raisedcarry uplifted, carry holding up, carry up high, carry raised upget up and go together at same time, set off together, leave together PHlift, raise, elevateput up on, lift up to)	rangkarrpa (dawn, dawning, daybreak, firstlight, sunrisedawn, rise (of sun), predawn, be first lightdaybreak, dawn, firstlight, sunrisepredawn, first lightfight till dawnsing until dawn)	1	2	4	-3	0.125	
+panji (ones)	tatujarrijalu	1	8	1	-2	0.125	
+jarraji (seed sp.)	marrirtijarralku	1	4	2	4	0.125	
+kulkurrukulkurru	warlupurrku (male initiation rituals, initiation ground)	1	8	1	-1	0.125	
+puntarnulkurla	yapurnu (salt lake)	1	1	8	2	0.125	
+leave	yilyanypa (strong fighter, fierce person, bruiser)	1	1	8	-4	0.125	
+karlarnjirri (^Longnosed ^Dragon)	yurduwaruwaru ()	3	6	4	0.66	0.125	
+kurlartarlu	wurulyparnkami	1	4	2	-4	0.125	
+karrinjayirrarni	palapala (stiff (as of (leg) muscles from walking), tired, tight (of muscles), paining, aching, weary)	2	4	4	-1	0.125	
+pangki (orangeorangeyoung girl, prepubescent female)	wanarli ()	1	4	2	2	0.125	
+jimanpapiyayijala	kungkala (firedrill)	1	1	8	1	0.125	
+rularula (swollen)	rularulajarri	1	4	2	4	0.125	
+parranyarntinpaju	wanjarri (red down, red fluff)	1	2	4	1	0.125	
+yirrpirni (put into, cause to go into, make enter, insert, swallowinsert with, thread)	yurrpurnurnangku	1	8	1	2	0.125	
+kayirnimparla	yapurnu (salt lake)	1	1	8	-1	0.125	
+rdilykipakanirlangu	rdilykipinyi	1	1	8	-1	0.125	
+jiil (splint, affixed standing, attached upright, set in place, set upright, set verticalstand in place, stand affixed, be attached, stand uprightset in place, splint, fix in place, attach to)	pitiyirrarnu	1	4	2	4	0.125	
+pinparlajarrpa (^Blackfaced ^Cuckooshrike)	walimpirrijarrangurlu	1	8	1	2	0.125	
+mangkankuwurduwurdu	ngarijarrija	1	8	1	2	0.125	
+wapiji (round stone, round rockshort club with round head SS)	wumarra	1	8	1	4	0.125	
+pujul (followingfollow)	rdukuwana	1	8	1	4	0.125	
+kujapiya	wumarra	1	8	1	1	0.125	
+niti	wirnpirli	1	1	8	-4	0.125	
+purunyungu (initiate in seclusion before and after circumcisionsomeone who hides all the time)	yunparnujulu	1	8	1	-4	0.125	
+rdirriyinyi	yawirrpakarni	1	4	2	1	0.125	
+martukujarluji	mula (eggtesticle, testes, 'balls')	1	1	8	2	0.125	
+wurruru (father, paternal aunt, paternal unclefather and son, paternal uncle and nephew/niece, paternal aunt and nephew/niecefathers and sons, fathers and daughters, aunts and nephews, aunts and nieces)	yalyaki (quenched (of thirst), relieved (of thirst))	1	8	1	-2	0.125	
+lanji	yarti	1	1	8	-1	0.125	
+kuukuju	ngurrngurr	1	8	1	1	0.125	
+kalanpa	pinapinamanu	1	4	2	1	0.125	
+ngawara	yirriyirri (burning pain, searing paincause (intense) pain)	2	4	4	3	0.125	
+yanturuku	yarriki (father, paternal parent, paternal uncle, paternal auntfather of deceased, paternal aunt of deceased, paternal uncle of deceasedpatricouple, father and son, father and daughter, paternal uncle and paternal nephew, paternal uncle and paternal niece, paternal aunt and her paternal nephew, paternal aunt and her paternal niece)	1	1	8	1	0.125	
+lalka (solid, hardened, stiff, firm, frozen stiff, frozen solid, congealed, rigid, dried upmotionless, still, stationary)	lalkajarrinyayirnilki	1	8	1	-4	0.125	
+wuuly (dark, darkness, nightget dark, fall dark, turn nightbe darkdarkdarken, become dark with fog, roll in (of fog), envelop in fog, enshroud in darknessdusk, nightfall, late evening, twilight, sunset)	wuulypa (dark, darkness, nightget dark, fall dark, turn nightbe darkdarkdarken, become dark with fog, roll in (of fog), envelop in fog, enshroud in darknessdusk, nightfall, late evening, twilight, sunset)	1	4	2	1	0.125	
+hittite	yuntalpa	1	2	4	-2	0.125	
+yarranji (poisonous snake sp.)	yunturrkunyu	1	2	4	2	0.125	
+pilikani	warluparnta	1	2	4	-2	0.125	
+purrkurlu (centipede sp.)	wurulyparnkanjinani	1	8	1	-3	0.125	
+nalyurrajurru	nalyurralyurru (redbreasted bird sp.)	1	1	8	-1	0.125	
+jutupinyi	kankulurla	1	1	8	-1	0.125	
+parlka (guttinggut, eviscerate, remove innards from)	parlkamani	1	8	1	3	0.125	
+kumparri ()	manngirri (lightning, thunder)	3	4	6	-1.3	0.125	
+wapurtarlipalangu	yarriki (father, paternal parent, paternal uncle, paternal auntfather of deceased, paternal aunt of deceased, paternal uncle of deceasedpatricouple, father and son, father and daughter, paternal uncle and paternal nephew, paternal uncle and paternal niece, paternal aunt and her paternal nephew, paternal aunt and her paternal niece)	1	1	8	-3	0.125	
+karnturlku	word	1	1	8	4	0.125	
+maramara (singed, scorched, halfcooked, halfraw, underdone, rare (of meat), still raw, halfbakedunsmokednaughty, rude, bad, badly behaved)	murnmanpa	1	8	1	-2	0.125	
+kulkurrukulkurru	yurapitirlangu	1	8	1	2	0.125	
+mil	tilpiya	1	4	2	-3	0.125	
+walaparrini	wardalya (test throw of boomerang, trial throw of boomerangspinning through air)	1	1	8	1	0.125	
+ngaminparlaju	purnturr (stinking, foul smelling, stench, smelly, strong smellingsmell, be strong smelling, have strong smell, stink, be foul smelling, have bad smellsmoke, vapour)	2	2	8	-4	0.125	
+ngulyawarnalangu	waripirrapirra (^Yellowfaced ^Whip ^Snake)	1	1	8	3	0.125	
+parikarrija	yunpurrku (discarding, awaythrow away, cast off, chuck away, toss away)	1	1	8	3	0.125	
+jungkunypa (ripe dried ^Desert ^Raisins)	linjijarrija	3	12	2	1.33	0.125	
+lintarr	pujul (followingfollow)	1	1	8	-4	0.125	
+ngajukipirdangkarlu	rdilykipinyi	1	1	8	-4	0.125	
+ngaliya	pintipuyu	3	4	6	0.66	0.125	
+wirrirli ()	yurrurlu ()	1	8	1	-2	0.125	
+iriparduyijala	nalyurralyurru (redbreasted bird sp.)	1	1	8	3	0.125	
+nalyurrajurru	pinparlajarrpa (^Blackfaced ^Cuckooshrike)	1	1	8	1	0.125	
+rulumapimani	yakarrapardimi	1	2	4	-3	0.125	
+miril (shiningshine onshine, gleam, reflect lightshine brightly, sparkle, glisten, gleam, glitter, catch the lightmake shine, make glistengleaming, shining)	yanjilypirriji	1	8	1	-1	0.125	
+purunyungu (initiate in seclusion before and after circumcisionsomeone who hides all the time)	rluwariji	1	8	1	-1	0.125	
+miyaluwarnu	warraka	1	8	1	2	0.125	
+ngananpa	wayinpa	1	2	4	-1	0.125	
+marringki (desiring man, seductive, wanting man, talking about lover)	nyarrpajarrirlipajana	1	8	1	4	0.125	
+marrapirnti (nosebone, noseornamentedible grass seed sp.)	ngamarnanpurtinja	1	4	2	4	0.125	
+yarrkarl (sudden fallhit to make let go of, make drop (of lover), make to stop seeingduck down suddenly (as in fear), drop out of sight, fall down quickly, fall away)	yurrurluku (moving down and away fromgush out of, pour out of, flow rapidly out ofstrike down much of, down, hit  and cause to fall downspill out of, all fall down, all come tumbling down, all collapsebreak off, cut downcome down (of rain from massed rainclouds), pour down (of massed rainclouds), rain downgush out of, flow out of, come out of with force, rain down hardpour out of, flow out ofput down lot of, disgorge many)	1	2	4	-4	0.125	
+yiriwarra (headband)	yunpurrku (discarding, awaythrow away, cast off, chuck away, toss away)	1	1	8	-4	0.125	
+pantinjarla	pirntalpa (meat skewer, meat on sticksticking into, sticking out of, implanted in, fixed into, lodged in, skeweringlie stuck into, be sticking out ofstick into, lodge into, implant in, skewer)	4	3	11	0	0.121	
+haast	papu (eyes covered, blindfoldedlead blindfolded, take blindfolded)	4	3	11	-1.2	0.121	
+pariwanpa (Humanold man, elder)	warranywarranypajarrija	3	5	5	-0.3	0.12	
+malamala (sorry business, sorry meeting, bereavement ceremony, mourning riteadmitting wrongdoingaccept blame, admit wrongdoing)	turnujarrijal	3	25	1	2	0.12	
+yumurlujarrija	yutu (in group, mob, packaccompany, take with, many go with, go in mob)	5	3	14	-0.2	0.119	
+kanta (^Bloodwood gall, ^Bush ^Coconut)	wirrkarliwarnu	2	17	1	0	0.117	
+jintamarrimarri	karlipanyanu	2	1	17	0.5	0.117	
+ranguwanikirra	warrura (wrong skin, wrongway marriage partnerdistant brother, classificatory brother)	2	1	17	-3	0.117	
+ngulawarnujum	pirntina (Woma, ^Ramsay's python)	2	1	17	2.5	0.117	
+kurru (spiritcure spirit (health), replace spirit)	lamanparlarla	2	17	1	-2.5	0.117	
+kanta (^Bloodwood gall, ^Bush ^Coconut)	wirrkarliwarnulkurna	2	17	1	1	0.117	
+karduyinyi	kujakarlipanyanu	3	13	2	1	0.115	
+ngarmi	pingirri ()	3	1	26	-0.6	0.115	
+jurdi (loading (spear into spearthrower), readyingload (spearthrower), set spear in spearthrower, raise (club), take aim with, ready)	ngarlingarli ()	4	7	5	-0.5	0.114	
+piirrpiirrpa (half white, brown and white, whitish, speckled with whitedirty, grubby)	pinypa	1	9	1	-3	0.111	
+nuwulpapala	yiti (into mouth, inserting into mouth, breast feedhave in mouth, have inserted in mouth, have on the breastgive breast to, breast feedput into mouth, put onto breast)	1	1	9	-1	0.111	
+linjimantarla	rdapu (solid, not hollow, filled in, plugged up, covered over, constipatedfill in, cover over, plug up, make solid, block uppunch, hitfill in, cave in, silt up, fill up, block up)	1	1	9	3	0.111	
+juuljuulkijini	rdilypirrpa (perforation, hole, incision, opening, entrance, aperturehole, tunnel, cavityperforated, pierced through, holeydig through, dig tunnel through, dig hole through, tunnel throughbe perforated, have perforation(s), have a hole, have holes inmake holes in by hitting with missile thrown, shoot and make hole in, shoot a hole ineat a hole in, eat holes inchop into something which is hollow, chop into hollow surfacechop out ofpierce a hole in, poke a hole in/throughbite holes inperforate, pierce, put holes inclever, talented, wise, intelligent)	1	1	9	-1	0.111	
+ngunaw	yura (stealthily, stalking, sneakingstalk up on, sneak up on, move stealthily towards, steal up on, creep up onsneak along, steal along, creep along out of sight, keep low)	2	2	9	2	0.111	
+kardi (heatheat, warm)	kulankulurla	1	3	3	1	0.111	
+murtu ()	pakakarlanganta	1	9	1	-1	0.111	
+yantaru (pebble)	yurlturnpa (hollow area, cavity, hole, cavehollow out, gouge out, make cavity inhollowed out area, hollows, cavitiesroom (in building))	1	3	3	-1	0.111	
+marnta (displeasurescold, threaten, reprimand, be mad at, be angry with)	shut	4	3	12	-1	0.111	
+mungajarrija	yarungka (retaliation, getting even, paybackretaliate against, get back at, get even with, get square within return, reciprocating, exchanging, squaring up, balancing out)	1	3	3	3	0.111	
+jurtarangi (rainbow)	yumpurlarri ()	1	9	1	-2	0.111	
+kulalparlipanyanu	wuulywantimi	1	3	3	-2	0.111	
+kankarni	larrapa	1	1	9	-2	0.111	
+manurlpa	ngaany (breathing, breathbreathe, be breathingbreathe, inhalebreathless, out of breath, short of breath, winded)	1	3	3	3	0.111	
+turl	turlpa (short, squat, dumpy, stumpy)	1	3	3	1	0.111	
+maarrmaarrmantarla	rdalji (motionless, still, stationary, stiff and straight, rigid, frozen, dead (from cold))	1	1	9	1	0.111	
+jiparanyparlalku	laarr (heating, warmingwarm, heat)	1	1	9	1	0.111	
+prdimirni	rangkarrkanyi	1	1	9	-4	0.111	
+marnta (displeasurescold, threaten, reprimand, be mad at, be angry with)	yunparnulpa	2	3	6	1	0.111	
+ngalikirri (kneecap, patella)	pulawa	1	9	1	-2	0.111	
+kanjayani	yiwirri (yam roots from runners)	1	3	3	-1	0.111	
+pantirniinja	rdilypirrpa (perforation, hole, incision, opening, entrance, aperturehole, tunnel, cavityperforated, pierced through, holeydig through, dig tunnel through, dig hole through, tunnel throughbe perforated, have perforation(s), have a hole, have holes inmake holes in by hitting with missile thrown, shoot and make hole in, shoot a hole ineat a hole in, eat holes inchop into something which is hollow, chop into hollow surfacechop out ofpierce a hole in, poke a hole in/throughbite holes inperforate, pierce, put holes inclever, talented, wise, intelligent)	1	1	9	2	0.111	
+rangkarrkanyi	rangkarrkurlurangkarrku	1	9	1	-3	0.111	
+jurtarangi (rainbow)	jurtarangirlakila	1	9	1	1	0.111	
+pirrpirrpakarnulurl	yirrkirnpa ()	2	2	9	1	0.111	
+jarala (all over (the place), everywhere, anywhere, up and downtake everywhere, carry anywhere, take all overjump all over the placegather, get from everywherebe everywhererun everywhere, run all over the place, fly all overgo everywhere, walk all overput everywhere, put anywherego everywhere, go all over)	ngulajangkarlunpa	2	9	2	-3	0.111	
+punayi ()	wijilypi (^Smooth ^Spiderbushwitchetty grub)	3	9	3	2	0.111	
+kapanka	kujarninginti	1	1	9	2	0.111	
+jami (leaving, giving up onabandon, leave, give up on, disengage from, turn away from, desist from)	yunpakarlu	1	9	1	1	0.111	
+warlkurr (bark, barking, growling, snarlingbark atbark atbark (as dog))	yawayawaa	1	9	1	4	0.111	
+kalpalpi (^Lemonscented ^Grass, ^Native ^Lemon ^Grass^Grass sp.)	pinayirrarni	1	9	1	-3	0.111	
+larrapa	wangirrijijarrarluju	1	9	1	3	0.111	
+jutarnijarra	yiti (into mouth, inserting into mouth, breast feedhave in mouth, have inserted in mouth, have on the breastgive breast to, breast feedput into mouth, put onto breast)	2	2	9	-4	0.111	
+nyirnkilya (^Desert ^Death ^Adder)	nyirnkilyka (^Desert ^Death ^Adder)	2	6	3	-0.5	0.111	
+jutupinyi	kankujulu	1	1	9	4	0.111	
+puwa	yurrumpu	1	9	1	4	0.111	
+matajarrijalku	wapirrajarra	1	3	3	-4	0.111	
+pirrpirrpakarnurla	yirrkirnpa ()	2	2	9	-3	0.111	
+ngunjalpa (Wednesday)	th	1	9	1	1	0.111	
+patilirriki	puwa	1	1	9	4	0.111	
+wardinyijarrijanyan	yarntarn (light stepwalk with light step, creep along, sneak along, go stealthily, walk lightly, walk on tiptoeswalk with light step, walk silently, move stealthily)	2	2	9	3	0.111	
+marn	pirlpanji ()	2	6	3	3.5	0.111	
+wariyijarrija	yarlparu (grieving over deceased person, sad over bereavement, bereaved, sorry, distressed)	2	2	9	0.5	0.111	
+department	kapurlu (senior sister, big sistersisters, brother and senior sister)	1	1	9	-2	0.111	
+rdilypirr (perforation, hole, incision, opening, entrance, aperturehole, tunnel, cavityperforated, pierced through, holeydig through, dig tunnel through, dig hole through, tunnel throughbe perforated, have perforation(s), have a hole, have holes inmake holes in by hitting with missile thrown, shoot and make hole in, shoot a hole ineat a hole in, eat holes inchop into something which is hollow, chop into hollow surfacechop out ofpierce a hole in, poke a hole in/throughbite holes inperforate, pierce, put holes inclever, talented, wise, intelligent)	rdilypirryarlkirni	2	18	1	1.5	0.111	
+kirni ()	tanji	1	3	3	-3	0.111	
+wunu	yumurrumurru	1	1	9	-4	0.111	
+ngularlajinta	wirily (separate, out, loose, apart, away fromcome loose from (as axe head from shaft), fall off, fly off, drop from, pop out of)	1	3	3	2	0.111	
+katumparra	warrpa (clothing, dress)	1	9	1	-3	0.111	
+kaninjarralkuwaja	wirtirla (peering, peekingpeer, peek, look over and down at, sneak a look at, glance back through or under arm (as women during some ceremonies and rituals))	1	1	9	-4	0.111	
+larrapa	wunumumanu	1	9	1	-4	0.111	
+wajamirnipukajarrij	yarlparu (grieving over deceased person, sad over bereavement, bereaved, sorry, distressed)	3	3	9	0	0.111	
+kanari ()	luwakarla	1	1	9	4	0.111	
+lukarrara (^Desert ^Fringerush^Weevilnose beetle)	patanjarrngi (^Broadleaf ^Parakeelya, ^Slender ^Pigweed {?})	1	9	1	-3	0.111	
+kinkikilarla	yapangarnu	1	1	9	-2	0.111	
+karrkarrka	ngawurrpa (denizen of, dweller, from, of, belonging to, related)	1	1	9	4	0.111	
+jangarnka (chinbeard, whiskers, facial hairpointy beard, incipient beardyouth, young postpuberty maleincipient beard rnoyouth, young man rno'elbow' of boomerangpaternal nephew, paternal niece, brother's child)	waruka (fire in clump of grass, warming fire)	1	9	1	4	0.111	
+langaparntajarrilki	wirlki (cheek, cheekbone, jawbone, side of face, jaw, jowllegless lizard, wormroundcheeked (of person)turn head, look aroundsharp bend, curve, anglebent, curved, crookedkiller boomerang, number seven boomerangseven)	2	1	18	1	0.111	
+laarr (heating, warmingwarm, heat)	rdilkiyarla	1	9	1	-2	0.111	
+lukarrara (^Desert ^Fringerush^Weevilnose beetle)	yarntapiri ()	1	9	1	4	0.111	
+kujakang	yalampa ()	1	1	9	-3	0.111	
+jurtarangi (rainbow)	ngawinyikirra	1	9	1	3	0.111	
+kurta ()	ngalparany (moving aroundwalk around, move around)	1	9	1	4	0.111	
+katirdi	yapangarnu	1	1	9	4	0.111	
+ngurrjumaniwirlki	wirlki (cheek, cheekbone, jawbone, side of face, jaw, jowllegless lizard, wormroundcheeked (of person)turn head, look aroundsharp bend, curve, anglebent, curved, crookedkiller boomerang, number seven boomerangseven)	2	1	18	-0.5	0.111	
+luparl (greedily, hungrilyeat hungrily, eat greedily, rip into, tear into)	maybe	1	3	3	-4	0.111	
+jari ()	napurur	1	9	1	3	0.111	
+jarala (all over (the place), everywhere, anywhere, up and downtake everywhere, carry anywhere, take all overjump all over the placegather, get from everywherebe everywhererun everywhere, run all over the place, fly all overgo everywhere, walk all overput everywhere, put anywherego everywhere, go all over)	ngantakarrijalpa	1	9	1	2	0.111	
+purntu (accusing, blamingaccuse, blame)	wurrulykumani	2	9	2	0.5	0.111	
+wardinyinijarrija	yatiyi (hurrah, hurray, goody, great, good, thanks, thank you,)	2	1	18	0	0.111	
+jampaly (sharp, pointedsharp tonguesharpen, trim to point)	munju (blunt, dull)	1	1	9	-3	0.111	
+minini (^Sandy ^Inland ^Mouse, ^House ^Mouse)	ramparlkarrijarna	2	18	1	-3.5	0.111	
+kuriny (examiningexamine, scrutinize, look carefully at, look over, estimate)	wurdujurra (happy, satisfied, good {??})	1	1	9	4	0.111	
+kuumarri (groan, moangroan, moan (in pain))	rdiily (stopping, ceasing, abatingabate, desist, stop, cease, clear (of rain), endsome of, part of, portion ofin bursts, stop and start, bit by bit, at intervals, from time to time)	1	1	9	2	0.111	
+marlpa (company, companion, companionship, accompanying, jointlycrowd, mob, flock, large number of, large group)	wardinyijarrijarnangku	1	9	1	-1	0.111	
+jijanu (visit, visitingvisit, go visitingvisit, go to visit)	nyuyujarrijalpalurla	2	6	3	-1.5	0.111	
+purntu (accusing, blamingaccuse, blame)	wayirtantiji	1	9	1	-3	0.111	
+mungajang	rangkarrkanyi	1	1	9	-3	0.111	
+jinarn (tripping, falling, limpingtrip, throw over, cause to fallknock (clean) over, knock over lengthwisetrip over, fall over, trip and fallwalk with stiff leghop on one leg)	parnkanjayanu	1	1	9	-3	0.111	
+marlpa (company, companion, companionship, accompanying, jointlycrowd, mob, flock, large number of, large group)	wangkayarra	1	9	1	-1	0.111	
+rdimpirl (clapping, banging togetherbeat boomerangs together, clap time, beat songsticks together)	tururru (tree sp. PPJ 20/10/86clapping sticks, song sticks)	1	3	3	-2	0.111	
+kakarru (east, easterlyacross the east side, along the east sidehaving moved across the east side, northeast, southeastfar to the east)	ramarri	2	18	1	-1	0.111	
+juwapinjawarnu	yirili (batter, smooth paste)	1	1	9	3	0.111	
+ngatijirriparda	puwa	1	1	9	4	0.111	
+liwirnpa (hungry for meat, meatstarved, craving meatstarve someone of meat, deprive of meatneeding food, desperate need to eat, ravenous)	nganyunganyu (in a rush, impatient, anxious for, in a hurry for)	1	9	1	1	0.111	
+jari ()	napaljarirliji	2	9	2	-4	0.111	
+larrapa	larrapakarni	1	9	1	3	0.111	
+kampami ()	marnalangu	2	18	1	-0.5	0.111	
+flat	jaarlparra (secret code, coded speech, indirect speech, sousentendu, misleading words, obscure speech)	1	1	9	-3	0.111	
+laarr (heating, warmingwarm, heat)	rdilkiyakulku	1	9	1	-3	0.111	
+jirrpinta (^Stripetailed ^Goanna)	manypirirlangurlangu	1	9	1	-3	0.111	
+kurdijikingarntikil	yikirrinji (avoidance behaviour, social restraint, inlaw avoidance, keeping social distance, avoidance relation; person practising avoidance behaviour)	2	1	18	-1	0.111	
+henty	nyilji (aiming, pointingaim at, take aim at, point at)	1	9	1	4	0.111	
+rdiily (stopping, ceasing, abatingabate, desist, stop, cease, clear (of rain), endsome of, part of, portion ofin bursts, stop and start, bit by bit, at intervals, from time to time)	yitimarramarrangurlu	1	9	1	-1	0.111	
+jangarnka (chinbeard, whiskers, facial hairpointy beard, incipient beardyouth, young postpuberty maleincipient beard rnoyouth, young man rno'elbow' of boomerangpaternal nephew, paternal niece, brother's child)	wunu	1	9	1	2	0.111	
+puna (ash)	yinngirri (become uncontrollably angry, go into a rageappearance, look)	2	3	6	1.5	0.111	
+jayirti	pintipuyu	2	3	6	0.5	0.111	
+mannguyantaju	pilya ()	2	1	18	0	0.111	
+minikiyi (bee, native bee, honey bee)	munikiyi ()	2	18	1	0	0.111	
+mira	tuwa	1	3	3	-2	0.111	
+wajilipinyi	wajilipungupalangu	2	18	1	1	0.111	
+kaajini	yarrikirlangu	1	1	9	4	0.111	
+piji (stealing fromsteal wife off, humbug, bother, take advantage of)	yumpardi (staying put, staying at home, in camp)	1	9	1	3	0.111	
+kalkurnupurda	kuukulku	1	9	1	-4	0.111	
+ngantaw	rdiily (stopping, ceasing, abatingabate, desist, stop, cease, clear (of rain), endsome of, part of, portion ofin bursts, stop and start, bit by bit, at intervals, from time to time)	1	1	9	4	0.111	
+luurrpa (settle, campsend (down) into, make to go (down) intowalk close to (another in hope of being invited to join), hang around with, join in withenter into (another's area), camp close to (another), move in on, join withmake to go to, send to joinput ontorun into, fly into)	luurrparnkami	2	3	6	1	0.111	
+kalkurni ()	laajiji	2	18	1	0.5	0.111	
+rapurapu (blackened)	yapangarnu	1	1	9	3	0.111	
+jakurrmani	pirrjirti	2	3	6	-1.5	0.111	
+jama (generous, giving, kind)	puami	2	9	2	-3	0.111	
+tili ()	wapilingki (Coolibah)	1	1	9	-4	0.111	
+nitilirla	rdilypirrpa (perforation, hole, incision, opening, entrance, aperturehole, tunnel, cavityperforated, pierced through, holeydig through, dig tunnel through, dig hole through, tunnel throughbe perforated, have perforation(s), have a hole, have holes inmake holes in by hitting with missile thrown, shoot and make hole in, shoot a hole ineat a hole in, eat holes inchop into something which is hollow, chop into hollow surfacechop out ofpierce a hole in, poke a hole in/throughbite holes inperforate, pierce, put holes inclever, talented, wise, intelligent)	1	1	9	3	0.111	
+pulpurru (down, overknock over, chop down, hit and drop, floor (someone)fall over, fall down, drop, collapse)	rdalypakarnu	2	3	6	-1	0.111	
+kulkurrupaja	ngajulawu	1	3	3	-1	0.111	
+nyinayalu	parnpirni	2	9	2	3	0.111	
+pukirdipukirdirla	rdilypirrpa (perforation, hole, incision, opening, entrance, aperturehole, tunnel, cavityperforated, pierced through, holeydig through, dig tunnel through, dig hole through, tunnel throughbe perforated, have perforation(s), have a hole, have holes inmake holes in by hitting with missile thrown, shoot and make hole in, shoot a hole ineat a hole in, eat holes inchop into something which is hollow, chop into hollow surfacechop out ofpierce a hole in, poke a hole in/throughbite holes inperforate, pierce, put holes inclever, talented, wise, intelligent)	1	1	9	2	0.111	
+nyinanjayanu	wurrkuwurrku (moving with trunk of body in contact with groundslither along, drag oneself along groundslither, drag oneself along groundslither)	6	9	6	-1	0.111	
+liwanja (fish)	skin	2	6	3	3	0.111	
+kulkul (in/ by/ with mouthin armsmouthloadcarry in/by the mouth, carry in/by beak (of bird)pick up by the mouthhave in mouth, hold in/by mouthput down from mouth/ beak, (deliberately) drop it out of the mouth)	rdampirrpungu	1	9	1	-4	0.111	
+panturnujana	yura (stealthily, stalking, sneakingstalk up on, sneak up on, move stealthily towards, steal up on, creep up onsneak along, steal along, creep along out of sight, keep low)	1	1	9	-3	0.111	
+lirrwarna (big number of, cluster, mob)	nyanungukari	2	3	6	3	0.111	
+wajamirnipukajarrij	yarlparu (grieving over deceased person, sad over bereavement, bereaved, sorry, distressed)	1	1	9	-2	0.111	
+kululkkupalanyanu	rdiily (stopping, ceasing, abatingabate, desist, stop, cease, clear (of rain), endsome of, part of, portion ofin bursts, stop and start, bit by bit, at intervals, from time to time)	3	3	9	1	0.111	
+piirrpiirrpa (half white, brown and white, whitish, speckled with whitedirty, grubby)	yarrungkanyirnalu	1	9	1	2	0.111	
+epilepsy	rdalji (motionless, still, stationary, stiff and straight, rigid, frozen, dead (from cold))	1	1	9	4	0.111	
+muju ()	narntirnki (arched, bent over, curved, curled, doubled overninenine)	1	3	3	-3	0.111	
+juwaki ()	yaarlyaarlkujurnulpalur	1	1	9	4	0.111	
+lamparra (fatherinlaw, wife's father, husband's father, spouse's fatherfatherinlaw and soninlaw)	yurrunyjulparla	1	9	1	1	0.111	
+rdilypirrpa (perforation, hole, incision, opening, entrance, aperturehole, tunnel, cavityperforated, pierced through, holeydig through, dig tunnel through, dig hole through, tunnel throughbe perforated, have perforation(s), have a hole, have holes inmake holes in by hitting with missile thrown, shoot and make hole in, shoot a hole ineat a hole in, eat holes inchop into something which is hollow, chop into hollow surfacechop out ofpierce a hole in, poke a hole in/throughbite holes inperforate, pierce, put holes inclever, talented, wise, intelligent)	rdilypirryarlkirni	1	9	1	-2	0.111	
+rakarlangurlu	yarupinyi	1	1	9	3	0.111	
+murtu ()	ramparlpakarnurnarlajin	1	9	1	2	0.111	
+laarr (heating, warmingwarm, heat)	rdilkiyarlalkulu	1	9	1	-1	0.111	
+kalpalpi (^Lemonscented ^Grass, ^Native ^Lemon ^Grass^Grass sp.)	tirdi (as a pair, together, as a couplecouple together, husband and wife together, married couple, pair, both together)	1	9	1	4	0.111	
+nyarrpajarrinparla	yalampa ()	1	1	9	4	0.111	
+jari ()	jungari (small grindstone, handheld grindingstone)	2	9	2	-4	0.111	
+japirrpa (labia, vulva)	pangkirri (long deep gash, big split.cut lengthwise gashes in, gash, split)	1	1	9	4	0.111	
+punayi ()	yariji	1	9	1	-3	0.111	
+janji (searching)	maninjintarra	7	32	2	-1.2	0.109	
+yaljirrpa ()	yumurrparla	6	7	8	0.5	0.107	
+juturirralku	kayi ()	3	1	28	-3	0.107	
+jarlwatarla	parrparda ()	3	2	14	0.66	0.107	
+karrawari (Coolibahwitchetty grub sp.)	wankirlinyi	2	19	1	-3.5	0.105	
+jintakumarrarni	yalkirikirrajarrijalu	2	19	1	1.5	0.105	
+ngarrmaralyka	yunparnulujana	2	19	1	-2.5	0.105	
+jintawarnu	larrapakarni	2	19	1	0	0.105	
+wakurlu ((head) hairmane)	waralywaralykarrinjayan	4	19	2	-0.7	0.105	
+lurru (into, down intochase down intogo and hide in, hide in, conceal self in, run away into, take shelter in, duck down, duck intoarrive, reach, get to)	oarnkayijala	4	38	1	2.5	0.105	
+kuwalykukuwalykupar	wakurlu ((head) hairmane)	2	1	19	-1	0.105	
+lurru (into, down intochase down intogo and hide in, hide in, conceal self in, run away into, take shelter in, duck down, duck intoarrive, reach, get to)	ngapilyilyi	4	38	1	-2.5	0.105	
+kiwinyi (mosquito(swarm of) mosquitoes)	kiwinyiwinyi	5	4	12	-1.6	0.104	
+ngardaly (over, other side, facing other wayturn over, toss over, flip overchange (over)turn over, roll overturn over, flip over)	wantijarlipa	8	13	6	1	0.102	
+kurlurlumpayilki	yatujumpayi	4	3	13	0	0.102	
