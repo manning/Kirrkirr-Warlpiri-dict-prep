@@ -48,7 +48,7 @@
 $kevinformat = 1;
 if ($#ARGV < 0 || $#ARGV > 1)
 {
-    print STDERR "usage: wrl-xml-new.pl filename [0/1]\n";
+    print STDERR "usage: wrl-xml-new.pl filename [0/1/dm]\n";
     exit(0);
 }
 if ($#ARGV > 0)
@@ -79,8 +79,12 @@ while ($line = <INPUT>)
 {
     &fixupline(0);
 
+    if ($line =~ /^@/)
+    {
+        # Skip as comment
+    }
     # \me Main entry lines
-    if ($line =~ /^\\me +([-=a-zA-Z()]+ ?[-=a-z()]+)[ *]/)
+    elsif ($line =~ /^\\me +([-=a-zA-Z()]+ ?[-=a-z()]+)[ *]/)
     {
 	$hw=$1;
 	$currhead = $hw;
@@ -139,7 +143,7 @@ while ($line = <INPUT>)
 	    # print STDERR "For $currhead, subwords: $subwords{$currhead}\n";
 	}
     }
-    elsif ($line =~ /^\\(cf|alt|syn|ant|pvl|see|xme)/)
+    elsif ($line =~ /^\\(cf|alt|syn|ant|pvl|see|xme|xsse)/)
     {
 	$xmekey = "$hw/$truehnum";
 	chop($line);
@@ -149,10 +153,38 @@ while ($line = <INPUT>)
 	}
 	$xrefs{$xmekey} .= $line;
     }
-    elsif ($line =~ /^\\gl/)
+    elsif ($line =~ /^\\gl /)
     {
 	$xmekey = "$hw/$truehnum";
 	$string = &standardhandling($line, "gl", 0);
+	if ($string ne "")
+	{
+	    # store first (most general sense) if several
+	    if ($glosses{$xmekey} eq "")
+	    {
+		# print STDERR "Storing for |$xmekey| $string\n";
+		$glosses{$xmekey} = $string;
+	    }
+	}
+    }
+    elsif ($line =~ /^\\glo/)
+    {
+	$xmekey = "$hw/$truehnum";
+	$string = &standardhandling($line, "glo", 0);
+	if ($string ne "")
+	{
+	    # store first (most general sense) if several
+	    if ($glosses{$xmekey} eq "")
+	    {
+		# print STDERR "Storing for |$xmekey| $string\n";
+		$glosses{$xmekey} = $string;
+	    }
+	}
+    }
+    elsif ($line =~ /^\\rv/)
+    {
+	$xmekey = "$hw/$truehnum";
+	$string = &standardhandling($line, "rv", 0);
 	if ($string ne "")
 	{
 	    # store first (most general sense) if several
@@ -201,8 +233,12 @@ while ($line = <INPUT>)
 #	print STDERR "Line $lnum is $1, stack is @instack\n";
 #    }
 
+    if ($line =~ /^@/)
+    {
+        # Skip as comment
+    }
     # \me Main entry lines
-    if ($line =~ /^\\me/)
+    elsif ($line =~ /^\\me/)
     {
 	&closeallopen;
 	push(@instack, "pme");	# the pseudo me that continues past \eme
@@ -296,7 +332,7 @@ while ($line = <INPUT>)
 	# treat as no-op so that we put subentries inside main entry
 	&endnotrail($line);
     }
-    elsif ($line =~ /^\\(cf|alt|syn|ant|pvl|see|xme)/)
+    elsif ($line =~ /^\\(cf|alt|syn|ant|pvl|see|xme|xsse)/)
     {
 	&closeexamples;
 	$what = $1;
@@ -488,7 +524,7 @@ while ($line = <INPUT>)
 	&endnotrail($line);
 	&heuristicclose("sse", "sse");
     }
-    elsif ($line =~ /^\\(lat|rul|refa|ref|cmp|def|cm|csl) /)
+    elsif ($line =~ /^\\(lato|lat|rul|refa|ref|cmp|def|cm|csl|xs) /)
     {
 	$what = $1;
 	$uwhat = $what;
@@ -661,13 +697,42 @@ while ($line = <INPUT>)
 	    &printdomain($string);
 	}
     }
-    elsif ($line =~ /^\\gl/)
+    elsif ($line =~ /^\\gl /)
     {
 	$string = &standardhandling($line, "gl", 1);
 	if ($string ne "")
 	{
 	    &printgloss($string);
 	    $glossed = 1;
+	}
+    }
+    elsif ($line =~ /^\\glo/)
+    {
+	$string = &standardhandling($line, "glo", 1);
+	if ($string ne "")
+	{
+	    &printgloss($string);
+	    $glossed = 1;
+	}
+    }
+    elsif ($line =~ /^\\rv/)
+    {
+	$string = &standardhandling($line, "rv", 1);
+	if ($string ne "")
+	{
+	    &printgloss($string);
+	    $glossed = 1;
+	}
+    }
+    elsif ($line =~ /^\\(org) /)
+    {
+	$what = $1;
+	$uwhat = $what;
+	$uwhat =~ tr/a-z/A-Z/;
+	$string = &standardhandling($line, $what, 1);
+	if ($string ne "")
+	{
+	    print "<$uwhat>$string</$uwhat>\n";
 	}
     }
     elsif ($line =~ /^[ \t]*$/)
@@ -872,10 +937,21 @@ sub printdialects
 	}
 	while ($thing = shift(@fields))
 	{
-	    if ($thing !~ /^(E|H|La|P|Wi|WW|Y|BT|SL)$/)
+	    if ($thing !~ /^(E|H|La|P|Wi|WW|Y|BT|SL|Ny)$/)
 	    {
 		print STDERR "$lnum, entry $entry, printdialects: Warning. $thing is an unknown dialect:\n\t$oline";
 	    }
+	    # Known dialects:
+	    # E:
+	    # H:
+	    # La: Lajamanu
+	    # P:
+	    # Wi: Wirliyajarrayi
+	    # WW: Wakirti Warlpiri (Alekarenge and Tenant Creek)
+	    # Y: Yurntumu (Yuendumu)
+	    # BT
+	    # SL
+	    # Ny: Nyirrpi
 	    if ($thing =~ /BT|SL/)
 	    {
 		$register = "RG";
@@ -1620,7 +1696,9 @@ sub buildhnumcnts
 	    {
 		$line =~ s/<\/?CT>//g;
 	    }
-	    if ($line =~ /^\\sse +([-=a-zA-Z()]+ ?[-=a-z()]+)[ *]/)
+#	    if ($line =~ /^\\sse +([-=a-zA-Z\(\)\[\]]+ ?[-=A-Za-z()]+) */)
+#           if ($line =~ /^\\sse +([-=a-zA-Z()]+ ?[-=a-z()]+)[ *]/)
+            if ($line =~ /^\\sse +([-=a-zA-Z()\[\]]+ ?[-=A-Za-z()]+)[ *]/)
 	    {
 		$hw=$1;
 		if ($hnumcnt{$hw})
