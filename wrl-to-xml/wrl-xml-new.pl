@@ -108,7 +108,7 @@ while ($line = <INPUT>)
 	{
 	    $line =~ s/<\/?CT[^>]*>//g;
 	}
-	if ($line =~ /^\\sse +([-=a-zA-Z()]+ ?[-=a-z()]+)( *\*[0-9#]+\*)? /)
+	if ($line =~ /^\\sse +([-=a-zA-Z()]+ ?[A-Z)-]*[-=a-z()]+)( *\*[0-9#]+\*)? /)
 	{
 	    $hw=$1;
 	    $hnum=&trimwhite($2);
@@ -524,7 +524,7 @@ while ($line = <INPUT>)
 	&endnotrail($line);
 	&heuristicclose("sse", "sse");
     }
-    elsif ($line =~ /^\\(lato|lat|rul|refa|ref|cmp|def|cm|csl|xs) /)
+    elsif ($line =~ /^\\(lato|lat|nlat|rul|refa|ref|cmp|def|cm|csl|xs|note) /)
     {
 	$what = $1;
 	$uwhat = $what;
@@ -1521,7 +1521,7 @@ sub parseentryline
     {
 	print STDERR "$lnum, entry $entry, $etype: missing space between headword and POS [corrected!]:\n\t$oline";
     }
-    if ($line =~ /^\\${etype} +([-=a-zA-Z()]+(?: +[-=a-z()]+)*)( *\*[0-9#]+\*)? +(.*)$/)
+    if ($line =~ /^\\${etype} +([-=a-zA-Z()\[\]]+(?: +[A-Z)-]*[-=a-z()]+)*)( *\*[0-9#]+\*)? +(.*)$/)
     {
 	$hw=$1;
 	if ($etype ne "se")
@@ -1698,7 +1698,7 @@ sub buildhnumcnts
 	    }
 #	    if ($line =~ /^\\sse +([-=a-zA-Z\(\)\[\]]+ ?[-=A-Za-z()]+) */)
 #           if ($line =~ /^\\sse +([-=a-zA-Z()]+ ?[-=a-z()]+)[ *]/)
-            if ($line =~ /^\\sse +([-=a-zA-Z()\[\]]+ ?[-=A-Za-z()]+)[ *]/)
+            if ($line =~ /^\\sse +([-=a-zA-Z()\[\]]+ ?[A-Z)-]*[-=a-z()]+)[ *]/)
 	    {
 		$hw=$1;
 		if ($hnumcnt{$hw})
@@ -1755,7 +1755,7 @@ sub semdomains
 	    {
 		$line =~ s/<\/?CT>//g;
 	    }
-	    if ($line =~ /^\\sse +([-=a-zA-Z()]+ ?[-=a-z()]+)( *\*[0-9#]+\*)? /)
+	    if ($line =~ /^\\sse +([-=a-zA-Z()]+ ?[A-Z)-]*[-=a-z()]+)( *\*[0-9#]+\*)? /)
 	    {
 		$hw=$1;
 		if ($hnummcnt{$hw})
