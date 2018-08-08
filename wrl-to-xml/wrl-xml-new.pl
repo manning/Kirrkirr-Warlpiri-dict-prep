@@ -524,7 +524,7 @@ while ($line = <INPUT>)
 	&endnotrail($line);
 	&heuristicclose("sse", "sse");
     }
-    elsif ($line =~ /^\\(lato|lat|nlat|rul|refa|ref|cmp|def|cm|csl|xs|note) /)
+    elsif ($line =~ /^\\(lato|lat|rul|refa|ref|cmp|def|cm|csl|xs|note) /)
     {
 	$what = $1;
 	$uwhat = $what;
@@ -1436,11 +1436,13 @@ sub fixupline
     $line =~ s/[\x02\x05]//g;
     # latin angle brackets first recode
     $line =~ s/\\l<([^>]*)>/\{LATIN\}\1\{\/LATIN\}/g;
+    $line =~ s/\@l<([^>]*)>/\{LATIN\}\1\{\/LATIN\}/g;
+    $line =~ s/\#j<([^>]*)>/\{BOLD\}\1\{\/BOLD\}/g;
     # get rid of ampersands in source before we introduce some
     $line =~ s/&/&amp;/g;
     # other language (warlpiri<->english) cite in angle brackets 
     # - must be before introduce SGML brackets!
-    if ($line =~ /<[-A-za-z .,!\/()*#'+"]+>/)
+    if ($line =~ /<[-=A-za-z .,!\/()*#'+"]+>/)
     {
 	if ($showerr) # ie second pass
 	{
@@ -1448,7 +1450,7 @@ sub fixupline
 	}
 	else
 	{
-	    $line =~ s/<([-A-za-z .,!\/()*#'+"]+)>/<CT>\1<\/CT>/g;
+	    $line =~ s/<([-=A-za-z .,!\/()*#'+"]+)>/<CT>\1<\/CT>/g;
 	}
     }
     # derives from << and other case of < from:
@@ -1460,6 +1462,7 @@ sub fixupline
     }
     # latin angle brackets second recode
     $line =~ s/{(\/?LATIN)}/<\1>/g;
+    $line =~ s/{(\/?BOLD)}/<\1>/g;
     # sources in square brackets
     # sometimes the source has an extra < in it which has now become &lt;
     # I presume this is an error and we blow it away.
