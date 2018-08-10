@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 # Warlpiri -> XML
 # A complicated regexp matching hack, now complete with a stack-based parser
@@ -12,6 +12,7 @@
 #		\syn (H) jiwari \esyn
 #     - Better CT processing -- ot can be multiple words!
 #	<DEF>bottom part of a hill (<CT HENTRY="?">ngarnka, pirli</CT>)</DEF>
+#     - Fix \rv reversal list handling.
 
 # updated .. August 1998.  Growing subroutines.
 # 8 aug 98 - now good dialect handling
@@ -238,7 +239,7 @@ while ($line = <INPUT>)
         # Skip as comment
     }
     # \me Main entry lines
-    elsif ($line =~ /^\\me/)
+    elsif ($line =~ /^\\me /)
     {
 	&closeallopen;
 	push(@instack, "pme");	# the pseudo me that continues past \eme
@@ -332,7 +333,7 @@ while ($line = <INPUT>)
 	# treat as no-op so that we put subentries inside main entry
 	&endnotrail($line);
     }
-    elsif ($line =~ /^\\(cf|alt|syn|ant|pvl|see|xme|xsse)/)
+    elsif ($line =~ /^\\(cf|alt|syn|ant|pvl|see|xme|xsse) /)
     {
 	&closeexamples;
 	$what = $1;
@@ -715,7 +716,7 @@ while ($line = <INPUT>)
 	    $glossed = 1;
 	}
     }
-    elsif ($line =~ /^\\rv/)
+    elsif ($line =~ /^\\rv /)
     {
 	$string = &standardhandling($line, "rv", 1);
 	if ($string ne "")
@@ -1048,11 +1049,18 @@ sub printgloss
     local($str) = shift(@_);
     local($thing);
     local(@fields);
+    local($orig);
 
     print "<GL>";
     $str = &trimwhite($str);
     # now treat ";" as comma - slight loss of info, here.
     s/; /, /g;
+    # Need to get rid of and restore comma space in SRC
+    if ($str =~ /(<SRC>[^<]+, [^<]+<\/SRC>)/)
+    {
+	$orig = $1;
+	$str =~ s/(<SRC>[^<]+), ([^<]+<\/SRC>)/\1,\2/;
+    }
     @fields = split(/, +/, $str);
     while ($thing = shift(@fields))
     {
@@ -1438,11 +1446,16 @@ sub fixupline
     $line =~ s/\\l<([^>]*)>/\{LATIN\}\1\{\/LATIN\}/g;
     $line =~ s/\@l<([^>]*)>/\{LATIN\}\1\{\/LATIN\}/g;
     $line =~ s/\#j<([^>]*)>/\{BOLD\}\1\{\/BOLD\}/g;
+    if ($line =~ /^\\wed? /)
+    {
+	$line =~ s/<([^>]+)>/\{ENGLISH\}\1\{\/ENGLISH\}/g;
+    }
+
     # get rid of ampersands in source before we introduce some
     $line =~ s/&/&amp;/g;
     # other language (warlpiri<->english) cite in angle brackets 
     # - must be before introduce SGML brackets!
-    if ($line =~ /<[-=A-za-z .,!\/()*#'+"]+>/)
+    if ($line !~ /^\\lato? / && $line =~ /<[-=A-Za-z .,!\/()*#'+"]+>/)
     {
 	if ($showerr) # ie second pass
 	{
@@ -1450,7 +1463,7 @@ sub fixupline
 	}
 	else
 	{
-	    $line =~ s/<([-=A-za-z .,!\/()*#'+"]+)>/<CT>\1<\/CT>/g;
+	    $line =~ s/<([-=A-Za-z .,!\/()*#'+"]+)>/<CT>\1<\/CT>/g;
 	}
     }
     # derives from << and other case of < from:
@@ -1458,28 +1471,43 @@ sub fixupline
     $line =~ s/<([^C\/])/&lt;\1/g;
     if ($line =~ /[^T"]>/ && $showerr)
     {
-        print STDERR "$lnum, entry $entry, >: Bad occurrence of >:\n\t$oline";
+        if ($line =~ /^\\lato? /)
+        {
+	    $line =~ s/>/&gt;/g;
+        }
+	else
+        {
+            print STDERR "$lnum, entry $entry, >: Bad occurrence of >:\n\t$oline";
+        }
     }
     # latin angle brackets second recode
     $line =~ s/{(\/?LATIN)}/<\1>/g;
     $line =~ s/{(\/?BOLD)}/<\1>/g;
+    $line =~ s/{(\/?ENGLISH)}/<\1>/g;
     # sources in square brackets
     # sometimes the source has an extra < in it which has now become &lt;
     # I presume this is an error and we blow it away.
-    $line =~ s/\\\[(&lt;|<)?([^<\]]+)\]/<SRC>\2<\/SRC>/g;
+    $line =~ s/\\\[(?:&lt;|<)?([^<\]]+)\]/<SRC>\1<\/SRC>/g;
     # fix wonky sense nums
     if (($line =~ s/([a-z]) ?\(\*([#1-9])\*?\)/\1\*\2\*/g ||
 	 $line =~ s/\*#\*#/\*#\*/g) && $showerr)
     {
         print STDERR "$lnum, entry $entry, hnum: Wonky homophone number [fixed!]:\n\t$oline";
     }
-    # replace ^ in words for finder list.
-    if ( ! $kevinformat)
+    if ($line =~ /^\\(?:gl|glo|rv) /)
     {
-	$line =~ s/\^([-a-zA-Z'"()]+)/<FL>\1<\/FL>/g;
+	# replace ^ in words for finder list.
+        # TODO: Currently just delete the improved finder list entries, but obviously eventually we should keep them!
+        $line =~ s/\^\[[a-zA-Z \(\)]+\]//g;
+        if ( ! $kevinformat)
+        {
+            $line =~ s/\^([-a-zA-Z'"()]+)/<FL>\1<\/FL>/g;
+        }
+        # remove remaining or all ^ characters
+        $line =~ s/\^//g;
+        # remove remaining @ characters in gloss lines
+        $line =~ s/^(\\(?:glo?|rv) .*[a-z])@/\1/;
     }
-    # remove remaining or all ^ characters
-    $line =~ s/\^//g;
 }
 
 
@@ -1798,16 +1826,17 @@ sub putinct
     local($hnum);
     local($attrs) = "";
 
-    while ($line =~ /<([-ABD-Za-z .,!\/()*#'+"]+)>/)
+    while ($line =~ /<([-=ABD-Za-z .,!\/()*#'+"]+)>/)
     {
+        # print STDERR "PUTINCT: line is $line\n";
         # do one at a time
-        if ($line =~ /<([-ABD-Za-z .,!\/()*#'+"]+)>\*([#1-9])\*(%[#0-9]%)?/)
+        if ($line =~ /<([-=ABD-Za-z .,!\/()*#'+"]+)>\*([#1-9])\*(%[#0-9]%)?/)
         {
 	    ($word, $hnum) = verifyword($1, $2, 0);
         }
         else 
         {
-	    $line =~ /<([-ABD-Za-z .,!\/()*#'+"]+)>/;
+	    $line =~ /<([-=ABD-Za-z .,!\/()*#'+"]+)>/;
 	    ($word, $hnum) = verifyword($1, 0, 0);
         }
         if ($word)
@@ -1830,7 +1859,7 @@ sub putinct
         # {
         #	print " SNUM=\"$snum\"";
         # }
-        $line =~ s/<([-ABD-Za-z .,!\/()*#'+"]+)>(\*[#1-9]\*)?(%[#0-9]%)?/<CT${attrs}>\1<\/CT>/;
+        $line =~ s/<([-=ABD-Za-z .,!\/()*#'+"]+)>(\*[#1-9]\*)?(%[#0-9]%)?/<CT${attrs}>\1<\/CT>/;
     }
 }
 
@@ -1846,6 +1875,8 @@ sub verifyword
     local($easyhw);
     local($easyhw2);
     local($easyhw3);
+    local($easyhw4);
+    local($mainhw);
     local($checknum);
     local($found);
     local($keepgoing);
@@ -1863,6 +1894,14 @@ sub verifyword
 	$easyhw2 =~ tr/-\(\)= //d;
 	$easyhw3 = $easyhw;
 	$easyhw3 =~ tr/A-Z/a-z/;
+	# For the case of preverbs listed as full form (\\pvl)
+	$mainhw = $hw;
+	$mainhw =~ tr/-\(\)= //d;
+	$mainhw =~ s/\([a-z]+\)$//;
+	$mainhw =~ tr/-\(\)= //d;
+	$mainhw =~ tr/A-Z/a-z/;
+	$easyhw4 = $easyhw3 . $mainhw;
+	# print STDERR "### Made easyhw4 of $easyhw4.\n";
 
 	if ($easyspell{$easyhw} ne "")
 	{
@@ -1875,6 +1914,10 @@ sub verifyword
 	elsif ($easyspell{$easyhw3} ne "")
 	{
 	    $verhw = $easyspell{$easyhw3};
+	}
+	elsif ($easyspell{$easyhw4} ne "")
+	{
+	    $verhw = $easyspell{$easyhw4};
 	}
 	else
 	{
