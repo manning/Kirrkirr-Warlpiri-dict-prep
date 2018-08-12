@@ -215,6 +215,7 @@ $lnum = 0;
 $xmeref = "";
 $xmenum = 0;
 $glossed = 0;
+$glossedStr = "";
 
 # dictionary header - now not done in script again
 print "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>\n";
@@ -423,6 +424,7 @@ while ($line = <INPUT>)
 	    $line =~ s/<\/?CT[^>]*>//g;
 	}
 	$glossed = 0;
+	$glossedStr = "";
 
 	($hw, $hnum, $pos, $pos2, $source, $source2, $remarks, $deriv, $crit, $dialect) = &parseentryline("sse", $line);
 	if ($hw ne "")
@@ -703,8 +705,9 @@ while ($line = <INPUT>)
 	$string = &standardhandling($line, "gl", 1);
 	if ($string ne "")
 	{
-	    &printgloss($string);
+	    &printgloss($string, "gl");
 	    $glossed = 1;
+	    $glossedStr = $glossedStr . "g";
 	}
     }
     elsif ($line =~ /^\\glo/)
@@ -712,8 +715,9 @@ while ($line = <INPUT>)
 	$string = &standardhandling($line, "glo", 1);
 	if ($string ne "")
 	{
-	    &printgloss($string);
+	    &printgloss($string, "glo");
 	    $glossed = 1;
+	    $glossedStr = $glossedStr . "o";
 	}
     }
     elsif ($line =~ /^\\rv /)
@@ -721,8 +725,9 @@ while ($line = <INPUT>)
 	$string = &standardhandling($line, "rv", 1);
 	if ($string ne "")
 	{
-	    &printgloss($string);
+	    &printgloss($string, "rv");
 	    $glossed = 1;
+	    $glossedStr = $glossedStr . "r";
 	}
     }
     elsif ($line =~ /^\\(org) /)
@@ -1016,6 +1021,7 @@ sub trimwhite
 
 sub printdomain
 {
+    # only argument is the domain string
     local($str) = shift(@_);
     local($thing);
     local(@fields);
@@ -1047,9 +1053,17 @@ sub printdomain
 sub printgloss
 {
     local($str) = shift(@_);
+    local($tag) = shift(@_);
     local($thing);
     local(@fields);
     local($orig);
+    # uses global $glossedStr
+
+    if ($tag =~ /rv/ && $glossedStr =~ /g|o/ ||
+        $tag =~ /glo/ && $glossedStr =~ /g/)
+    {
+	return;
+    }
 
     print "<GL>";
     $str = &trimwhite($str);
@@ -1455,9 +1469,13 @@ sub fixupline
     $line =~ s/&/&amp;/g;
     # other language (warlpiri<->english) cite in angle brackets 
     # - must be before introduce SGML brackets!
-    if ($line !~ /^\\lato? / && $line =~ /<[-=A-Za-z .,!\/()*#'+"]+>/)
+    if ($line !~ /^\\lato? / && $line =~ /<[-=A-Za-z .,!?\/()*#'+"\{\}]+>/)
     {
-	if ($showerr) # ie second pass
+        if ($line =~ /^\\cmp /)
+        {
+            $line =~ s/<([^>]*)>/\{BOLD\}\1\{\/BOLD\}/g;
+        }
+	elsif ($showerr) # ie second pass
 	{
 	    &putinct();
 	}
@@ -1826,17 +1844,17 @@ sub putinct
     local($hnum);
     local($attrs) = "";
 
-    while ($line =~ /<([-=ABD-Za-z .,!\/()*#'+"]+)>/)
+    while ($line =~ /<([-=ABD-Za-z .,!?\/()*#'+"\{\}]+)>/)
     {
         # print STDERR "PUTINCT: line is $line\n";
         # do one at a time
-        if ($line =~ /<([-=ABD-Za-z .,!\/()*#'+"]+)>\*([#1-9])\*(%[#0-9]%)?/)
+        if ($line =~ /<([-=ABD-Za-z .,!?\/()*#'+"\{\}]+)>\*([#1-9])\*(%[#0-9]%)?/)
         {
 	    ($word, $hnum) = verifyword($1, $2, 0);
         }
         else 
         {
-	    $line =~ /<([-=ABD-Za-z .,!\/()*#'+"]+)>/;
+	    $line =~ /<([-=ABD-Za-z .,!?\/()*#'+"\{\}]+)>/;
 	    ($word, $hnum) = verifyword($1, 0, 0);
         }
         if ($word)
@@ -1859,7 +1877,7 @@ sub putinct
         # {
         #	print " SNUM=\"$snum\"";
         # }
-        $line =~ s/<([-=ABD-Za-z .,!\/()*#'+"]+)>(\*[#1-9]\*)?(%[#0-9]%)?/<CT${attrs}>\1<\/CT>/;
+        $line =~ s/<([-=ABD-Za-z .,!?\/()*#'+"\{\}]+)>(\*[#1-9]\*)?(%[#0-9]%)?/<CT${attrs}>\1<\/CT>/;
     }
 }
 
