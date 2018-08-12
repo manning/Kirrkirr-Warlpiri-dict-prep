@@ -1498,7 +1498,7 @@ sub fixupline
     {
 	# replace ^ in words for finder list.
         # TODO: Currently just delete the improved finder list entries, but obviously eventually we should keep them!
-        $line =~ s/\^\[[a-zA-Z \(\)]+\]//g;
+        $line =~ s/\^\[[^\]]+\]//g;
         if ( ! $kevinformat)
         {
             $line =~ s/\^([-a-zA-Z'"()]+)/<FL>\1<\/FL>/g;
