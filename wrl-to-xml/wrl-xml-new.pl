@@ -6,13 +6,9 @@
 # Christopher Manning .. July 1998
 
 # TODO:
-#     -	Try adding verb to end of word (with space or hyphen in between
-#	when trying to resolve a PVLI match (e.g., milyi-ngka-yirra-rni)
-#     - Bug in \sse marluri-marluri (N): dialect precedes word!
-#		\syn (H) jiwari \esyn
-#     - Better CT processing -- ot can be multiple words!
+#     - Better CT processing -- it can be multiple words!
 #	<DEF>bottom part of a hill (<CT HENTRY="?">ngarnka, pirli</CT>)</DEF>
-#     - Fix \rv reversal list handling.
+#     - Do real \rv reversal list handling.
 
 # updated .. August 1998.  Growing subroutines.
 # 8 aug 98 - now good dialect handling
@@ -36,6 +32,8 @@
 #		code to fix three more typos/errors
 # mar 00 - do cross-ref for DOMI items. 
 #		Check to fill in current word in CT
+# aug 18 - updated for all the new stuff in wlp-lexicon_master.txt
+#               Improved treatment of < > in various places; improve matching of PVL
 #
 # usage: [changed for new version (no longer a filter as read file twice)]
 #	wrl-xml-new.pl filename [0/1] >xmlfilename
@@ -1637,11 +1635,13 @@ sub parseentryline
 	    $remarks = $2;
 	}
 	$deriv = "";
-	if ($stuff2 =~ /^(.*)\([Ll]it\. +([^)]*)\):? *$/)
+	# print STDERR "####b stuff2=$stuff2\n";
+	if ($stuff2 =~ /^(.*)\([Ll]it\. +([^)]*)\)(.*)$/)
 	{
 	    $deriv = $2;
-	    $stuff2 = $1;
+	    $stuff2 = "$1$3";
 	}
+	# print STDERR "####a stuff2=$stuff2 deriv=$deriv\n";
 	$crit = "";
 	if ($stuff2 =~ /^(.*[^A-Z])?([A-Z]+:) *$/)
 	{
