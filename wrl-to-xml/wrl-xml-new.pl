@@ -216,7 +216,7 @@ $glossed = 0;
 $glossedStr = "";
 
 # dictionary header - now not done in script again
-print "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>\n";
+print "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n";
 print "<?xml-stylesheet type=\"text/xsl\" href=\"warlpiri.xsl\"?>\n";
 print "<DICTIONARY>\n";
 
@@ -946,16 +946,17 @@ sub printdialects
 		print STDERR "$lnum, entry $entry, printdialects: Warning. $thing is an unknown dialect:\n\t$oline";
 	    }
 	    # Known dialects:
-	    # E:
-	    # H:
+	    # E: Eastern Warlpiri
+	    # H: Hansen River
 	    # La: Lajamanu
-	    # P:
-	    # Wi: Wirliyajarrayi
+	    # Ny: Nyirrpi
+	    # P: Papunya
+	    # Wi: Willowra (Wirliyajarrayi)
 	    # WW: Wakirti Warlpiri (Alekarenge and Tenant Creek)
 	    # Y: Yurntumu (Yuendumu)
-	    # BT
-	    # SL
-	    # Ny: Nyirrpi
+	    # Known registers:
+	    # BT: Baby Talk
+	    # SL: Special Register Language
 	    if ($thing =~ /BT|SL/)
 	    {
 		$register = "RG";

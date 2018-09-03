@@ -12,7 +12,9 @@ kirrkirrhome=/Users/manning/Kirrkirr
 # build XML from WRL
 echo "build XML from WRL"
 # cd $home/data/wrlpdict-current
+# Old way of making it
 # cat j? k? l m? n n? p? r rd t w? y? >$home/data/wrl-proc/Wrl
+# New way copying it from the git checkout
 cp $kirrkirrhome/warlpiri-2018/src/wlp-lexicon_master.txt $home/data/wrl-proc/Wrl
 cd $home/data/wrl-proc
 ./newconv.sh
@@ -22,16 +24,19 @@ cd $home/collocations
 perl incorp-cm.pl $home/data/wrl-proc/newWrl.xml collWrl.xml
 # audio
 echo audio
-cd $kirrkirrhome/distrib/Warlpiri2007/audio
-ls -1 > $home/audio/audio.dat
+# cd $kirrkirrhome/distrib/Warlpiri2007/audio
+# ls -1 > $home/audio/audio.dat
+cd $kirrkirrhome/Warlpiri-textual-data-usyd/wrl-audio/Ross-wav/
+ls -1 *.wav > $home/audio/audio.dat
 cd $home/audio
 perl incorp_audio.pl $home/collocations/collWrl.xml audWrl.xml
 rm $home/collocations/collWrl.xml
 # pictures
 echo pictures
 cd $home/pics
-perl chrispics.pl images.dat dict.dat
-perl incorp_pics.pl $home/audio/audWrl.xml Wrl.xml
+# perl chrispics.pl images.dat dict.dat
+#perl incorp_pics.pl $home/audio/audWrl.xml Wrl.xml
+python incorp-pics.py Warlpiri-pictures.csv $home/audio/audWrl.xml Wrl.xml > error.log
 rm $home/audio/audWrl.xml
 # mv Wrl.xml $home/www/runtime
 mv Wrl.xml $home/runtime
@@ -52,7 +57,13 @@ perl censor.pl badwords.dat $home/runtime/Wrl.xml $home/runtime/censWrl.xml
 cd $home/censor
 perl subset.pl goodwords.dat $home/runtime/Wrl.xml $home/runtime/sWrl.xml
 
+# Temporary for Chris for remaking
+cd $home
+cp runtime/Wrl.xml /Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr\ 4.0.4\ Warlpiri/Warlpiri2018/
+
+
 exit
+
 # make .clk files
 echo "make .clk files"
 cd $home/runtime
@@ -60,3 +71,4 @@ cd $home/runtime
 java -mx30m -ms20m -cp "nclick.jar:patbin132.zip:" IndexMaker Wrl.xml Wrl.clk
 java -mx30m -ms20m -cp "nclick.jar:patbin132.zip:" IndexMaker censWrl.xml censWrl.clk
 java -mx30m -ms20m -cp "nclick.jar:patbin132.zip:" IndexMaker sWrl.xml sWrl.clk
+

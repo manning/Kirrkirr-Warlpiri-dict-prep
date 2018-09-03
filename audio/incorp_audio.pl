@@ -1,4 +1,5 @@
-#/usr/local/bin/perl
+#!/usr/bin/perl
+##!/usr/local/bin/perl
 ##!/gnu/usr/bin/perl
 
 if($#ARGV <= 0) {
@@ -9,6 +10,9 @@ if($#ARGV <= 0) {
 
 $dict = shift;
 $new = shift;
+
+# $suffix = ".au"
+$suffix = ".ross.wav";
 
 load_data();
 
@@ -33,6 +37,9 @@ while(<FILE>) {
 	else {
 	    new_data($word);
 	}
+#	if ( $word =~ /^julyurl/ ) {
+#	    print "Found $word\n";
+#	}
         $inform++;
         if(($inform % 500)==0) {
             print "$inform entries processed\n";
@@ -42,7 +49,7 @@ while(<FILE>) {
 close(NEW);
 close(FILE);
 open(ERROR, ">error.log") || die "$0: can't open error.log: $!\n";
-foreach $w (keys %words) {
+foreach $w (sort keys %words) {
     if($words{$w} ne "X") {
         print ERROR "$w\tnot used in dictionary\n";
     }
@@ -62,7 +69,7 @@ sub load_data {
         s/\n//;
         $file = $_;
         $word = $file;
-        $word =~ s/\.\w+$//;
+        $word =~ s/\.(\w|\.)+$//;
         $words{$word} = "";
     }
     close(INDEX);
@@ -73,7 +80,7 @@ sub load_data {
 sub new_data {
     my ($word) = @_;
     if(defined  $words{$word}) {
-        print NEW '<SOUND><SNDI>'.$word.'.au</SNDI></SOUND>'."\n";
+        print NEW '<SOUND><SNDI>' . $word . $suffix . '</SNDI></SOUND>' . "\n";
         $words{$word} = "X";
     }
 }
@@ -84,11 +91,11 @@ sub new_opt_data {
     if((defined  $words{$with})||(defined  $words{$without})) {
         print NEW '<SOUND>';
         if(defined $words{$with}) {
-            print NEW '<SNDI>'.$with.'.au</SNDI>';
+            print NEW '<SNDI>' . $with . $suffix . '</SNDI>';
             $words{$with} = "X";
         }
         if(defined $words{$without}) {
-            print NEW '<SNDI>'.$without.'.au</SNDI>';
+            print NEW '<SNDI>' . $without . $suffix . '</SNDI>';
             $words{$without} = "X";
         }
         print NEW '</SOUND>'."\n";
