@@ -19,9 +19,9 @@ load_data();
 open(FILE, $dict) || die "$0: can't open $dict: $!\n";
 open(NEW, ">$new") || die "$0: can't open $new: $!\n";
 $inform = 0;
-while(<FILE>) {
+while (<FILE>) {
     print NEW $_;
-    if(m/^\<ENTRY/) {
+    if (m/^\<ENTRY/) {
 	$word = $_;
 	$word =~ s/-//g;
 	$word =~ s/\<.+?\>//g;
@@ -41,7 +41,7 @@ while(<FILE>) {
 #	    print "Found $word\n";
 #	}
         $inform++;
-        if(($inform % 500)==0) {
+        if (($inform % 1000)==0) {
             print "$inform entries processed\n";
         }
     }          	

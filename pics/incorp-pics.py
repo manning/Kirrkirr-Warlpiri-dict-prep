@@ -3,11 +3,12 @@
 import sys
 import re
 import csv
+import os
 
-# incorp-pics.py pictures.csv-file input-xml output-xml
+# incorp-pics.py pictures.csv-file input-xml output-xml [images-directory]
 
 if len(sys.argv) < 4:
-    print("Too few args. Need: pictures-db input-xml output-xml")
+    print("Too few args. Need: pictures-db input-xml output-xml [images-directory]")
     exit()
 
 pictures_db = sys.argv[1]
@@ -19,23 +20,35 @@ p2 = re.compile('<\/ENTRY>')
 p3 = re.compile('HNUM="([0-9]+)">')
 p4 = re.compile('^#')
 
+filenameIdx = 0   # A
+collectionIdx = 1 # B
+creditsIdx = 4    # E
+processingIdx = 5    # F
+firstWordIdx = 10  # K
 
 words = {}
 
 # Read pictures database and map from (picture -> words) to (word -> pictures)
 num_pics = 0
+num_pics_missing = 0
 with open(pictures_db, newline='') as csvfile:
     pics_data = csv.reader(csvfile, delimiter=',', quotechar='"')
     for row in pics_data:
         # row is a list
         # Ignore comment rows
-        if not p4.search(row[0]):
+        if not p4.search(row[filenameIdx]):
             num_pics = num_pics + 1
-            for word in row[7:]:
+            if len(sys.argv) > 4:
+                if not os.path.exists(os.path.join(sys.argv[4], row[filenameIdx])):
+                    num_pics_missing = num_pics_missing + 1
+                    print('File: ' + os.path.join(sys.argv[4], row[filenameIdx]) + ' not found.')
+            for word in row[firstWordIdx:]:
                 if word != '':
-                    words.setdefault(word, []).append((row[0], row[4]))
+                    words.setdefault(word, []).append((row[filenameIdx], row[creditsIdx]))
 
 # Read XML file and write XML file with pictures
+amp_regex = re.compile(r'&')
+less_regex = re.compile(r'<')
 num_assoc = 0
 num_words = 0
 key = ""
@@ -58,6 +71,8 @@ with open(in_xml) as f:
                 for (fname, credits) in pics:
                     num_assoc = num_assoc + 1
                     if credits != '':
+                        credits = amp_regex.sub("&amp;", credits)
+                        credits = less_regex.sub("&lt;", credits)
                         out_file.write('<IMGI CREDITS="' + credits + '">')
                     else:
                         out_file.write('<IMGI>')
@@ -75,5 +90,5 @@ for key in sorted(words.keys()):
     print(key + ' - not found.')
 
 # Print stats
-print("File {} has {} pictures, added to {} words via {} associations; {} words not found.".format(
-    pictures_db, num_pics, num_words, num_assoc, num_unfound))
+print("File {} has {} pictures, added to {} words via {} associations; {} words and {} pictures not found.".format(
+    pictures_db, num_pics, num_words, num_assoc, num_unfound, num_pics_missing))

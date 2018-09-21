@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+# use strict;
+use feature 'unicode_strings';
+use utf8;
+
 # Warlpiri -> XML
 # A complicated regexp matching hack, now complete with a stack-based parser
 
@@ -213,7 +217,7 @@ $lnum = 0;
 $xmeref = "";
 $xmenum = 0;
 $glossed = 0;
-$glossedStr = "";
+$glossedStr = "";  # records what glosslike things seen for me|sse: o = glo, r = rv g = gl
 
 # dictionary header - now not done in script again
 print "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n";
@@ -708,7 +712,7 @@ while ($line = <INPUT>)
 	    $glossedStr = $glossedStr . "g";
 	}
     }
-    elsif ($line =~ /^\\glo/)
+    elsif ($line =~ /^\\glo /)
     {
 	$string = &standardhandling($line, "glo", 1);
 	if ($string ne "")
@@ -1074,6 +1078,8 @@ sub printgloss
 	$orig = $1;
 	$str =~ s/(<SRC>[^<]+), ([^<]+<\/SRC>)/\1,\2/;
     }
+    # Need to allow @, escaping of comma
+    $str =~ s/@,/@@@@@@/g;
     @fields = split(/, +/, $str);
     while ($thing = shift(@fields))
     {
@@ -1084,6 +1090,8 @@ sub printgloss
 	    $thing .= ", ";
 	    $thing .= shift(@fields);
 	}
+	$thing =~ s/@@@@@@/,/g;
+
         print "<GLI>$thing</GLI>";
         if ($#fields >= 0)
         {
@@ -1447,9 +1455,9 @@ sub fixupline
 	}
     }
     # charset
-    if ($line =~ /[\x02\x05\x7F-\xFF]/ && $showerr)
+    if ($line !~ /^[ !-~\pL\p{P}\pM\pS\pN]*$/ && $showerr)
     {
-        print STDERR "$lnum, entry $entry, warning: Line contains character that is not printable ASCII:\n\t$oline";
+        print STDERR "$lnum, entry $entry, warning: Line contains character that is not printable:\n\t$oline";
     }
     $line =~ s/\xC9/.../g;
     $line =~ s/\x87/./g;
