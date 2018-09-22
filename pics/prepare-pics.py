@@ -6,6 +6,7 @@ import csv
 import os
 import pathlib
 import subprocess
+from PIL import Image
 
 # prepare-pics.py - This deals with making pictures of a suitable size, brightness, ackowledgements, etc.
 #
@@ -44,33 +45,53 @@ with open(pictures_db, newline='') as csvfile:
         # row is a list
         # Ignore comment rows
         if not p4.search(row[filenameIdx]):
-            if row[filenameIdx] in pict_dict:
-                print("ERROR: filename {} appears multiple times in the pictures CSV. Please fix!".format(row[0]))
-            else:
-                num_pics = num_pics + 1
-            if row[collectionIdx] not in collections:
-                collections.append(row[collectionIdx])
-            pict_dict[row[0]] = row
+            if not row[filenameIdx].strip() == '':
+                if row[filenameIdx] in pict_dict:
+                    print("ERROR: filename {} appears multiple times in the pictures CSV. Please fix!".format(row[0]))
+                else:
+                    num_pics = num_pics + 1
+                if row[collectionIdx] not in collections:
+                    collections.append(row[collectionIdx])
+                pict_dict[row[0]] = row
 
 
 # Read the PiccyBank which is assumed to be a directory of subcollections.
 # We assume that all pictures are jpegs which will match '*.jp*'
+# TODO: Change to fixed max size, which might be 512, but check with the Mac screen.
+# This is done with resize "x512"
+max_image_width = 750
+max_image_height = 500
+resize_dims = str(max_image_width) + 'x' + str(max_image_height) + '>'
+jpeg_quality = 92
 processed_pics = 0
+pcrop = re.compile('^crop\(([0-9]+);([0-9]+);([0-9]+);([0-9]+)\)')
+
 for collection in collections:
     print("Processing {}".format(collection))
     path = os.path.join(piccybank, collection)
     orig_path = os.path.join(piccybank, collection, originals)
     origlist = pathlib.Path(orig_path).glob('*.jp*')
     for file in origlist:
-        print(file)
         filename = file.name
         output_filename = os.path.join(piccybank, collection, filename)
+        print('{}  -->  {}'.format(file, output_filename))
         if filename not in pict_dict:
             print("ERROR: file {} does not appear in the pictures CSV.".format(filename))
         filepath = str(file)
         imageProcessing = { x for x in pict_dict[filename][processingIdx].strip().split(',') }
 
         current_file = filepath
+        for item in imageProcessing:
+            match = pcrop.match(item)
+            if match:
+                lefttop = '+' + match.group(1) + '+' + match.group(2)
+                rightbottom = '-' + match.group(3) + '-' + match.group(4)
+                completed = subprocess.run(['convert', current_file, '-crop', lefttop, '+repage', '-crop', rightbottom,
+                                                    'xyzzy3.jpg'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                # print(completed.stdout)
+                if completed.stderr != b'':
+                    print(completed.stderr)
+                current_file = 'xyzzy3.jpg'
         if "trim" in imageProcessing:
             completed = subprocess.run(['autotrim', '-f', '12', filepath, 'xyzzy1.jpg'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             # print(completed.stdout)
@@ -97,21 +118,33 @@ for collection in collections:
                         place = copyright.find(' ', 20)
                 if place >= 0:
                     copyright = copyright[0:place] + '  \n  ' + copyright[place+1:]
-                completed = subprocess.run(['convert', current_file, '-colorspace', 'RGB', '-resize', '768',
+            completed = subprocess.run(['convert', current_file, '-colorspace', 'RGB', '-resize', resize_dims,
                                         '-colorspace', 'sRGB', '-fill', 'white', '-undercolor', '#00000060', '-font', 'Arial',
                                         '-pointsize', '18', '-gravity', 'SouthWest', '-annotate', '+0+3', copyright,
-                                        '-quality', '95%%', output_filename], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                                        '-quality', str(jpeg_quality), output_filename], 
+                                               stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
         else:
-            completed = subprocess.run(['convert', current_file, '-colorspace', 'RGB', '-resize', '768', '-colorspace', 'sRGB',
-                                        '-quality', '95%%', output_filename], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            with Image.open(current_file) as im:
+                width, height = im.size            
+            if width > max_image_width or height > max_image_height:
+                completed = subprocess.run(['convert', current_file, '-colorspace', 'RGB', '-resize', resize_dims,
+                                                '-colorspace', 'sRGB', '-quality', str(jpeg_quality), 
+                                                output_filename], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            else:
+                completed = subprocess.run(['convert', current_file, '-quality', str(jpeg_quality),
+                                            output_filename], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         # print(completed.stdout)
         if completed.stderr != b'':
             print(completed.stderr)
         processed_pics = processed_pics + 1
+        # Delete as used (will error if try to use twice, though should have been detected earlier)
+        del pict_dict[filename]
 
-subprocess.run(['rm', '-f', 'xyzzy1.jpg'])
-subprocess.run(['rm', '-f', 'xyzzy2.jpg'])
+subprocess.run(['rm', '-f', 'xyzzy1.jpg', 'xyzzy2.jpg', 'xyzzy3.jpg'])
 
 # Print stats
 print("CSV file {} has {} pictures; found and reformatted {} pictures in {} collections.".format(
     pictures_db, num_pics, processed_pics, len(collections)))
+if len(pict_dict) > 0:
+    print("Pictures from CSV not found in filepath: {}".format(list(pict_dict.keys())))
