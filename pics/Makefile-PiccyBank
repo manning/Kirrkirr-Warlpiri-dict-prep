@@ -1,18 +1,21 @@
 kirrkirr-images:
 	python /Users/manning/Kirrkirr/Kirrkirr-Warlpiri-dict-prep/pics/prepare-pics.py Warlpiri-pictures.csv  .
 
+TARGET_DIRECTORY = "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
+
 export-images:
-	rm -rf "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	mkdir "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p anbg/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p capb-cd1/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p capb-cd2/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p capb-cd3/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p capb-cd4/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p mhterm/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p michand/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p myfany/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p ng2001/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p online2018/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p traditional/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
-	cp -p wbaarda/*.jp* "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images/"
+	rm -rf $(TARGET_DIRECTORY)
+	mkdir $(TARGET_DIRECTORY)
+	cp -p anbg/*.jp* $(TARGET_DIRECTORY)
+	cp -p capb-cd1/*.jp* $(TARGET_DIRECTORY)
+	cp -p capb-cd2/*.jp* $(TARGET_DIRECTORY)
+	cp -p capb-cd3/*.jp* $(TARGET_DIRECTORY)
+	cp -p capb-cd4/*.jp* $(TARGET_DIRECTORY)
+	cp -p mhterm/*.jp* $(TARGET_DIRECTORY)
+	cp -p michand/*.jp* $(TARGET_DIRECTORY)
+	cp -p myfany/*.jp* $(TARGET_DIRECTORY)
+	cp -p ng2001/*.jp* $(TARGET_DIRECTORY)
+	cp -p online2018/*.jp* $(TARGET_DIRECTORY)
+	cp -p traditional/*.jp* $(TARGET_DIRECTORY)
+	cp -p wbaarda/*.jp* $(TARGET_DIRECTORY)
+	cp -p maps/*.jp* $(TARGET_DIRECTORY)

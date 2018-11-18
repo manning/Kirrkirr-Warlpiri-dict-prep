@@ -59,8 +59,9 @@ with open(pictures_db, newline='') as csvfile:
 # We assume that all pictures are jpegs which will match '*.jp*'
 # TODO: Change to fixed max size, which might be 512, but check with the Mac screen.
 # This is done with resize "x512"
-max_image_width = 750
-max_image_height = 500
+max_image_width = 720
+max_image_height = 480
+
 resize_dims = str(max_image_width) + 'x' + str(max_image_height) + '>'
 jpeg_quality = 92
 processed_pics = 0
@@ -110,12 +111,12 @@ for collection in collections:
             # Put non-breaking space around copyright
             copyright = '  ' + copyright + '  '
             # Insert newlines if too long. This is still super-heuristic. Should really get picture size and font metrics....
-            if len(copyright) > 50:
-                place = copyright.find(' ', 40)
+            if len(copyright) > 40:
+                place = copyright.find(' ', 32)
                 if place == -1:
-                    place = copyright.find(' ', 30)
+                    place = copyright.find(' ', 24)
                     if place == -1:
-                        place = copyright.find(' ', 20)
+                        place = copyright.find(' ', 16)
                 if place >= 0:
                     copyright = copyright[0:place] + '  \n  ' + copyright[place+1:]
             completed = subprocess.run(['convert', current_file, '-colorspace', 'RGB', '-resize', resize_dims,

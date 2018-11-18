@@ -76,7 +76,7 @@ if ($#ARGV > 0)
 
 &buildhnumcnts($ARGV[0]);
 
-open(INPUT, $ARGV[0]) || die "Couldn't open $ARGV[0]\n";
+open(INPUT, '<:encoding(UTF-8)', $ARGV[0]) || die "Couldn't open $ARGV[0]\n";
 
 while ($line = <INPUT>)
 {
@@ -1455,7 +1455,7 @@ sub fixupline
 	}
     }
     # charset
-    if ($line !~ /^[ !-~\pL\p{P}\pM\pS\pN]*$/ && $showerr)
+    if ($line !~ /^[ !-~“”\pL\pP\pM\pS\pN]*$/ && $showerr)
     {
         print STDERR "$lnum, entry $entry, warning: Line contains character that is not printable:\n\t$oline";
     }
@@ -1502,7 +1502,7 @@ sub fixupline
         }
 	else
         {
-            print STDERR "$lnum, entry $entry, >: Bad occurrence of >:\n\t$oline";
+            print STDERR "$lnum, entry $entry, >: Bad occurrence of >:\n\t$oline\t$line";
         }
     }
     # latin angle brackets second recode
@@ -1845,6 +1845,7 @@ sub semdomains
     close(INPUT);
 }
 
+# Changes cited words in angle brackets into CT items
 sub putinct
 {
     # uses $line as global variable; substitutes in place

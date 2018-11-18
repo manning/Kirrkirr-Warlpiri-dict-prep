@@ -311,9 +311,9 @@ jarnpirri has no frequency
 jarnpirrinyinami has no frequency
 jarntalalakarrimi has no frequency
 jarntarrku has no frequency
+jarntarrpa and jarntarr have no frequency
 jarntarrnyinami has no frequency
 jarntarrpardimi has no frequency
-jarntarrpa and jarntarr have no frequency
 jarntarrupirrimani has no frequency
 jarntarrurntarruyani has no frequency
 jarnti has no frequency
@@ -353,8 +353,8 @@ jarrayi has no frequency
 jarrimani has no frequency
 jarrimi has no frequency
 njarrimi has no frequency
-nallatjarrimi has no frequency
-nlocjarrimi has no frequency
+[nallat]jarrimi has no frequency
+[nloc]jarrimi has no frequency
 jarrilyilyi has no frequency
 jarrimarijarrimarimani has no frequency
 jarrjarrpa and jarrjarr have no frequency
@@ -464,6 +464,7 @@ jilijili has no frequency
 jilimijilimi has no frequency
 jilimiwarnu has no frequency
 jiliwirrimani has no frequency
+jiliwirriwitawangu has no frequency
 jilkamarda has no frequency
 jilpa has no frequency
 jilpirda has no frequency
@@ -510,6 +511,7 @@ jinjiljinjilpa has no frequency
 jinjilkanyi has no frequency
 jinjilka has no frequency
 jinjimirrirnpa has no frequency
+jinjinypa and jinjiny have no frequency
 jinjinykarrimi has no frequency
 jinjinyjinjinyparnkami and jinjinyparnkami have no frequency
 jinjinyi has no frequency
@@ -684,10 +686,10 @@ jululunypinyi has no frequency
 julungujulungu has no frequency
 julurrpa and julurr have no frequency
 julurrjirrirni has no frequency
-julurrjulurrmani has no frequency
-julurrjulurrpa and julurrjulurr have no frequency
 julurrmani has no frequency
 julurrngarni has no frequency
+julurrjulurrpa and julurrjulurr have no frequency
+julurrjulurrmani has no frequency
 julurru has no frequency
 julyamardayinyi has no frequency
 julyalnyinami has no frequency
@@ -784,6 +786,7 @@ jurnjurnjumani has no frequency
 jurnma has no frequency
 jurnmalypa and jurnmaly have no frequency
 jurnmalyyarnkami has no frequency
+jurntungawurrpa has no frequency
 jurntulku has no frequency
 jurntulpari has no frequency
 jurnturru has no frequency
@@ -1042,10 +1045,10 @@ kantuwarra has no frequency
 kanunjumpanyumpa has no frequency
 kanunjumparra has no frequency
 kanunjumparrawarnu has no frequency
+kapalngunami has no frequency
+kapalkapalpa and kapalkapal have no frequency
 kapalkapalwapami has no frequency
 kapalkapalyani has no frequency
-kapalkapalpa and kapalkapal have no frequency
-kapalngunami has no frequency
 kapatikapati has no frequency
 kapirdipuka has no frequency
 kapirdirlangu has no frequency
@@ -1270,15 +1273,15 @@ ki has no frequency
 kijaku has no frequency
 kimari has no frequency
 kiilwantimi has no frequency
+kiilyluwarni has no frequency
+kiilypakarni has no frequency
+kiilypantirni has no frequency
+kiilykiilypa and kiilykiily have no frequency
 kiilykiilyjankami has no frequency
 kiilykiilykampami has no frequency
 kiilykiilykijirni has no frequency
 kiilykiilypakarni has no frequency
 kiilykiilypantirni has no frequency
-kiilykiilypa and kiilykiily have no frequency
-kiilyluwarni has no frequency
-kiilypakarni has no frequency
-kiilypantirni has no frequency
 kijani has no frequency
 kiji has no frequency
 kijirninjapanu has no frequency
@@ -1470,6 +1473,7 @@ kujajarrakujajarra has no frequency
 kujapurdakujapurda has no frequency
 kujarnimirnimirni has no frequency
 kujawarnu has no frequency
+kujaka has no frequency
 kujurntu has no frequency
 kuka has no frequency
 kukapardu has no frequency
@@ -1579,6 +1583,7 @@ kuntulyyirrarni has no frequency
 kunturdakurdaku has no frequency
 kunturu has no frequency
 kunurrpu has no frequency
+kunyakunya has no frequency
 kunykunypa and kunykuny have no frequency
 kunykunyngarni has no frequency
 kunykurrpa and kunykurr have no frequency
@@ -1923,6 +1928,7 @@ larrwa has no frequency
 larrwari has no frequency
 latjilatji has no frequency
 lawajarrimi has no frequency
+lawamani has no frequency
 lawapirdinypa has no frequency
 lawarninjijarramani has no frequency
 lawata has no frequency
@@ -2125,6 +2131,7 @@ luyurrparnkami has no frequency
 luyurrwantimi has no frequency
 lyipilyipi has no frequency
 lyka has no frequency
+maninjaparnkami has no frequency
 maalykarlami has no frequency
 maalykarrkami has no frequency
 maalypakarni has no frequency
@@ -2579,9 +2586,11 @@ mitiyirrarni has no frequency
 mitimitiyani has no frequency
 mitingi has no frequency
 mitjarlpa has no frequency
+miyalu jinta has no frequency
 miyalu kaninjarra wangkami has no frequency
 miyalu maju has no frequency
 miyalu ngarrurda has no frequency
+miyalu palimi has no frequency
 miyalu pinjarrapinjarra has no frequency
 miyalu pinjarrapinjarranyinami has no frequency
 miyalu raapinyi has no frequency
@@ -3528,6 +3537,7 @@ nyiminpa has no frequency
 nyimpilpa has no frequency
 nyimpilypa has no frequency
 nyimpilypantirni has no frequency
+nyinanjawantimi has no frequency
 nyinawirdi has no frequency
 nyinawurdu has no frequency
 nyininyi has no frequency
@@ -3662,6 +3672,7 @@ pakarlantayirrarni has no frequency
 pakapaka has no frequency
 pakapaka has no frequency
 pakaparnta has no frequency
+pakarninjapardimi has no frequency
 pakayirrarni has no frequency
 pakaljirrirni has no frequency
 pakarlikirlijarrimi has no frequency
@@ -3715,6 +3726,7 @@ palyarrpa and palyarr have no frequency
 palyarryinyi has no frequency
 palykarrpa and palykarr have no frequency
 palykarrwantimi has no frequency
+palyku has no frequency
 palyku has no frequency
 palykukijirni has no frequency
 palykupinyi has no frequency
@@ -3863,8 +3875,7 @@ parnka has no frequency
 parnkaparnkakanyi has no frequency
 parnkaparnkakarrimi has no frequency
 parnkaparnta has no frequency
-vinfparnkami has no frequency
-vinfparnkami has no frequency
+[vinf]parnkami has no frequency
 parnku has no frequency
 parnmanku and parnman have no frequency
 parnmanpuka has no frequency
@@ -4071,6 +4082,7 @@ pilkardi has no frequency
 pilkipilki has no frequency
 pilpiyirrarni has no frequency
 pilpirli has no frequency
+pilpirlirrajarra has no frequency
 pilpirryirrarni has no frequency
 pilpirri has no frequency
 pilpirriyirrarni has no frequency
@@ -4090,6 +4102,8 @@ pimpalypajirni has no frequency
 pimpalyparipimpalypari has no frequency
 pimpalypinyi has no frequency
 pimpalyyani has no frequency
+pinajarrimi has no frequency
+pinamani has no frequency
 pinamparli has no frequency
 pinana has no frequency
 pinangi has no frequency
@@ -4124,6 +4138,7 @@ pinypiny has no frequency
 pinypinymani has no frequency
 pipa has no frequency
 pipajarra has no frequency
+piparnpa has no frequency
 pipipuka has no frequency
 pipirlangu has no frequency
 pipilinyi has no frequency
@@ -4589,6 +4604,7 @@ rikalpardimi has no frequency
 rikini has no frequency
 rikinijarrimi has no frequency
 rinju has no frequency
+rinpirinpi has no frequency
 rirrinyki has no frequency
 rirrinykimatirni has no frequency
 rirrinykiparnkami has no frequency
@@ -4642,8 +4658,8 @@ rurralykarrimi has no frequency
 rurralypantirni has no frequency
 rurrnyu has no frequency
 rurrpakarrimi has no frequency
-rurrparurrpa has no frequency
 rurrpamani has no frequency
+rurrparurrpa has no frequency
 rurrupinyi has no frequency
 rurrunypardimi has no frequency
 rurrunyparnkami has no frequency
@@ -5205,6 +5221,7 @@ walyangapiripiri has no frequency
 walyangapitipiti has no frequency
 walyapirntipirnti has no frequency
 walyalpa has no frequency
+walyamurlarnu has no frequency
 walyarra has no frequency
 walyikarlimi has no frequency
 walyikijirni has no frequency
@@ -5248,6 +5265,7 @@ wanarri has no frequency
 wanarrirla yirrarninjawarnu has no frequency
 wanawu has no frequency
 wangala has no frequency
+wangamarrajarrimi has no frequency
 wangapa has no frequency
 wangarlapayipayi has no frequency
 wangka has no frequency
@@ -5439,6 +5457,7 @@ warlatja has no frequency
 warlayayi has no frequency
 warlayi has no frequency
 warlayipinyi has no frequency
+warlijirri has no frequency
 warlina has no frequency
 warlinki has no frequency
 warlinkinyinami has no frequency
@@ -5770,6 +5789,7 @@ wilyarnku has no frequency
 wilyirrki has no frequency
 wilyirrkikarrinjapardimi has no frequency
 wilyirrkinyinami has no frequency
+wilyirrkiwapami has no frequency
 wilyirrpa and wilyirr have no frequency
 wilyirrpardimi has no frequency
 wilyirrparnkami has no frequency
@@ -5901,7 +5921,7 @@ wirnpirnpa and wirnpirn have no frequency
 wirnpirnmardarni has no frequency
 wirntawirnta has no frequency
 wirntalku has no frequency
-wirntalkuwirntalku pakarni has no frequency
+wirntaljankami has no frequency
 wirntalkijirni has no frequency
 wirntalluwarni has no frequency
 wirntalpakarni has no frequency
@@ -6179,6 +6199,7 @@ yalalayirrarni has no frequency
 yalalya has no frequency
 yalarni has no frequency
 yali has no frequency
+yalijipiringi has no frequency
 yalikapita has no frequency
 yalikarangu has no frequency
 yaljaru has no frequency
@@ -6654,7 +6675,7 @@ yirntirirntiri has no frequency
 yirra has no frequency
 yirrapinyi has no frequency
 vchange locationinfyirrarni and vinfyirrarni have no frequency
-vstanceinfyirrarni and vinfyirrarni have no frequency
+[vstanceinf]yirrarni and [vinf]yirrarni have no frequency
 yirrakari has no frequency
 yirralykarlku has no frequency
 yirrampi has no frequency
