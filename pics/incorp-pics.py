@@ -19,6 +19,7 @@ p = re.compile('<HW[^>]*>([^<]+)<\/HW>')
 p2 = re.compile('<\/ENTRY>')
 p3 = re.compile('HNUM="([0-9]+)">')
 p4 = re.compile('^#')
+p5 = re.compile('^\s*$')
 
 filenameIdx = 0   # A
 collectionIdx = 1 # B
@@ -36,8 +37,9 @@ with open(pictures_db, newline='') as csvfile:
     for row in pics_data:
         # row is a list
         # Ignore comment rows
-        if not p4.search(row[filenameIdx]):
+        if not p4.search(row[filenameIdx]) and not p5.search(row[filenameIdx]):
             num_pics = num_pics + 1
+            # print(row[filenameIdx])  # comment me out
             if len(sys.argv) > 4:
                 if not os.path.exists(os.path.join(sys.argv[4], row[filenameIdx])):
                     num_pics_missing = num_pics_missing + 1

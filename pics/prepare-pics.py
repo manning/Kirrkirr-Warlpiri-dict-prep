@@ -111,12 +111,12 @@ for collection in collections:
             # Put non-breaking space around copyright
             copyright = '  ' + copyright + '  '
             # Insert newlines if too long. This is still super-heuristic. Should really get picture size and font metrics....
-            if len(copyright) > 40:
-                place = copyright.find(' ', 32)
+            if len(copyright) > 38:
+                place = copyright.find(' ', 30)
                 if place == -1:
-                    place = copyright.find(' ', 24)
+                    place = copyright.find(' ', 22)
                     if place == -1:
-                        place = copyright.find(' ', 16)
+                        place = copyright.find(' ', 14)
                 if place >= 0:
                     copyright = copyright[0:place] + '  \n  ' + copyright[place+1:]
             completed = subprocess.run(['convert', current_file, '-colorspace', 'RGB', '-resize', resize_dims,
