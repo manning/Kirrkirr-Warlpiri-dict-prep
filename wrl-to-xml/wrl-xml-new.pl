@@ -14,13 +14,13 @@ use utf8;
 #	<DEF>bottom part of a hill (<CT HENTRY="?">ngarnka, pirli</CT>)</DEF>
 #     - Do real \rv reversal list handling.
 
-# updated .. August 1998.  Growing subroutines.
+# updated .. August 1998. Growing subroutines.
 # 8 aug 98 - now good dialect handling
 # 9 aug 98 - more general
 # 5oct98 - rewritten to be stack based; fix subentries, etc.
 # nov 98 - some more fixes and extensions
 # jan 99 - a new version that treats subentries differently as full entries
-# 		with cross references.  (Done somewhat crudely...)
+# 		with cross references. (Done somewhat crudely...)
 # 18jan99 - make it able to produce either old or new output format
 #		do checking of headword nubmers
 # 23jan99 - one last try: 3 passes so HNUM's are always right
@@ -44,7 +44,7 @@ use utf8;
 
 # GLOBAL VARIABLES
 # $kevinformat	0 = regular, 1 = promote subentries to entries,
-#	dm = print semantic domain info.  Read from $ARGV[1] if present
+#	dm = print semantic domain info. Read from $ARGV[1] if present
 # $truehnum = real exact hnum of current (sub)word
 # See also associative arrays below
 
@@ -271,12 +271,12 @@ while ($line = <INPUT>)
 	        }
 		if ($hnum < $truehnum)
 		{
-		    print STDERR "$lnum, entry $entry, hnum: bad for $hw.  Should be >= $truehnum not $hnum\n\t$oline";
+		    print STDERR "$lnum, entry $entry, hnum: bad for $hw. Should be >= $truehnum not $hnum\n\t$oline";
 		}
 	    }
 	    elsif ($truehnum > 1)
 	    {
-		print STDERR "$lnum, entry $entry, hnum: bad for $hw.  Should be >= $truehnum not missing\n\t$oline";
+		print STDERR "$lnum, entry $entry, hnum: bad for $hw. Should be >= $truehnum not missing\n\t$oline";
 	    }
 
 	    if ($kevinformat && $hnumcnt{$hw} > 1)
@@ -449,18 +449,18 @@ while ($line = <INPUT>)
 	        }
 		if ($hnum < $truehnum)
 		{
-		    print STDERR "$lnum, entry $entry, hnum: bad for $hw.  Should be >= $truehnum not $hnum\n\t$oline";
+		    print STDERR "$lnum, entry $entry, hnum: bad for $hw. Should be >= $truehnum not $hnum\n\t$oline";
 		}
 	    }
 	    elsif ($truehnum > 1)
 	    {
-		print STDERR "$lnum, entry $entry, hnum: bad for $hw.  Should be >= $truehnum not missing\n\t$oline";
+		print STDERR "$lnum, entry $entry, hnum: bad for $hw. Should be >= $truehnum not missing\n\t$oline";
 	    }
 
 	    if ($kevinformat)
 	    {
 		# giving TYPE="SUB" twice is a bit nasty but happens for
-		# historical reasons.  Kirrkirr uses one in HW.
+		# historical reasons. Kirrkirr uses one in HW.
 		if ($hnumcnt{$hw} > 1)
 		{
 		    # use truehnum
@@ -721,7 +721,7 @@ while ($line = <INPUT>)
 	    $glossed = 1;
 	    $glossedStr = $glossedStr . "o";
 	}
-    }
+nn    }
     elsif ($line =~ /^\\rv /)
     {
 	$string = &standardhandling($line, "rv", 1);
@@ -742,6 +742,11 @@ while ($line = <INPUT>)
 	{
 	    print "<$uwhat>$string</$uwhat>\n";
 	}
+    }
+    # ignore images, we do our own
+    elsif ($line =~ /^\\(img) /)
+    {
+      # do nothing
     }
     elsif ($line =~ /^[ \t]*$/)
     {
@@ -1201,7 +1206,7 @@ if ($str ne "")
 }
 
 sub heuristicclose
-# tries to close something when sees end tag.  Hopefully the right thing.
+# tries to close something when sees end tag. Hopefully the right thing.
 # uses @instack context global variable
 {
     local($tag) = shift(@_);
@@ -1464,7 +1469,7 @@ sub fixupline
     $line =~ s/\x88/./g;
     $line =~ s/[\x02\x05]//g;
     # latin angle brackets first recode
-    $line =~ s/\\l<([^>]*)>/\{LATIN\}\1\{\/LATIN\}/g;
+    $line =~ s/[\\#]l<([^>]*)>/\{LATIN\}\1\{\/LATIN\}/g;
     $line =~ s/\@l<([^>]*)>/\{LATIN\}\1\{\/LATIN\}/g;
     $line =~ s/\#j<([^>]*)>/\{BOLD\}\1\{\/BOLD\}/g;
     if ($line =~ /^\\wed? /)
@@ -1538,7 +1543,7 @@ sub fixupline
 
 sub parseentryline
 # this mainly uses local variables, and returns a list of them for further
-# processing.  However $entry is set as a global variable, so that all 
+# processing. However $entry is set as a global variable, so that all
 # error reports automatically refer to the right word.
 
 {
@@ -1730,7 +1735,7 @@ sub buildhnumcnts
 	# \me Main entry lines
 	if ($line =~ /^\\me /)
 	{
-	    if ($line =~ /^\\me +([-=a-zA-Z()]+ ?[-=a-z()]+)[ *]/)
+	    if ($line =~ /^\\me +([-\[\]=a-zA-Z()]+ ?[-=a-z()]+)[ *]/)
 	    {
 		$hw=$1;
 		if ($hnumcnt{$hw})
@@ -1745,7 +1750,7 @@ sub buildhnumcnts
 	    }
 	    else
 	    {
-		print STDERR "buildhnumcnts: Shouldn't happen.  Couldn't handle:\n\t$line";
+		print STDERR "buildhnumcnts: Shouldn't happen. Couldn't handle:\n\t$line";
 	    }
 	}
 	elsif ($line =~ /^\\sse/)
@@ -1771,7 +1776,7 @@ sub buildhnumcnts
 	    }
 	    else
 	    {
-		print STDERR "buildhnumcnts: Shouldn't happen.  Couldn't handle:\n\t$line";
+		print STDERR "buildhnumcnts: Shouldn't happen. Couldn't handle:\n\t$line";
 	    }
 	}
     }
@@ -1854,17 +1859,17 @@ sub putinct
     local($hnum);
     local($attrs) = "";
 
-    while ($line =~ /<([-=ABD-Za-z .,!?\/()*#'+"\{\}]+)>/)
+    while ($line =~ /< ?((?:[-=ABD-Za-z']|C[^T])[-=A-Za-z .,!?\/()*#'+"\{\}]*)>/)
     {
-        # print STDERR "PUTINCT: line is $line\n";
+        # print STDERR "PUTINCT: |$1| line is $line\n";
         # do one at a time
-        if ($line =~ /<([-=ABD-Za-z .,!?\/()*#'+"\{\}]+)>\*([#1-9])\*(%[#0-9]%)?/)
+        if ($line =~ /< ?((?:[-=ABD-Za-z']|C[^T])[-=A-Za-z .,!?\/()*#'+"\{\}]*)>\*([#1-9])\*(%[#0-9]%)?/)
         {
 	    ($word, $hnum) = verifyword($1, $2, 0);
         }
         else 
         {
-	    $line =~ /<([-=ABD-Za-z .,!?\/()*#'+"\{\}]+)>/;
+	    $line =~ /< ?((?:[-=ABD-Za-z']|C[^T])[-=A-Za-z .,!?\/()*#'+"\{\}]*)>/;
 	    ($word, $hnum) = verifyword($1, 0, 0);
         }
         if ($word)
@@ -1887,7 +1892,7 @@ sub putinct
         # {
         #	print " SNUM=\"$snum\"";
         # }
-        $line =~ s/<([-=ABD-Za-z .,!?\/()*#'+"\{\}]+)>(\*[#1-9]\*)?(%[#0-9]%)?/<CT${attrs}>\1<\/CT>/;
+        $line =~ s/< ?((?:[-=ABD-Za-z']|C[^T])[-=A-Za-z .,!?\/()*#'+"\{\}]*)>(\*[#1-9]\*)?(%[#0-9]%)?/<CT${attrs}>\1<\/CT>/;
     }
 }
 
