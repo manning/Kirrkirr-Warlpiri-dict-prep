@@ -7,3 +7,6 @@ copycurrent: Warlpiri-pictures.csv
 
 testimages: Warlpiri-pictures.csv ../data/wrl-proc/newWrl.xml
 	python incorp-pics.py Warlpiri-pictures.csv ../data/wrl-proc/newWrl.xml foo.xml "/Users/manning/Kirrkirr/WarlpiriKirrkirr/Kirrkirr404/Kirrkirr 4.0.4 Warlpiri/Warlpiri2018/images"
+
+kirrkirr-images:
+	python prepare-pics.py /Users/manning/Kirrkirr/PiccyBank/Warlpiri-pictures.csv  /Users/manning/Kirrkirr/PiccyBank

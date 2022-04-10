@@ -32,6 +32,7 @@ creditsIdx = 4    # E
 processingIdx = 5    # F
 firstWordIdx = 10  # K
 originals = "ORIGINALS"
+font = 'AvantGarde-Book'
 
 # Read pictures database and make dict from files to lines of CSV file
 # Filenames are assumed to be globally unique
@@ -67,6 +68,11 @@ jpeg_quality = 92
 processed_pics = 0
 pcrop = re.compile('^crop\(([0-9]+);([0-9]+);([0-9]+);([0-9]+)\)')
 
+parent = pathlib.Path(__file__).resolve().parent
+autotrim_path = str(parent.joinpath('autotrim'))
+autotone_path = str(parent.joinpath('autotone'))
+# convert (imagemagick) is assumed on path
+
 for collection in collections:
     print("Processing {}".format(collection))
     path = os.path.join(piccybank, collection)
@@ -94,13 +100,13 @@ for collection in collections:
                     print(completed.stderr)
                 current_file = 'xyzzy3.jpg'
         if "trim" in imageProcessing:
-            completed = subprocess.run(['autotrim', '-f', '12', filepath, 'xyzzy1.jpg'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            completed = subprocess.run([autotrim_path, '-f', '12', filepath, 'xyzzy1.jpg'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             # print(completed.stdout)
             if completed.stderr != b'':
                 print(completed.stderr)
             current_file = 'xyzzy1.jpg'
         if "autotone" in imageProcessing:
-            completed = subprocess.run(['autotone', '-n', '-s', current_file, 'xyzzy2.jpg'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            completed = subprocess.run([autotone_path, '-n', '-s', current_file, 'xyzzy2.jpg'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             # print(completed.stdout)
             if completed.stderr != b'':
                 print(completed.stderr)
@@ -120,7 +126,7 @@ for collection in collections:
                 if place >= 0:
                     copyright = copyright[0:place] + '  \n  ' + copyright[place+1:]
             completed = subprocess.run(['convert', current_file, '-colorspace', 'RGB', '-resize', resize_dims,
-                                        '-colorspace', 'sRGB', '-fill', 'white', '-undercolor', '#00000060', '-font', 'Arial',
+                                        '-colorspace', 'sRGB', '-fill', 'white', '-undercolor', '#00000060', '-font', font,
                                         '-pointsize', '18', '-gravity', 'SouthWest', '-annotate', '+0+3', copyright,
                                         '-quality', str(jpeg_quality), output_filename], 
                                                stdout=subprocess.PIPE, stderr=subprocess.PIPE)

@@ -529,7 +529,7 @@ while ($line = <INPUT>)
 	&endnotrail($line);
 	&heuristicclose("sse", "sse");
     }
-    elsif ($line =~ /^\\(lato|lat|rul|refa|ref|cmp|def|cm|csl|xs|note) /)
+    elsif ($line =~ /^\\(lato?|rul|refa|ref|cmpo?|def|cmo?|csl|xs|note) /)
     {
 	$what = $1;
 	$uwhat = $what;
@@ -548,9 +548,9 @@ while ($line = <INPUT>)
 	    # print "</PDX>\n";
         }
 	push(@instack, "pdx");
-	if ($line =~ s/\\ecm *$//)
+	if ($line =~ s/\\ecmo? *$//)
 	{
-	    print STDERR "$lnum, entry $entry, pdx: unexpected \\ecm at end of line [deleted!]\n\t$oline";
+	    print STDERR "$lnum, entry $entry, pdx: unexpected \\ecmo? at end of line [deleted!]\n\t$oline";
 	    # print "</PDX>\n";
         }
 	if ($line =~ /^\\pdxs? +(\([A-Za-z,]*\))?([^(].*)$/)
@@ -1460,10 +1460,11 @@ sub fixupline
 	}
     }
     # charset
-    if ($line !~ /^[ !-~“”\pL\pP\pM\pS\pN]*$/ && $showerr)
-    {
-        print STDERR "$lnum, entry $entry, warning: Line contains character that is not printable:\n\t$oline";
-    }
+    # I don't understand how to get Perl to understand UTF-8, but at the moment this is just producing noise!
+    # if ($line !~ /^[ !-~“”\pL\pP\pM\pS\pN]*$/ && $showerr)
+    # {
+    #     print STDERR "$lnum, entry $entry, warning: Line contains character that is not printable:\n\t$oline";
+    # }
     $line =~ s/\xC9/.../g;
     $line =~ s/\x87/./g;
     $line =~ s/\x88/./g;
@@ -1481,9 +1482,11 @@ sub fixupline
     $line =~ s/&/&amp;/g;
     # other language (warlpiri<->english) cite in angle brackets 
     # - must be before introduce SGML brackets!
-    if ($line !~ /^\\lato? / && $line =~ /<[-=A-Za-z .,!?\/()*#'+"\{\}]+>/)
+    # used to be but moved lat(o) down with cmp in 2020
+    # if ($line !~ /^\\lato? / && $line =~ /<[-=A-Za-z .,!?\/()*#'+"\{\}]+>/)
+    if ($line =~ /<[-=A-Za-z .,!?\/()*#'+"\{\}]+>/)
     {
-        if ($line =~ /^\\cmp /)
+        if ($line =~ /^\\(?:cmpo?|lato?) /)
         {
             $line =~ s/<([^>]*)>/\{BOLD\}\1\{\/BOLD\}/g;
         }
