@@ -1585,7 +1585,7 @@ sub parseentryline
     {
 	print STDERR "$lnum, entry $entry, $etype: missing space between headword and POS [corrected!]:\n\t$oline";
     }
-    if ($line =~ /^\\${etype} +([-=a-zA-Z()\[\]]+(?: +[A-Z)-]*[-=a-z()]+)*)( *\*[0-9#]+\*)? +(.*)$/)
+    if ($line =~ /^\\${etype} +([-=a-zA-Z()\[\]]+(?: +[a-zA-Z)-]*[-=A-Za-z()\]]+)*)( *\*[0-9#]+\*)? +(.*)$/)
     {
 	$hw=$1;
 	if ($etype ne "se")
